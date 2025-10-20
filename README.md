@@ -16,6 +16,7 @@ large project/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+```
 
 ## Set up du projet
 
