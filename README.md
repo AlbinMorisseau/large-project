@@ -10,15 +10,18 @@ The aim of this project is to implement a tool for making recommendations to tra
 ```
 large project/
 ├── data/
+|   ├── original/
 │   └── processed/
 ├── notebooks/
+|   ├── eda/ 
+|   └── draft/
 ├── src/  
 ├── .gitignore
 ├── requirements.txt
 └── README.md
 ```
 
-## Set up du projet
+## Project set up
 
 1.  **Clone the repository:**
     ```bash
