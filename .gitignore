@@ -8,3 +8,4 @@ __pycache__/
 .vscode/
 data/original/*
 data/processed/*
+m2m100_418M/*
