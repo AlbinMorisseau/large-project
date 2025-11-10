@@ -162,15 +162,15 @@ class AccessibleGoScraper:
             if text:
                 return text
         
-        # 2. truncated_content (archives - main source according to your example)
-        if 'truncated_content' in record and record['truncated_content']:
-            text = self.clean_html(record['truncated_content'])
-            if text:
-                return text
-        
-        # 3. body_trix_content (solution de repli)
+        # 2. body_trix_content (solution de repli)
         if 'body_trix_content' in record and record['body_trix_content']:
             text = self.clean_html(record['body_trix_content'])
+            if text:
+                return text
+            
+        # 3. truncated_content (archives - main source according to your example)
+        if 'truncated_content' in record and record['truncated_content']:
+            text = self.clean_html(record['truncated_content'])
             if text:
                 return text
         
@@ -453,9 +453,10 @@ class AccessibleGoScraper:
 if __name__ == "__main__":
     
     # Configuration
-    scraper = AccessibleGoScraper(output_file="accessiblego_reviews_complete.csv")
+    scraper = AccessibleGoScraper(output_file="../data/original/dataset/data_accessiblego.csv")
     
     # Scrap everything (feed + archives)
     scraper.run(scrape_feed=True, scrape_archives=True)
+    #scraper.run(scrape_feed=False, scrape_archives=True)
     
     # scraper.run(scrape_feed=True, scrape_archives=True, start_page=10, max_pages= 20)
