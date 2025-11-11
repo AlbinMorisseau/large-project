@@ -9,3 +9,5 @@ __pycache__/
 data/original/*
 data/processed/*
 m2m100_418M/*
+notebooks/draft/results/*
+notebooks/draft/*.json
