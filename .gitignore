@@ -8,6 +8,7 @@ __pycache__/
 .vscode/
 data/original/*
 data/processed/*
-m2m100_418M/*
+models/*
+src/review_validator_session.json
 notebooks/draft/results/*
 notebooks/draft/*.json
