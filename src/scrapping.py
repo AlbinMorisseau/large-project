@@ -453,7 +453,7 @@ class AccessibleGoScraper:
 if __name__ == "__main__":
     
     # Configuration
-    scraper = AccessibleGoScraper(output_file="accessiblego_reviews_complete.csv")
+    scraper = AccessibleGoScraper(output_file="../data/original/dataset/data_accessiblego.csv")
     
     # Scrap everything (feed + archives)
     scraper.run(scrape_feed=True, scrape_archives=True)
