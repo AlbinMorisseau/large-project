@@ -23,78 +23,78 @@ class ReviewValidator:
         self.check_existing_session()
     
     def setup_ui(self):
-        # Frame principal
+        # ain frame
         main_frame = ttk.Frame(self.root, padding="10")
         main_frame.grid(row=0, column=0, sticky=(tk.W, tk.E, tk.N, tk.S))
         
-        # Frame de configuration
+        # Configuration frame
         config_frame = ttk.LabelFrame(main_frame, text="Configuration", padding="10")
         config_frame.grid(row=0, column=0, columnspan=2, pady=10, sticky=(tk.W, tk.E))
         
-        # Pourcentage à valider
-        ttk.Label(config_frame, text="Pourcentage à valider:").grid(row=0, column=0, padx=5, sticky=tk.W)
+        # Purcentage to validate
+        ttk.Label(config_frame, text="Purcentage to validate:").grid(row=0, column=0, padx=5, sticky=tk.W)
         self.percentage_var = tk.StringVar(value="10")
         self.percentage_entry = ttk.Entry(config_frame, textvariable=self.percentage_var, width=10)
         self.percentage_entry.grid(row=0, column=1, padx=5)
         ttk.Label(config_frame, text="%").grid(row=0, column=2, sticky=tk.W)
         
-        # Choix aléatoire ou séquentiel
-        ttk.Label(config_frame, text="Mode de sélection:").grid(row=1, column=0, padx=5, pady=5, sticky=tk.W)
+        # Random choice or sequential
+        ttk.Label(config_frame, text="Selection mode:").grid(row=1, column=0, padx=5, pady=5, sticky=tk.W)
         self.selection_mode = tk.StringVar(value="random")
-        self.random_radio = ttk.Radiobutton(config_frame, text="Aléatoire", 
+        self.random_radio = ttk.Radiobutton(config_frame, text="Random", 
                                             variable=self.selection_mode, value="random",
                                             command=self.toggle_start_index)
         self.random_radio.grid(row=1, column=1, padx=5, sticky=tk.W)
-        self.sequential_radio = ttk.Radiobutton(config_frame, text="Séquentiel", 
+        self.sequential_radio = ttk.Radiobutton(config_frame, text="Sequential", 
                                                 variable=self.selection_mode, value="sequential",
                                                 command=self.toggle_start_index)
         self.sequential_radio.grid(row=1, column=2, padx=5, sticky=tk.W)
         
-        # Indice de départ (seulement pour mode séquentiel)
-        ttk.Label(config_frame, text="Indice de départ:").grid(row=2, column=0, padx=5, pady=5, sticky=tk.W)
+        # Beginning index (only for sequential)
+        ttk.Label(config_frame, text="begining index:").grid(row=2, column=0, padx=5, pady=5, sticky=tk.W)
         self.start_index_var = tk.StringVar(value="0")
         self.start_index_entry = ttk.Entry(config_frame, textvariable=self.start_index_var, 
                                            width=10, state=tk.DISABLED)
         self.start_index_entry.grid(row=2, column=1, padx=5)
         
-        # Bouton pour charger le fichier
-        self.load_btn = ttk.Button(main_frame, text="Charger un fichier CSV", 
+        # Button to load a CSV
+        self.load_btn = ttk.Button(main_frame, text="Load a CSV file", 
                                     command=self.load_csv)
         self.load_btn.grid(row=1, column=0, columnspan=2, pady=10)
         
-        # Label de progression
-        self.progress_label = ttk.Label(main_frame, text="Charger un fichier pour commencer")
+        # Label progression
+        self.progress_label = ttk.Label(main_frame, text="Load a file to begin with.")
         self.progress_label.grid(row=2, column=0, columnspan=2, pady=5)
         
-        # Zone de texte pour afficher la review
-        self.text_frame = ttk.LabelFrame(main_frame, text="Review (modifiable)", padding="10")
+        # Text zone to print the review
+        self.text_frame = ttk.LabelFrame(main_frame, text="Review ", padding="10")
         self.text_frame.grid(row=3, column=0, columnspan=2, pady=10, sticky=(tk.W, tk.E, tk.N, tk.S))
         
         self.review_text = tk.Text(self.text_frame, wrap=tk.WORD, height=20, 
                                     font=("Arial", 11))
         self.review_text.grid(row=0, column=0, sticky=(tk.W, tk.E, tk.N, tk.S))
         
-        # Scrollbar pour le texte
+        # Scrollbar
         scrollbar = ttk.Scrollbar(self.text_frame, orient=tk.VERTICAL, 
                                   command=self.review_text.yview)
         scrollbar.grid(row=0, column=1, sticky=(tk.N, tk.S))
         self.review_text.config(yscrollcommand=scrollbar.set)
         
-        # Frame pour les boutons de validation
+        # Frame for validation buttons
         button_frame = ttk.Frame(main_frame)
         button_frame.grid(row=4, column=0, columnspan=2, pady=20)
         
-        # Bouton "Rejeter"
-        self.reject_btn = ttk.Button(button_frame, text="❌ Rejeter", 
+        # Button "Reject"
+        self.reject_btn = ttk.Button(button_frame, text="❌ Reject", 
                                       command=self.reject_review, state=tk.DISABLED)
         self.reject_btn.grid(row=0, column=0, padx=10, ipadx=20, ipady=10)
         
-        # Bouton "Valider"
-        self.validate_btn = ttk.Button(button_frame, text="✓ Valider", 
+        # Button "Validate"
+        self.validate_btn = ttk.Button(button_frame, text="✓ Validate", 
                                         command=self.validate_review, state=tk.DISABLED)
         self.validate_btn.grid(row=0, column=1, padx=10, ipadx=20, ipady=10)
         
-        # Configuration du redimensionnement
+        # Dimension configuration
         self.root.columnconfigure(0, weight=1)
         self.root.rowconfigure(0, weight=1)
         main_frame.columnconfigure(0, weight=1)
@@ -102,7 +102,7 @@ class ReviewValidator:
         self.text_frame.columnconfigure(0, weight=1)
         self.text_frame.rowconfigure(0, weight=1)
         
-        # Gérer la fermeture de la fenêtre
+        # Closing event
         self.root.protocol("WM_DELETE_WINDOW", self.on_closing)
     
     def toggle_start_index(self):
@@ -112,70 +112,70 @@ class ReviewValidator:
             self.start_index_entry.config(state=tk.DISABLED)
     
     def check_existing_session(self):
-        """Vérifie s'il existe une session en cours à reprendre"""
+        """Verify if there is an exisiitng session"""
         session_file = "review_validator_session.json"
         if os.path.exists(session_file):
             try:
                 with open(session_file, 'r', encoding='utf-8') as f:
                     session_data = json.load(f)
                 
-                # Vérifier que le fichier CSV existe toujours
+                # verify that the CSV file still exist
                 if os.path.exists(session_data['input_file_path']):
                     response = messagebox.askyesno(
-                        "Session trouvée",
-                        f"Une session en cours a été trouvée pour:\n{session_data['input_file_path']}\n\n"
+                        "Session found",
+                        f"A session has been found for:\n{session_data['input_file_path']}\n\n"
                         f"Progression: {session_data['current_index']}/{session_data['total_reviews']} reviews\n"
-                        f"Validées: {len(session_data['validated_reviews'])}\n"
-                        f"Rejetées: {len(session_data['rejected_reviews'])}\n\n"
-                        f"Voulez-vous reprendre cette session?"
+                        f"Validated: {len(session_data['validated_reviews'])}\n"
+                        f"Rejected: {len(session_data['rejected_reviews'])}\n\n"
+                        f"Do you want to keep working on this session ?"
                     )
                     
                     if response:
                         self.load_session(session_data)
                     else:
-                        # Supprimer la session si l'utilisateur ne veut pas reprendre
+                        # supress the session if not
                         os.remove(session_file)
                 else:
-                    # Le fichier n'existe plus, supprimer la session
+                    # supress session if CSV file is note here anymore
                     os.remove(session_file)
             except Exception as e:
-                print(f"Erreur lors de la lecture de la session: {e}")
+                print(f"CSV loading error: {e}")
                 if os.path.exists(session_file):
                     os.remove(session_file)
     
     def load_session(self, session_data):
-        """Charge une session sauvegardée"""
+        """Load a saved session"""
         try:
             self.input_file_path = session_data['input_file_path']
             self.df = pd.read_csv(self.input_file_path)
             
-            # Restaurer la configuration
+            # Reload configuration
             self.percentage_var.set(str(session_data['percentage']))
             self.selection_mode.set(session_data['selection_mode'])
             self.start_index_var.set(str(session_data['start_index']))
             self.toggle_start_index()
             
-            # Restaurer les données de validation
+            # Reload validation data
             self.sample_indices = session_data['sample_indices']
             self.current_index = session_data['current_index']
             self.validated_reviews = session_data['validated_reviews']
             self.rejected_reviews = session_data['rejected_reviews']
             
-            # Activer les boutons
+            # Activate buttons
             self.validate_btn.config(state=tk.NORMAL)
             self.reject_btn.config(state=tk.NORMAL)
             
-            # Afficher la review courante
+            # Print current review
             self.display_current_review()
             
-            messagebox.showinfo("Session restaurée", 
-                f"Session restaurée avec succès!\n"
-                f"Reprise à la review {self.current_index + 1}/{len(self.sample_indices)}")
+            messagebox.showinfo("Session reloaded", 
+                f"Session reloaded with success !\n"
+                f"Keep going from review {self.current_index + 1}/{len(self.sample_indices)}")
         except Exception as e:
-            messagebox.showerror("Erreur", f"Erreur lors de la restauration de la session: {str(e)}")
+            messagebox.showerror("Error", f"Error while reloading session: {str(e)}")
     
     def save_session(self):
-        """Sauvegarde la session en cours"""
+        """Save current session"""
         if self.df is None or self.input_file_path is None:
             return
         
@@ -196,74 +196,74 @@ class ReviewValidator:
             with open(session_file, 'w', encoding='utf-8') as f:
                 json.dump(session_data, f, ensure_ascii=False, indent=2)
         except Exception as e:
-            print(f"Erreur lors de la sauvegarde de la session: {e}")
+            print(f"Error while saving the session: {e}")
     
     def clear_session(self):
-        """Supprime le fichier de session"""
+        """Delete session file"""
         session_file = "review_validator_session.json"
         if os.path.exists(session_file):
             try:
                 os.remove(session_file)
             except Exception as e:
-                print(f"Erreur lors de la suppression de la session: {e}")
+                print(f"Error while supressing session file: {e}")
     
     def on_closing(self):
-        """Gère la fermeture de l'application"""
+        """Application closing gestion"""
         if self.df is not None and self.current_index < len(self.sample_indices):
-            # Il y a une session en cours non terminée
+            # if there is an active session
             response = messagebox.askyesnocancel(
-                "Quitter",
-                "Voulez-vous sauvegarder votre progression avant de quitter?\n\n"
-                "Oui: Sauvegarder et quitter\n"
-                "Non: Quitter sans sauvegarder\n"
-                "Annuler: Continuer à travailler"
+                "Leaving",
+                "Do you want to save your current state before leaving ?\n\n"
+                "Yes\n"
+                "No:\n"
+                "Cancel: Continue to work"
             )
             
-            if response is None:  # Annuler
+            if response is None:  # Cancel
                 return
-            elif response:  # Oui, sauvegarder
+            elif response:  # Yes, save
                 self.save_session()
                 self.save_progress_files()
-            else:  # Non, ne pas sauvegarder
+            else:  # No, don't save
                 self.clear_session()
         
         self.root.destroy()
     
     def save_progress_files(self):
-        """Sauvegarde les fichiers de progression intermédiaire"""
-        # Créer le dossier de destination s'il n'existe pas
+        """save intermediate progresses"""
+        # Creat destination file if it does not exist
         output_dir = os.path.join("..","data", "processed", "validation")
         os.makedirs(output_dir, exist_ok=True)
         
-        # Récupérer le nom du fichier original sans extension
+        # get file name  without extension
         base_name = os.path.splitext(os.path.basename(self.input_file_path))[0]
         
-        # Sauvegarder les reviews validées
+        # save validated reviews
         if len(self.validated_reviews) > 0:
             validated_df = pd.DataFrame(self.validated_reviews)
             positive_path = os.path.join(output_dir, f"{base_name}_positive.csv")
             validated_df.to_csv(positive_path, index=False)
         
-        # Sauvegarder les reviews rejetées
+        # Save rejected reviews
         if len(self.rejected_reviews) > 0:
             rejected_df = pd.DataFrame(self.rejected_reviews)
             negative_path = os.path.join(output_dir, f"{base_name}_negative.csv")
             rejected_df.to_csv(negative_path, index=False)
     
     def load_csv(self):
-        # Effacer la session en cours si on charge un nouveau fichier
+        # Erase current session if loading a new CSV file
         if self.df is not None:
             response = messagebox.askyesno(
-                "Charger un nouveau fichier",
-                "Charger un nouveau fichier effacera la session en cours.\n"
-                "Voulez-vous continuer?"
+                "Loading a new file",
+                "Loading a new file will erase the current session.\n"
+                "Do you want to continue ?"
             )
             if not response:
                 return
             self.clear_session()
         
         file_path = filedialog.askopenfilename(
-            title="Sélectionner un fichier CSV",
+            title="Select a CSV file",
             filetypes=[("CSV files", "*.csv"), ("All files", "*.*")]
         )
         
@@ -275,35 +275,35 @@ class ReviewValidator:
             self.input_file_path = file_path
             
             if 'review' not in self.df.columns:
-                messagebox.showerror("Erreur", 
-                    "Le fichier ne contient pas de colonne 'review'")
+                messagebox.showerror("Error", 
+                    "Le file does not contains 'review' column")
                 return
             
-            # Valider le pourcentage
+            # Validate purcentage
             try:
                 percentage = float(self.percentage_var.get())
                 if percentage <= 0 or percentage > 100:
                     raise ValueError()
             except ValueError:
-                messagebox.showerror("Erreur", 
-                    "Le pourcentage doit être un nombre entre 0 et 100")
+                messagebox.showerror("Error", 
+                    "Purcentage must be between 0 and 100")
                 return
             
-            # Calculer le nombre d'échantillons
+            # Calculate sample size
             sample_size = max(1, int(len(self.df) * percentage / 100))
             
-            # Sélectionner les indices selon le mode
+            # Select indexes depending on the mode
             if self.selection_mode.get() == "random":
                 self.sample_indices = random.sample(range(len(self.df)), sample_size)
             else:
-                # Mode séquentiel
+                # Sequential mode
                 try:
                     start_idx = int(self.start_index_var.get())
                     if start_idx < 0 or start_idx >= len(self.df):
                         raise ValueError()
                 except ValueError:
-                    messagebox.showerror("Erreur", 
-                        f"L'indice de départ doit être entre 0 et {len(self.df)-1}")
+                    messagebox.showerror("Error", 
+                        f"The starting index must be between 0 and {len(self.df)-1}")
                     return
                 
                 end_idx = min(start_idx + sample_size, len(self.df))
@@ -313,44 +313,44 @@ class ReviewValidator:
             self.validated_reviews = []
             self.rejected_reviews = []
             
-            # Activer les boutons
+            # Buttons activation
             self.validate_btn.config(state=tk.NORMAL)
             self.reject_btn.config(state=tk.NORMAL)
             
-            # Afficher la première review
+            # Print first review
             self.display_current_review()
             
-            mode_text = "aléatoire" if self.selection_mode.get() == "random" else "séquentiel"
-            messagebox.showinfo("Succès", 
-                f"Fichier chargé avec succès!\n{len(self.sample_indices)} reviews à valider "
-                f"({percentage}% du total)\nMode: {mode_text}")
+            mode_text = "random" if self.selection_mode.get() == "random" else "sequential"
+            messagebox.showinfo("Sucess", 
+                f"File loaded with success \n{len(self.sample_indices)} reviews to validate "
+                f"({percentage}% of total)\nMode: {mode_text}")
             
         except Exception as e:
-            messagebox.showerror("Erreur", f"Erreur de chargement: {str(e)}")
+            messagebox.showerror("Error", f"Loading error: {str(e)}")
     
     def display_current_review(self):
         if self.current_index >= len(self.sample_indices):
             self.finish_validation()
             return
         
-        # Obtenir l'indice dans le dataframe original
+        # get original index from the dataframe
         original_index = self.sample_indices[self.current_index]
         review = self.df.loc[original_index, 'review']
         
-        # Mettre à jour le label de progression
+        # Update label progression
         self.progress_label.config(
             text=f"Review {self.current_index + 1}/{len(self.sample_indices)} - "
                  f"Indice original: {original_index}"
         )
         
-        # Afficher la review (éditable)
+        # Print the review
         self.review_text.config(state=tk.NORMAL)
         self.review_text.delete(1.0, tk.END)
         self.review_text.insert(1.0, str(review))
     
     def validate_review(self):
         original_index = self.sample_indices[self.current_index]
-        # Récupérer le texte (potentiellement modifié)
+        # Get the text
         review = self.review_text.get(1.0, tk.END).strip()
         
         self.validated_reviews.append({
@@ -359,13 +359,13 @@ class ReviewValidator:
         })
         
         self.current_index += 1
-        # Sauvegarder la session après chaque validation
+        # Save the session after validation
         self.save_session()
         self.display_current_review()
     
     def reject_review(self):
         original_index = self.sample_indices[self.current_index]
-        # Récupérer le texte (potentiellement modifié)
+        # Get the text
         review = self.review_text.get(1.0, tk.END).strip()
         
         self.rejected_reviews.append({
@@ -374,53 +374,53 @@ class ReviewValidator:
         })
         
         self.current_index += 1
-        # Sauvegarder la session après chaque rejet
+        # Save the session after each reject
         self.save_session()
         self.display_current_review()
     
     def finish_validation(self):
-        # Créer le dossier de destination s'il n'existe pas
+        # Create the destination folder if it does note exists
         output_dir = os.path.join("data", "processes", "validation")
         os.makedirs(output_dir, exist_ok=True)
         
-        # Récupérer le nom du fichier original sans extension
+        # Get the original file name without extension
         base_name = os.path.splitext(os.path.basename(self.input_file_path))[0]
         positive_path = os.path.join(output_dir, f"{base_name}_positive.csv")
         negative_path = os.path.join(output_dir, f"{base_name}_negative.csv")
         
-        # Sauvegarder les reviews validées
+        # Save the validated reviews
         if len(self.validated_reviews) > 0:
             validated_df = pd.DataFrame(self.validated_reviews)
             validated_df.to_csv(positive_path, index=False)
         
-        # Sauvegarder les reviews rejetées
+        # Save the rejected reviews
         if len(self.rejected_reviews) > 0:
             rejected_df = pd.DataFrame(self.rejected_reviews)
             rejected_df.to_csv(negative_path, index=False)
         
-        # Supprimer la session terminée
+        # Delete the ended session
         self.clear_session()
         
-        # Message de confirmation
-        message = "Validation terminée!\n\n"
+        # Confirmation message
+        message = "Validation ended!\n\n"
         if len(self.validated_reviews) > 0:
-            message += f"✓ {len(self.validated_reviews)} reviews validées sauvegardées dans:\n{positive_path}\n\n"
+            message += f"✓ {len(self.validated_reviews)} validated reviews saved in:\n{positive_path}\n\n"
         if len(self.rejected_reviews) > 0:
-            message += f"✗ {len(self.rejected_reviews)} reviews rejetées sauvegardées dans:\n{negative_path}"
+            message += f"✗ {len(self.rejected_reviews)} rejected reviews saved in:\n{negative_path}"
         
         if len(self.validated_reviews) == 0 and len(self.rejected_reviews) == 0:
-            message = "Validation terminée!\nAucune review traitée."
+            message = "Validation ended !\nNo reviews processed."
         
-        messagebox.showinfo("Terminé", message)
+        messagebox.showinfo("Ended", message)
         
-        # Désactiver les boutons
+        # Deactivate buttons
         self.validate_btn.config(state=tk.DISABLED)
         self.reject_btn.config(state=tk.DISABLED)
-        self.progress_label.config(text="Validation terminée")
+        self.progress_label.config(text="Validation ended")
         self.review_text.config(state=tk.NORMAL)
         self.review_text.delete(1.0, tk.END)
 
-# Créer et lancer l'application
+# Create and launch the app
 if __name__ == "__main__":
     root = tk.Tk()
     app = ReviewValidator(root)
