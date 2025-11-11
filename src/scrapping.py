@@ -422,6 +422,51 @@ class AccessibleGoScraper:
         for src, count in sorted(source_counts.items()):
             logger.info(f"  - {src}: {count} reviews")
     
+    def clean_reviews_text(self, reviews: List[Dict]) -> List[Dict]:
+        """
+        Nettoie le texte des reviews en supprimant les retours à la ligne
+        pour garantir une ligne = une review dans le CSV.
+        """
+        cleaned_reviews = []
+        
+        for review in reviews:
+            cleaned_review = review.copy()
+            
+            # Remplacer tous les retours à la ligne par des espaces
+            if 'text' in cleaned_review and cleaned_review['text']:
+                # Remplacer \n, \r\n, \r par des espaces
+                text = cleaned_review['text'].replace('\r\n', ' ').replace('\n', ' ').replace('\r', ' ')
+                # Normaliser les espaces multiples
+                text = ' '.join(text.split())
+                cleaned_review['text'] = text.strip()
+            
+            cleaned_reviews.append(cleaned_review)
+        
+        logger.info(f"Nettoyage effectué: {len(cleaned_reviews)} reviews nettoyées")
+        return cleaned_reviews
+
+
+    def verify_csv_integrity(self):
+        """
+        Vérifie l'intégrité du CSV en comptant le nombre réel de lignes.
+        Compare avec le nombre attendu de reviews.
+        """
+        try:
+            with open(self.output_file, 'r', encoding='utf-8') as f:
+                reader = csv.reader(f)
+                lines = sum(1 for _ in reader)
+                # -1 pour l'en-tête
+                actual_reviews = lines - 1
+            
+            logger.info(f"Vérification CSV: {actual_reviews} lignes de reviews dans {self.output_file}")
+            return actual_reviews
+        
+        except IOError as e:
+            logger.error(f"Erreur lors de la vérification du CSV: {e}")
+            return None
+
+
+    # Modification de la méthode run() - à remplacer dans votre classe
     def run(self, scrape_feed: bool = True, scrape_archives: bool = True,
             start_page: int = 1, max_pages: Optional[int] = None):
         """Execute full scrapping of accessibleGO"""
@@ -441,8 +486,23 @@ class AccessibleGoScraper:
             archive_reviews = self.scrape_all_archives(start_page, max_pages)
             all_reviews.extend(archive_reviews)
         
-        # saving and stats printing
+        # NOUVEAU: Nettoyage des reviews avant sauvegarde
+        logger.info("\nNettoyage des retours à la ligne dans les reviews...")
+        all_reviews = self.clean_reviews_text(all_reviews)
+        
+        # saving
         self.save_to_csv(all_reviews)
+        
+        # NOUVEAU: Vérification de l'intégrité du CSV
+        actual_count = self.verify_csv_integrity()
+        if actual_count and actual_count != len(all_reviews):
+            logger.warning(f"⚠️ ATTENTION: Différence détectée!")
+            logger.warning(f"   Reviews collectées: {len(all_reviews)}")
+            logger.warning(f"   Lignes dans le CSV: {actual_count}")
+        else:
+            logger.info(f"✓ Intégrité vérifiée: {len(all_reviews)} reviews = {actual_count} lignes CSV")
+        
+        # stats printing
         self.print_statistics(all_reviews)
         
         logger.info("\n" + "=" * 60)

@@ -12,3 +12,4 @@ models/*
 src/review_validator_session.json
 notebooks/draft/results/*
 notebooks/draft/*.json
+.env
