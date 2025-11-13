@@ -2,16 +2,20 @@
     "handicap": [
         "handicap", "wheelchair", "accessible", "braille", "ramp", "lift", "elevator",
         "disabled", "barrier-free", "accessible toilet", "toilet accessible",
-        "mobility aid", "adapted", "hearing aid", "visual impairment", "accessible entrance"
+        "mobility aid", "adapted", "hearing aid", "visual impairment", "accessible entrance",
+        "cramp", "accessible entrance", "disablement", "disenable", "impairment", "incapacitate",
+        "invalid"
     ],
     "pet": [
         "dog", "cat", "pet", "animal", "rabbit", "hamster", "ferret", "bird",
         "pet-friendly", "animals allowed", "dog-friendly", "cat-friendly",
-        "pet welcome", "pup", "dog bowl"
+        "pet welcome", "pup", "dog bowl", "beast", "canine", "puppy"
     ],
     "child": [
         "child", "baby", "kid", "stroller", "son", "daughter", "toddler",
         "infant", "playground", "high chair", "changing table", "family-friendly",
-        "childcare", "kids menu", "baby seat", "family","baby bed", "cot", "crib"
+        "childcare", "kids menu", "baby seat", "family","baby bed", "cot", "crib",
+        "baby buggy", "baby carriage", "bambino", "child care", "kin", "kinsperson",
+        "pram", "pushchair", "toddler", "youngster"
     ]
 }
