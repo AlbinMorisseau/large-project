@@ -1,11 +1,11 @@
 {
     "handicap": [
-        "weight lift"
+        "weight lift", "lift ticket", "ski lift", "elevator pitch", "lift-off", "lift bridge"
     ],
     "pet": [
-        "hot dog", "dogecoin", "corn dog", "dog day", "pet project", "cat scan", "pet scan"
+        "hot dog", "dogecoin", "corn dog", "dog day", "pet project", "cat scan", "pet scan", "pet peeve", "pet hate", "pet bottle", "bulldog clip", "dog-ear", "dog-iron"
     ],
     "child": [
-        "childhood"
+        "childhood", "only child", "poster child", "child process", "family friends"
     ]
 }
