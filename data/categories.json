@@ -1,10 +1,20 @@
 {
-    "handicap": [
-        "handicap", "wheelchair", "accessible", "braille", "ramp", "lift", "elevator",
-        "disabled", "barrier-free", "accessible toilet", "toilet accessible",
-        "mobility aid", "adapted", "hearing aid", "visual impairment", "accessible entrance",
-        "cramp", "accessible entrance", "disablement", "disenable", "impairment", "incapacitate",
-        "invalid"
+    "handicap": ["accessible", "accessible entrance", "accessible hostels", "accessible house", 
+    "accessible lodging", "accessible room", "accessible stops", "accessible taxi", "accessible toilet",
+    "accessible van", "ada", "ada compliant", "ada requirements", "adapted", "adhd","airport wheelchair", 
+    "amputee", "anxiety", "arthritis", "autism", "back issues", "bed height", "blind", "blindeness", 
+    "braille", "cane", "commode seat", "cramp", "deaf", "deafness", "disablement", "disenable", "disabled",
+    "disabilities", "elevator", "elevator accessible", "emphysema", "grab bar", "handicap", "hearing", "hearing aid", 
+    "hearing impaired", "hemiplegic", "hoyer", "hoyer lift", "impaired", "impairment", "incapacitate",
+    "inaccessible", "injured", "intellectual disability", "invalid", "level transfer", "lift", 
+    "maneuver", "marine veteran", "mobility aid", "mobility challenged", "mobility scooter", 
+    "motorized scooters", "ms", "neuromuscular disease", "nonverbal autism", "osteoarthritis", 
+    "paralyzed", "paralyzation", "paraplegic", "phelan mcdermid syndrome", "power wheelchair", 
+    "ptsd", "quadriplegic", "roll in shower", "roll under desk", "roll under sink", "roll under table",
+    "rollator", "rollin shower", "ramp", "sit-to-stand lifts", "shower chair","sit-to-stand lifts", 
+    "special treatment", "scooter", "sclerosis","spinal cord", "surgeries", "syndrome", "tactil signs", "toilet accessible",
+    "unreachable", "valid", "walking sticks", "walker", "vmi ramp", "visual impairment", 
+    "visual impaired", "wheelchair", "wheelchair-user", "walking sticks"
     ],
     "pet": [
         "dog", "cat", "pet", "animal", "rabbit", "hamster", "ferret", "bird",
