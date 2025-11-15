@@ -264,12 +264,12 @@ if __name__ == "__main__":
         help="It is the path of your output dataset."
     )
     args = parser.parse_args()
-    logging.info("Parameters loaded with sucess.")
+    logger.info("Parameters loaded with sucess.")
 
     # Global variables
     load_dotenv(dotenv_path="../.env")
     NUM_THREAD = int(os.environ.get("NUM_THREADS"))
-    logging.info(f"NUM_THREAD fixed to {NUM_THREAD}")
+    logger.info(f"NUM_THREAD fixed to {NUM_THREAD}")
 
     # Running the complete pipeline
     preprocess_pipeline(args.origin_path,args.col,args.output_path)
