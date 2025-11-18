@@ -1,11 +1,51 @@
 {
     "handicap": [
-        "weight lift", "lift ticket", "ski lift", "elevator pitch", "lift-off", "lift bridge"
+        "weight lift", 
+        "lift ticket", 
+        "ski lift", 
+        "elevator pitch", 
+        "lift-off", 
+        "lift bridge",
+        "walker mp4",
+        "blind eye",
+        "window blinds","window blind","blinds",
+        "blind date",
+        "blind mask"
     ],
     "pet": [
-        "hot dog", "dogecoin", "corn dog", "dog day", "pet project", "cat scan", "pet scan", "pet peeve", "pet hate", "pet bottle", "bulldog clip", "dog-ear", "dog-iron"
+        "hot dog","hotdog","hotdogs", 
+        "dogecoin", 
+        "corn dog", 
+        "dog day", 
+        "pet project", 
+        "cat scan", 
+        "pet scan", 
+        "pet peeve", 
+        "pet hate", 
+        "pet bottle", 
+        "bulldog clip", 
+        "dog-ear", 
+        "dog-iron",
+        "dog bark","dog barking","dogs barking",
+        "bird displays", 
+        "early bird", "early birds", 
+        "party animal",
+        "screech of birds","screech of bird",
+        "bird-eye", 
+        "bird bbq","half bird","chicken bird",
+        "street dog",
+        "data dog",
+        "sneak dogs",
+        "cat bus",
+        "dog-eared"
     ],
     "child": [
-        "childhood", "only child", "poster child", "child process", "family friends"
+        "childhood", 
+        "poster child", 
+        "child process", 
+        "family friends",
+        "slept like a baby", 
+        "baby corn", 
+        "family's airline"
     ]
 }
