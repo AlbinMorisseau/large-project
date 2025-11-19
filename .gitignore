@@ -12,4 +12,7 @@ models/*
 src/review_validator_session.json
 notebooks/draft/results/*
 notebooks/draft/*.json
+notebooks/bert/bert_tokenizer_pt/*
+notebooks/bert/best_weights.pth
+notebooks/bert/training_history.png
 .env

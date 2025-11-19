@@ -6,7 +6,6 @@
         "elevator pitch", 
         "lift-off", 
         "lift bridge",
-        "walker mp4",
         "blind eye",
         "window blinds","window blind","blinds",
         "blind date",
@@ -37,7 +36,8 @@
         "data dog",
         "sneak dogs",
         "cat bus",
-        "dog-eared"
+        "dog-eared",
+        "cat pee", "cat urine"
     ],
     "child": [
         "childhood", 
@@ -46,6 +46,7 @@
         "family friends",
         "slept like a baby", 
         "baby corn", 
-        "family's airline"
+        "family's airline",
+        "baby shower"
     ]
 }

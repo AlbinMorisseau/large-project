@@ -1,6 +1,5 @@
 {
   "handicap": [
-    "accessible",
     "accessible entrance", "entrance accessible",
     "accessible hostel", "accessible hostels","accessible hotel", "accessible hotels",
     "hotel accessible",
@@ -32,7 +31,7 @@
     "autism", "autistic",
     "back issue", "back issues", "back problem", "back problems",
     "bed height", "height of bed",
-    "blind", "blinded", "blindness",
+    "blind", "blinded", "blindness","colorblindness",
     "braille",
     "cane", "walking cane",
     "commode seat",
@@ -56,6 +55,7 @@
     "mobility challenged", "mobility-challenged",
     "paralyzed", "paralysed", "paralyzation","paralysation",
     "paraplegic", "quadriplegic", "hemiplegic",
+    "portable oxygen",
     "osteoarthritis",
     "neuromuscular disease",
     "phelan mcdermid syndrome",
