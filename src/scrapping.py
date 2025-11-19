@@ -6,6 +6,7 @@ from datetime import datetime
 from typing import List, Dict, Optional
 import logging
 import re
+import polars as pl
 
 # Logger configuration
 logging.basicConfig(
@@ -424,49 +425,46 @@ class AccessibleGoScraper:
     
     def clean_reviews_text(self, reviews: List[Dict]) -> List[Dict]:
         """
-        Nettoie le texte des reviews en supprimant les retours à la ligne
-        pour garantir une ligne = une review dans le CSV.
+        Clean text reviews by deleting skip lines.
         """
         cleaned_reviews = []
         
         for review in reviews:
             cleaned_review = review.copy()
             
-            # Remplacer tous les retours à la ligne par des espaces
+            # Replaces return line characters by space character
             if 'text' in cleaned_review and cleaned_review['text']:
-                # Remplacer \n, \r\n, \r par des espaces
                 text = cleaned_review['text'].replace('\r\n', ' ').replace('\n', ' ').replace('\r', ' ')
-                # Normaliser les espaces multiples
+                # Normalise multiple spaces
                 text = ' '.join(text.split())
                 cleaned_review['text'] = text.strip()
             
             cleaned_reviews.append(cleaned_review)
         
-        logger.info(f"Nettoyage effectué: {len(cleaned_reviews)} reviews nettoyées")
+        logger.info(f"Cleaning done: {len(cleaned_reviews)} reviews cleaned")
         return cleaned_reviews
 
 
     def verify_csv_integrity(self):
         """
-        Vérifie l'intégrité du CSV en comptant le nombre réel de lignes.
-        Compare avec le nombre attendu de reviews.
+       Veryfiing CSV integrity by comparing the number of reveiws extracted and the one within the CSV
         """
         try:
             with open(self.output_file, 'r', encoding='utf-8') as f:
                 reader = csv.reader(f)
                 lines = sum(1 for _ in reader)
-                # -1 pour l'en-tête
+                # -1 for the head
                 actual_reviews = lines - 1
             
-            logger.info(f"Vérification CSV: {actual_reviews} lignes de reviews dans {self.output_file}")
+            logger.info(f"Verification CSV: {actual_reviews} reviex rows in {self.output_file}")
             return actual_reviews
         
         except IOError as e:
-            logger.error(f"Erreur lors de la vérification du CSV: {e}")
+            logger.error(f"Error during CSV verification: {e}")
             return None
 
 
-    # Modification de la méthode run() - à remplacer dans votre classe
+    # Method to  run the pipeline
     def run(self, scrape_feed: bool = True, scrape_archives: bool = True,
             start_page: int = 1, max_pages: Optional[int] = None):
         """Execute full scrapping of accessibleGO"""
@@ -486,21 +484,21 @@ class AccessibleGoScraper:
             archive_reviews = self.scrape_all_archives(start_page, max_pages)
             all_reviews.extend(archive_reviews)
         
-        # NOUVEAU: Nettoyage des reviews avant sauvegarde
-        logger.info("\nNettoyage des retours à la ligne dans les reviews...")
+        # Cleaning of the skip lines in reviews
+        logger.info("\nCleaning of the skip lines in reviews...")
         all_reviews = self.clean_reviews_text(all_reviews)
         
         # saving
         self.save_to_csv(all_reviews)
         
-        # NOUVEAU: Vérification de l'intégrité du CSV
+        # Verification of CSV integrity
         actual_count = self.verify_csv_integrity()
         if actual_count and actual_count != len(all_reviews):
-            logger.warning(f"⚠️ ATTENTION: Différence détectée!")
-            logger.warning(f"   Reviews collectées: {len(all_reviews)}")
-            logger.warning(f"   Lignes dans le CSV: {actual_count}")
+            logger.warning(f"WARNING: Differences detected")
+            logger.warning(f"   Reviews collectd: {len(all_reviews)}")
+            logger.warning(f"   CVS rows: {actual_count}")
         else:
-            logger.info(f"✓ Intégrité vérifiée: {len(all_reviews)} reviews = {actual_count} lignes CSV")
+            logger.info(f"✓ Intégrity verified: {len(all_reviews)} reviews = {actual_count} row CSV")
         
         # stats printing
         self.print_statistics(all_reviews)
@@ -508,6 +506,11 @@ class AccessibleGoScraper:
         logger.info("\n" + "=" * 60)
         logger.info("SCRAPING ENDED")
         logger.info("=" * 60)
+
+        # Format
+        df_reviews = pl.read_csv(self.output_file)
+        df_reviews = df_reviews.with_row_index("id")
+        df_reviews.write_csv(self.output_file)
 
 
 if __name__ == "__main__":
