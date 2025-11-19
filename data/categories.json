@@ -1,15 +1,15 @@
 {
     "handicap": [
-        "handicap", "wheelchair", "accessible", "braille", "ramp", "lift", "elevator",
+        "handicap", "wheelchair", "accessible", "braille", "ramp",
         "disabled", "barrier-free", "accessible toilet", "toilet accessible",
         "mobility aid", "adapted", "hearing aid", "visual impairment", "accessible entrance",
-        "cramp", "accessible entrance", "disablement", "disenable", "impairment", "incapacitate",
+         "accessible entrance", "disablement", "disenable", "impairment", "incapacitate",
         "invalid"
     ],
     "pet": [
-        "dog", "cat", "pet", "animal", "rabbit", "hamster", "ferret", "bird",
+        "dog", "dogs", "cat", "pet", "rabbit", "hamster", "ferret", "bird",
         "pet-friendly", "animals allowed", "dog-friendly", "cat-friendly",
-        "pet welcome", "pup", "dog bowl", "beast", "canine", "puppy"
+        "pet welcome", "pup", "dog bowl", "beast", "canine", "puppy", "dog friendly"
     ],
     "child": [
         "child", "baby", "kid", "stroller", "son", "daughter", "toddler",
