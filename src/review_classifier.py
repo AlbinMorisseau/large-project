@@ -4,25 +4,45 @@ from tkinter import ttk, filedialog, messagebox
 import os
 import json
 
-class ReviewLabeler:
+class ReviewChunkLabeler:
     def __init__(self, root):
         self.root = root
-        self.root.title("Reviews Multi-Label Classifier")
+        self.root.title("Reviews Multi-Label Classifier (Chunks)")
         self.root.geometry("900x750")
         
         self.df = None
-        self.current_index = 0
-        self.labeled_reviews = []
+        self.current_review_index = 0
+        self.current_chunk_index = 0
+        self.current_chunks = []
+        self.labeled_chunks = []
         self.input_file_path = None
         self.output_path = None
+        self.max_length = 128
         
-        # État des checkboxes pour la review courante
+        # État des checkboxes pour le chunk courant
         self.handicap_var = tk.IntVar(value=0)
         self.pet_var = tk.IntVar(value=0)
         self.child_var = tk.IntVar(value=0)
         
         self.setup_ui()
         self.check_existing_session()
+    
+    def split_review_chunks(self, review_text, max_length=128):
+        """Divise une review en chunks de max_length tokens"""
+        words = str(review_text).split()
+        chunks = []
+        current_chunk = []
+        
+        for word in words:
+            current_chunk.append(word)
+            if len(' '.join(current_chunk).split()) >= max_length - 20:
+                chunks.append(' '.join(current_chunk))
+                current_chunk = []
+        
+        if current_chunk:
+            chunks.append(' '.join(current_chunk))
+        
+        return chunks if chunks else [review_text]
     
     def setup_ui(self):
         # Main frame
@@ -38,9 +58,13 @@ class ReviewLabeler:
         self.progress_label = ttk.Label(main_frame, text="Chargez un fichier pour commencer.")
         self.progress_label.grid(row=1, column=0, columnspan=2, pady=5)
         
-        # Text zone for review display
-        self.text_frame = ttk.LabelFrame(main_frame, text="Review", padding="10")
-        self.text_frame.grid(row=2, column=0, columnspan=2, pady=10, sticky=(tk.W, tk.E, tk.N, tk.S))
+        # Chunk info label
+        self.chunk_info_label = ttk.Label(main_frame, text="", font=("Arial", 9, "italic"))
+        self.chunk_info_label.grid(row=2, column=0, columnspan=2, pady=2)
+        
+        # Text zone for chunk display
+        self.text_frame = ttk.LabelFrame(main_frame, text="Chunk de la Review", padding="10")
+        self.text_frame.grid(row=3, column=0, columnspan=2, pady=10, sticky=(tk.W, tk.E, tk.N, tk.S))
         
         self.review_text = tk.Text(self.text_frame, wrap=tk.WORD, height=15, 
                                     font=("Arial", 11), state=tk.DISABLED)
@@ -54,7 +78,7 @@ class ReviewLabeler:
         
         # Category selection frame
         category_frame = ttk.LabelFrame(main_frame, text="Catégories", padding="15")
-        category_frame.grid(row=3, column=0, columnspan=2, pady=15, sticky=(tk.W, tk.E))
+        category_frame.grid(row=4, column=0, columnspan=2, pady=15, sticky=(tk.W, tk.E))
         
         # Checkboxes for categories
         self.handicap_check = ttk.Checkbutton(category_frame, text="♿ Handicap", 
@@ -74,11 +98,11 @@ class ReviewLabeler:
         
         # Navigation buttons frame
         button_frame = ttk.Frame(main_frame)
-        button_frame.grid(row=4, column=0, columnspan=2, pady=20)
+        button_frame.grid(row=5, column=0, columnspan=2, pady=20)
         
         # Previous button
         self.prev_btn = ttk.Button(button_frame, text="⬅ Précédent", 
-                                    command=self.previous_review, 
+                                    command=self.previous_chunk, 
                                     state=tk.DISABLED)
         self.prev_btn.grid(row=0, column=0, padx=10, ipadx=15, ipady=10)
         
@@ -92,7 +116,7 @@ class ReviewLabeler:
         self.root.columnconfigure(0, weight=1)
         self.root.rowconfigure(0, weight=1)
         main_frame.columnconfigure(0, weight=1)
-        main_frame.rowconfigure(2, weight=1)
+        main_frame.rowconfigure(3, weight=1)
         self.text_frame.columnconfigure(0, weight=1)
         self.text_frame.rowconfigure(0, weight=1)
         
@@ -101,17 +125,21 @@ class ReviewLabeler:
     
     def check_existing_session(self):
         """Vérifier s'il existe une session en cours"""
-        session_file = "review_labeler_session.json"
+        session_file = "review_chunk_labeler_session.json"
         if os.path.exists(session_file):
             try:
                 with open(session_file, 'r', encoding='utf-8') as f:
                     session_data = json.load(f)
                 
                 if os.path.exists(session_data['input_file_path']):
+                    total_chunks = sum(session_data['chunks_per_review'])
+                    current_total = sum(session_data['chunks_per_review'][:session_data['current_review_index']]) + session_data['current_chunk_index']
+                    
                     response = messagebox.askyesno(
                         "Session trouvée",
                         f"Une session a été trouvée pour:\n{session_data['input_file_path']}\n\n"
-                        f"Progression: {session_data['current_index']}/{session_data['total_reviews']} reviews\n\n"
+                        f"Progression: {current_total}/{total_chunks} chunks\n"
+                        f"Review {session_data['current_review_index'] + 1}/{session_data['total_reviews']}\n\n"
                         f"Voulez-vous reprendre cette session ?"
                     )
                     
@@ -132,62 +160,68 @@ class ReviewLabeler:
             self.input_file_path = session_data['input_file_path']
             self.output_path = session_data.get('output_path')
             self.df = pd.read_csv(self.input_file_path)
-            self.current_index = session_data['current_index']
-            self.labeled_reviews = session_data['labeled_reviews']
+            self.current_review_index = session_data['current_review_index']
+            self.current_chunk_index = session_data['current_chunk_index']
+            self.labeled_chunks = session_data['labeled_chunks']
+            self.max_length = session_data.get('max_length', 128)
             
             # Activer les contrôles
             self.handicap_check.config(state=tk.NORMAL)
             self.pet_check.config(state=tk.NORMAL)
             self.child_check.config(state=tk.NORMAL)
             self.next_btn.config(state=tk.NORMAL)
-            self.prev_btn.config(state=tk.NORMAL if self.current_index > 0 else tk.DISABLED)
             
-            # Afficher la review courante
-            self.display_current_review()
+            # Générer les chunks pour la review courante
+            current_review = self.df.loc[self.current_review_index, 'review']
+            self.current_chunks = self.split_review_chunks(current_review, self.max_length)
+            
+            # Afficher le chunk courant
+            self.display_current_chunk()
+            
+            total_chunks = sum(session_data['chunks_per_review'])
+            current_total = sum(session_data['chunks_per_review'][:self.current_review_index]) + self.current_chunk_index
             
             messagebox.showinfo("Session rechargée", 
                 f"Session rechargée avec succès !\n"
-                f"Reprise à la review {self.current_index + 1}/{len(self.df)}")
+                f"Reprise au chunk {current_total + 1}/{total_chunks}")
         except Exception as e:
             messagebox.showerror("Erreur", f"Erreur lors du rechargement: {str(e)}")
     
     def generate_output_path(self):
-        """Générer le chemin de sortie pour les reviews labellisées"""
+        """Générer le chemin de sortie pour les chunks labellisés"""
         if self.input_file_path is None:
             return None
         
         # Créer le dossier de destination
-        output_dir = os.path.join("..","data", "processed", "validation")
+        output_dir = os.path.join("..", "data", "processed", "validation")
         os.makedirs(output_dir, exist_ok=True)
         
         # Obtenir le nom du fichier original
         base_name = os.path.splitext(os.path.basename(self.input_file_path))[0]
-        output_path = os.path.join(output_dir, f"{base_name}_labeled.csv")
+        output_path = os.path.join(output_dir, f"{base_name}_chunks_labeled.csv")
         
         return output_path
     
     def save_labeled_data(self):
-        """Sauvegarder les reviews labellisées jusqu'à présent"""
-        if not self.labeled_reviews:
+        """Sauvegarder les chunks labellisés jusqu'à présent"""
+        if not self.labeled_chunks:
             return
         
         if self.output_path is None:
             self.output_path = self.generate_output_path()
         
         try:
-            # Créer le DataFrame avec les reviews labellisées
-            result_df = self.df.iloc[:len(self.labeled_reviews)][['review']].copy()
+            # Créer le DataFrame avec les chunks labellisés
+            chunks_data = []
+            for chunk_info in self.labeled_chunks:
+                chunks_data.append({
+                    'chunk_text': chunk_info['chunk_text'],
+                    'handicap': chunk_info['handicap'],
+                    'pet': chunk_info['pet'],
+                    'child': chunk_info['child']
+                })
             
-            # Ajouter les colonnes de labels
-            for i, labels in enumerate(self.labeled_reviews):
-                result_df.loc[result_df.index[i], 'handicap'] = labels['handicap']
-                result_df.loc[result_df.index[i], 'pet'] = labels['pet']
-                result_df.loc[result_df.index[i], 'child'] = labels['child']
-            
-            # Convertir en entiers
-            result_df['handicap'] = result_df['handicap'].astype(int)
-            result_df['pet'] = result_df['pet'].astype(int)
-            result_df['child'] = result_df['child'].astype(int)
+            result_df = pd.DataFrame(chunks_data)
             
             # Sauvegarder le fichier
             result_df.to_csv(self.output_path, index=False)
@@ -204,15 +238,25 @@ class ReviewLabeler:
         if self.output_path is None:
             self.output_path = self.generate_output_path()
         
+        # Calculer le nombre de chunks par review
+        chunks_per_review = []
+        for idx in range(len(self.df)):
+            review = self.df.loc[idx, 'review']
+            chunks = self.split_review_chunks(review, self.max_length)
+            chunks_per_review.append(len(chunks))
+        
         session_data = {
             'input_file_path': self.input_file_path,
             'output_path': self.output_path,
-            'current_index': self.current_index,
+            'current_review_index': self.current_review_index,
+            'current_chunk_index': self.current_chunk_index,
             'total_reviews': len(self.df),
-            'labeled_reviews': self.labeled_reviews
+            'max_length': self.max_length,
+            'chunks_per_review': chunks_per_review,
+            'labeled_chunks': self.labeled_chunks
         }
         
-        session_file = "review_labeler_session.json"
+        session_file = "review_chunk_labeler_session.json"
         try:
             with open(session_file, 'w', encoding='utf-8') as f:
                 json.dump(session_data, f, ensure_ascii=False, indent=2)
@@ -225,7 +269,7 @@ class ReviewLabeler:
     
     def clear_session(self):
         """Supprimer le fichier de session"""
-        session_file = "review_labeler_session.json"
+        session_file = "review_chunk_labeler_session.json"
         if os.path.exists(session_file):
             try:
                 os.remove(session_file)
@@ -261,8 +305,20 @@ class ReviewLabeler:
                     "Le fichier ne contient pas de colonne 'review'")
                 return
             
-            self.current_index = 0
-            self.labeled_reviews = []
+            self.current_review_index = 0
+            self.current_chunk_index = 0
+            self.labeled_chunks = []
+            
+            # Générer les chunks pour la première review
+            first_review = self.df.loc[0, 'review']
+            self.current_chunks = self.split_review_chunks(first_review, self.max_length)
+            
+            # Calculer le nombre total de chunks
+            total_chunks = 0
+            for idx in range(len(self.df)):
+                review = self.df.loc[idx, 'review']
+                chunks = self.split_review_chunks(review, self.max_length)
+                total_chunks += len(chunks)
             
             # Activer les contrôles
             self.handicap_check.config(state=tk.NORMAL)
@@ -270,41 +326,82 @@ class ReviewLabeler:
             self.child_check.config(state=tk.NORMAL)
             self.next_btn.config(state=tk.NORMAL)
             
-            # Afficher la première review
-            self.display_current_review()
+            # Afficher le premier chunk
+            self.display_current_chunk()
             
             messagebox.showinfo("Succès", 
-                f"Fichier chargé avec succès !\n{len(self.df)} reviews à labelliser\n\n"
+                f"Fichier chargé avec succès !\n"
+                f"{len(self.df)} reviews → {total_chunks} chunks à labelliser\n\n"
                 f"Sauvegarde dans:\n{self.output_path}")
             
         except Exception as e:
             messagebox.showerror("Erreur", f"Erreur de chargement: {str(e)}")
     
-    def display_current_review(self):
-        """Afficher la review courante"""
-        if self.current_index >= len(self.df):
+    def display_current_chunk(self):
+        """Afficher le chunk courant"""
+        if self.current_review_index >= len(self.df):
             self.finish_labeling()
             return
         
-        review = self.df.loc[self.current_index, 'review']
+        if self.current_chunk_index >= len(self.current_chunks):
+            # Passer à la review suivante
+            self.current_review_index += 1
+            self.current_chunk_index = 0
+            
+            if self.current_review_index >= len(self.df):
+                self.finish_labeling()
+                return
+            
+            # Générer les chunks pour la nouvelle review
+            current_review = self.df.loc[self.current_review_index, 'review']
+            self.current_chunks = self.split_review_chunks(current_review, self.max_length)
         
-        # Mise à jour du label de progression
+        chunk_text = self.current_chunks[self.current_chunk_index]
+        
+        # Calculer la progression totale
+        total_chunks_before = 0
+        for idx in range(self.current_review_index):
+            review = self.df.loc[idx, 'review']
+            chunks = self.split_review_chunks(review, self.max_length)
+            total_chunks_before += len(chunks)
+        
+        current_chunk_global = total_chunks_before + self.current_chunk_index + 1
+        
+        # Calculer le nombre total de chunks
+        total_chunks = 0
+        for idx in range(len(self.df)):
+            review = self.df.loc[idx, 'review']
+            chunks = self.split_review_chunks(review, self.max_length)
+            total_chunks += len(chunks)
+        
+        # Mise à jour des labels de progression
         self.progress_label.config(
-            text=f"Review {self.current_index + 1}/{len(self.df)}"
+            text=f"Chunk {current_chunk_global}/{total_chunks}"
         )
         
-        # Afficher la review
+        self.chunk_info_label.config(
+            text=f"Review {self.current_review_index + 1}/{len(self.df)} - "
+                 f"Chunk {self.current_chunk_index + 1}/{len(self.current_chunks)}"
+        )
+        
+        # Afficher le chunk
         self.review_text.config(state=tk.NORMAL)
         self.review_text.delete(1.0, tk.END)
-        self.review_text.insert(1.0, str(review))
+        self.review_text.insert(1.0, chunk_text)
         self.review_text.config(state=tk.DISABLED)
         
         # Charger les labels existants si disponibles
-        if self.current_index < len(self.labeled_reviews):
-            labels = self.labeled_reviews[self.current_index]
-            self.handicap_var.set(labels['handicap'])
-            self.pet_var.set(labels['pet'])
-            self.child_var.set(labels['child'])
+        existing_label = None
+        for label in self.labeled_chunks:
+            if (label['review_index'] == self.current_review_index and 
+                label['chunk_index'] == self.current_chunk_index):
+                existing_label = label
+                break
+        
+        if existing_label:
+            self.handicap_var.set(existing_label['handicap'])
+            self.pet_var.set(existing_label['pet'])
+            self.child_var.set(existing_label['child'])
         else:
             # Réinitialiser les checkboxes
             self.handicap_var.set(0)
@@ -312,37 +409,55 @@ class ReviewLabeler:
             self.child_var.set(0)
         
         # Gérer le bouton précédent
-        self.prev_btn.config(state=tk.NORMAL if self.current_index > 0 else tk.DISABLED)
+        is_first_chunk = (self.current_review_index == 0 and self.current_chunk_index == 0)
+        self.prev_btn.config(state=tk.NORMAL if not is_first_chunk else tk.DISABLED)
     
     def save_and_next(self):
-        """Enregistrer les labels et passer à la review suivante"""
+        """Enregistrer les labels et passer au chunk suivant"""
         # Sauvegarder les labels actuels
-        labels = {
+        chunk_label = {
+            'review_index': self.current_review_index,
+            'chunk_index': self.current_chunk_index,
+            'chunk_text': self.current_chunks[self.current_chunk_index],
             'handicap': self.handicap_var.get(),
             'pet': self.pet_var.get(),
             'child': self.child_var.get()
         }
         
         # Mettre à jour ou ajouter les labels
-        if self.current_index < len(self.labeled_reviews):
-            self.labeled_reviews[self.current_index] = labels
-        else:
-            self.labeled_reviews.append(labels)
+        existing_idx = None
+        for idx, label in enumerate(self.labeled_chunks):
+            if (label['review_index'] == self.current_review_index and 
+                label['chunk_index'] == self.current_chunk_index):
+                existing_idx = idx
+                break
         
-        # Passer à la review suivante
-        self.current_index += 1
+        if existing_idx is not None:
+            self.labeled_chunks[existing_idx] = chunk_label
+        else:
+            self.labeled_chunks.append(chunk_label)
+        
+        # Passer au chunk suivant
+        self.current_chunk_index += 1
         
         # Sauvegarder la session et les données
         self.save_session()
         
-        # Afficher la review suivante
-        self.display_current_review()
+        # Afficher le chunk suivant
+        self.display_current_chunk()
     
-    def previous_review(self):
-        """Revenir à la review précédente"""
-        if self.current_index > 0:
-            self.current_index -= 1
-            self.display_current_review()
+    def previous_chunk(self):
+        """Revenir au chunk précédent"""
+        if self.current_chunk_index > 0:
+            self.current_chunk_index -= 1
+        elif self.current_review_index > 0:
+            # Revenir à la review précédente
+            self.current_review_index -= 1
+            prev_review = self.df.loc[self.current_review_index, 'review']
+            self.current_chunks = self.split_review_chunks(prev_review, self.max_length)
+            self.current_chunk_index = len(self.current_chunks) - 1
+        
+        self.display_current_chunk()
     
     def finish_labeling(self):
         """Terminer la labellisation et sauvegarder le fichier"""
@@ -356,7 +471,7 @@ class ReviewLabeler:
         messagebox.showinfo("Terminé", 
             f"Labellisation terminée !\n\n"
             f"Fichier sauvegardé dans:\n{self.output_path}\n\n"
-            f"Total: {len(self.labeled_reviews)} reviews labellisées")
+            f"Total: {len(self.labeled_chunks)} chunks labellisés")
         
         # Désactiver les contrôles
         self.handicap_check.config(state=tk.DISABLED)
@@ -365,32 +480,41 @@ class ReviewLabeler:
         self.next_btn.config(state=tk.DISABLED)
         self.prev_btn.config(state=tk.DISABLED)
         self.progress_label.config(text="Labellisation terminée")
+        self.chunk_info_label.config(text="")
         self.review_text.config(state=tk.NORMAL)
         self.review_text.delete(1.0, tk.END)
         self.review_text.config(state=tk.DISABLED)
     
     def on_closing(self):
         """Gestion de la fermeture de l'application"""
-        if self.df is not None and self.current_index < len(self.df):
-            response = messagebox.askyesnocancel(
-                "Quitter",
-                "Voulez-vous sauvegarder votre progression avant de quitter ?\n\n"
-                "Oui: Sauvegarder et quitter\n"
-                "Non: Quitter sans sauvegarder\n"
-                "Annuler: Continuer à travailler"
-            )
+        if self.df is not None:
+            # Vérifier s'il reste des chunks à labelliser
+            total_chunks = 0
+            for idx in range(len(self.df)):
+                review = self.df.loc[idx, 'review']
+                chunks = self.split_review_chunks(review, self.max_length)
+                total_chunks += len(chunks)
             
-            if response is None:  # Annuler
-                return
-            elif response:  # Oui, sauvegarder
-                self.save_session()
-            else:  # Non, ne pas sauvegarder
-                self.clear_session()
+            if len(self.labeled_chunks) < total_chunks:
+                response = messagebox.askyesnocancel(
+                    "Quitter",
+                    "Voulez-vous sauvegarder votre progression avant de quitter ?\n\n"
+                    "Oui: Sauvegarder et quitter\n"
+                    "Non: Quitter sans sauvegarder\n"
+                    "Annuler: Continuer à travailler"
+                )
+                
+                if response is None:  # Annuler
+                    return
+                elif response:  # Oui, sauvegarder
+                    self.save_session()
+                else:  # Non, ne pas sauvegarder
+                    self.clear_session()
         
         self.root.destroy()
 
 # Créer et lancer l'application
 if __name__ == "__main__":
     root = tk.Tk()
-    app = ReviewLabeler(root)
+    app = ReviewChunkLabeler(root)
     root.mainloop()
