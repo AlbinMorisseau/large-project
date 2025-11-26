@@ -231,8 +231,22 @@ class ReviewValidator:
     
     def save_progress_files(self):
         """save intermediate progresses"""
+
+        try:
+
+            if "child" in self.input_file_path:
+                folder = "child"
+            elif "pet" in self.input_file_path:
+                folder="pet"
+            elif "handicap" in self.input_file_path:
+                folder="handicap"
+            else:
+                raise Exception
+        except Exception as e:
+            messagebox.showerror("Error", f"Saving error: {str(e)}")
+
         # Creat destination file if it does not exist
-        output_dir = os.path.join("..","data", "processed", "validation")
+        output_dir = os.path.join("..","data", "processed", "final",folder)
         os.makedirs(output_dir, exist_ok=True)
         
         # get file name  without extension
@@ -241,13 +255,13 @@ class ReviewValidator:
         # save validated reviews
         if len(self.validated_reviews) > 0:
             validated_df = pd.DataFrame(self.validated_reviews)
-            positive_path = os.path.join(output_dir, f"{base_name}_positive.csv")
+            positive_path = os.path.join(output_dir, f"{base_name}_good.csv")
             validated_df.to_csv(positive_path, index=False)
         
         # Save rejected reviews
         if len(self.rejected_reviews) > 0:
             rejected_df = pd.DataFrame(self.rejected_reviews)
-            negative_path = os.path.join(output_dir, f"{base_name}_negative.csv")
+            negative_path = os.path.join(output_dir, f"{base_name}_rejected.csv")
             rejected_df.to_csv(negative_path, index=False)
     
     def load_csv(self):
@@ -379,14 +393,28 @@ class ReviewValidator:
         self.display_current_review()
     
     def finish_validation(self):
+
+        try:
+
+            if "child" in self.input_file_path:
+                folder = "child"
+            elif "pet" in self.input_file_path:
+                folder="pet"
+            elif "handicap" in self.input_file_path:
+                folder="handicap"
+            else:
+                raise Exception
+        except Exception as e:
+            messagebox.showerror("Error", f"Saving error: {str(e)}")
+
         # Create the destination folder if it does note exists
-        output_dir = os.path.join("data", "processes", "validation")
+        output_dir = os.path.join("..","data", "processed", "final",folder)
         os.makedirs(output_dir, exist_ok=True)
         
         # Get the original file name without extension
         base_name = os.path.splitext(os.path.basename(self.input_file_path))[0]
-        positive_path = os.path.join(output_dir, f"{base_name}_positive.csv")
-        negative_path = os.path.join(output_dir, f"{base_name}_negative.csv")
+        positive_path = os.path.join(output_dir, f"{base_name}_good.csv")
+        negative_path = os.path.join(output_dir, f"{base_name}_rejected.csv")
         
         # Save the validated reviews
         if len(self.validated_reviews) > 0:
