@@ -40,3 +40,45 @@ large project/
     ```bash
     pip install -r requirements.txt
     ```
+
+## Datasets Used
+
+This project uses a wide range of publicly available review datasets covering hotels, restaurants, airlines, activities, and social media.  
+Below is the complete list of datasets:
+
+- **Booking.com Accommodation Reviews**  
+  https://huggingface.co/datasets/Booking-com/accommodation-reviews/tree/main
+
+- **Yelp Open Dataset**  
+  https://business.yelp.com/data/resources/open-dataset/
+
+- **Hotel Reviews 1 / 2 / 3 (Datafiniti)**  
+  https://www.kaggle.com/datasets/datafiniti/hotel-reviews
+
+- **TripAdvisor Hotel Reviews**  
+  https://www.kaggle.com/datasets/joebeachcapital/hotel-reviews?select=reviews.csv
+
+- **Twitter Reviews Dataset**  
+  https://www.kaggle.com/datasets/goyaladi/twitter-dataset?select=twitter_dataset.csv
+
+- **Airline Reviews (Dataset 1)**  
+  https://www.kaggle.com/datasets/chaudharyanshul/airline-reviews
+
+- **Airline Reviews (Dataset 2)**  
+  https://www.kaggle.com/datasets/sujalsuthar/airlines-reviews
+
+- **European Hotel Reviews (515k)**  
+  https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe
+
+- **Restaurant Reviews (Dataset 1)**  
+  https://www.kaggle.com/datasets/d4rklucif3r/restaurant-reviews
+
+- **Restaurant Reviews (Dataset 2)**  
+  https://www.kaggle.com/datasets/joebeachcapital/restaurant-reviews
+
+- **Activities Reviews**  
+  https://www.kaggle.com/datasets/johnwdata/reviewsactivities
+
+- **European Restaurant Reviews**  
+  https://www.kaggle.com/datasets/gorororororo23/european-restaurant-reviews
+
