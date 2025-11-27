@@ -4,7 +4,15 @@
 
 This repository contains the work carried out by Albin Morisseau and Emma Lhuillery as part of the Large Project in AI at the University of Klagenfurt between October 2025 and February 2026
 
-The aim of this project is to implement a tool for making recommendations to travellers with specific needs (disabilities, pets, young children) who require special arrangements and conditions.
+The aim of this project is to study the behaviors and the needs of travellers with specific needs (disabilities, pets, young children) who require special arrangements and conditions.
+
+## Hardware
+
+We ran the code using this laptop hardware:
+- RTX4070 GPU / 8 Go RAM
+- Intel Core I9 CPU / 32 Go RAM
+
+NB: We strongly recommend using hardware or cloud services to significantly speed up calculation times.
 
 ## Project Structure
 ```
