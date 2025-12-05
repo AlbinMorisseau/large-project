@@ -1,0 +1,1723 @@
+comparison_type,category,category2,feature,feature_value,proportion_cat1,proportion_cat2,difference,kl_divergence,js_divergence,chi_square_distance,hellinger_distance
+category_vs_rest,handicap,rest,cities_split,ABV,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,ABZ,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,ACC,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,AGP,0.0152,0.0008,0.0144,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,ALC,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,AMM,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,AMS,0.0,0.0039,-0.0039,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,ANU,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,ARN,0.0,0.0008,-0.0008,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,ATH,0.0152,0.0027,0.0125,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,ATL,0.0,0.0011,-0.0011,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,AUH,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,AUS,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Aberdeen,0.0,0.002,-0.002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Abu Dhabi,0.0,0.0016,-0.0016,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Abuja,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Abuja Nigeria,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,"Abuja, Nigeria",0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Accra,0.0,0.0014,-0.0014,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,"Accra, Ghana",0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Ahmedabad,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Algiers,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Alicante,0.0152,0.0009,0.0142,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Amman,0.0,0.0011,-0.0011,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Amman Jordan,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Amsterdam,0.0,0.0055,-0.0055,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Anchorage,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Antalya,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Antigua,0.0,0.0016,-0.0016,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Arlanda Stockholm,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Athens,0.0,0.0046,-0.0046,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Athens Greece,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Atlanta,0.0,0.0013,-0.0013,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Auckland,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Austin,0.0,0.0016,-0.0016,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,BAH,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,BAH / LHR,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,BCN,0.0,0.0019,-0.0019,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,BDA,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,BFS,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,BGI,0.0,0.0013,-0.0013,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,BGO,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,BHD,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,BIO,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,BKK,0.0,0.0052,-0.0052,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,BLR,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,BNE,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,BOM,0.0,0.0009,-0.0009,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,BOM-LHR,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,BOS,0.0,0.0019,-0.0019,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,"BOS, SEA",0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,BRI,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,BRU,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,BSL,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,BUD,0.0152,0.0009,0.0142,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,BWI,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Bahrain,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Baltimore,0.0,0.0009,-0.0009,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Bangalore,0.0,0.0016,-0.0016,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Bangkok,0.0,0.0049,-0.0049,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Barbados,0.0,0.0024,-0.0024,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Barcelona,0.0303,0.0039,0.0264,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Bari,0.0,0.0009,-0.0009,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Basel,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Beijing,0.0,0.0009,-0.0009,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Belfast,0.0,0.0043,-0.0043,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Belfast City,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Bengaluru,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Bergen,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Bergerac,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Berlin,0.0,0.0038,-0.0038,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Berlin Tegel,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Bermuda,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Biarritz,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Bilbao,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Billund,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,"Billund, Denmark",0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Bodrum,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Bologna,0.0,0.0016,-0.0016,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Bombay,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Bordeaux,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Boston,0.0152,0.0047,0.0104,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Bridgetown,0.0,0.0014,-0.0014,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Brindisi,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Bristol,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Brussels,0.0152,0.0032,0.012,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Bucharest,0.0,0.0019,-0.0019,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Budapest,0.0,0.002,-0.002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Buenos Aires,0.0,0.0014,-0.0014,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,CAI,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,CDG,0.0152,0.0019,0.0133,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,CLT,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,CNX,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,CPH,0.0,0.0011,-0.0011,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,CPT,0.0,0.0027,-0.0027,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,CTA,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,CTU,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,CUN,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Cagliari,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Cairo,0.0,0.0025,-0.0025,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Calgary,0.0152,0.0014,0.0137,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Cancun,0.0,0.0017,-0.0017,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Cape Town,0.0,0.0088,-0.0088,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Casablanca,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Catania,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Cayman Islands,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Cephalonia,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Chengdu,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Chennai,0.0152,0.0011,0.014,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Chicago,0.0303,0.006,0.0243,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Chicago / London,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Chicago O'Hare,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Cologne,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Columbus,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Copenhagen,0.0,0.0027,-0.0027,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Corfu,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,DBV,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,DEL,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,DEN,0.0,0.0008,-0.0008,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,DFW,0.0,0.0009,-0.0009,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,DME,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,DOH,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,DUB,0.0,0.0019,-0.0019,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,DUR,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,DUS,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,DXB,0.0,0.0028,-0.0028,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Dalaman,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Dallas,0.0,0.0019,-0.0019,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Dallas Fort-Worth,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Dallas Ft Worth,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Delhi,0.0,0.0019,-0.0019,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Delhi Airport,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Denver,0.0303,0.0019,0.0284,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Detroit,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Doha,0.0,0.0016,-0.0016,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Dubai,0.0,0.0058,-0.0058,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Dublin,0.0,0.006,-0.006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Dubrovnik,0.0,0.0013,-0.0013,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Duesseldorf,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Durban,0.0,0.0013,-0.0013,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Dusseldorf,0.0,0.0011,-0.0011,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,DÃ¼sseldorf,0.0152,0.0006,0.0145,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,EBB,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,EDI,0.0,0.0032,-0.0032,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,EWR,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,EZE,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Edimbourgh,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Edinburgh,0.0,0.0057,-0.0057,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Edinburgh-Florence,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Edmonton,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Entebbe,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,FAO,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,FCO,0.0,0.0017,-0.0017,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,FLR,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,FNC,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,FRA,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,FRA-LHR,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,FUE,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Faro,0.0,0.0019,-0.0019,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Florence,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Fort Lauderdale,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Frankfurt,0.0152,0.0033,0.0118,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Fuereventura,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Funchal,0.0,0.0016,-0.0016,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,GIB,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,GIG,0.0152,0.0013,0.0139,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,GLA,0.0152,0.0027,0.0125,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,GLA-LHR,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,GOT,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,GRU,0.0,0.0009,-0.0009,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,GVA,0.0,0.002,-0.002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Gatwick,0.0455,0.0306,0.0149,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Geneva,0.0,0.0035,-0.0035,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Genoa,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Gibraltar,0.0,0.0014,-0.0014,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Glasgow,0.0,0.0054,-0.0054,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Gothenburg,0.0,0.0009,-0.0009,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Granada,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Grand Cayman,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Grenada,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,HEL,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,HKG,0.0,0.0032,-0.0032,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,HND,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Hamburg,0.0,0.0017,-0.0017,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Haneda,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Hannover,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Heathrow,0.0152,0.0219,-0.0067,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Heathrow (London),0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Heathrow/Gatwick,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Helsinki,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Heraklion,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Hong Kong,0.0,0.0052,-0.0052,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Houston,0.0,0.0011,-0.0011,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Hyderabad,0.0,0.0011,-0.0011,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,IAD,0.0,0.0022,-0.0022,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,IAH,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,IBZ,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,ICN,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,IKA,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,INV,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,IOM,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,IST,0.0152,0.0013,0.0139,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Ibiza,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Innsbruck,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Inverness,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Islamabad,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Istambul,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Istanbul,0.0,0.0046,-0.0046,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,JED,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,JFK,0.0,0.0058,-0.0058,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,JFK (New York City),0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,JNB,0.0,0.0038,-0.0038,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,JTR,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Jeddah,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Jersey,0.0,0.0011,-0.0011,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Johannesburg,0.0,0.0088,-0.0088,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Johannesburg / Heathrow,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Johannesburg OR Tambo,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,KBP,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,KGS,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,KRK,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,KUL,0.0,0.0024,-0.0024,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,KWI,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Kalamata,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Kefalonia,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Keflavik,0.0,0.0016,-0.0016,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Kiev,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Kingston,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Kos,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Krakow,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,KrakÃ³w,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Kuala Lumpur,0.0,0.0027,-0.0027,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Kuala lumpur,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Kuwait,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,LAD & ABV,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,LAS,0.0,0.0027,-0.0027,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,LAX,0.0,0.0027,-0.0027,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,LBA,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,LCA,0.0,0.0011,-0.0011,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,LCY,0.0,0.003,-0.003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,LED,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,LGW,0.0152,0.0184,-0.0033,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,LGW / LHR,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,LHR,0.0909,0.1103,-0.0193,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,LHR - EDI,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,LHR-BOM,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,LHR-DEN,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,LHR-GLA,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,LHR-ORD,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,LIM,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,LIS,0.0,0.0014,-0.0014,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,LUX,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,LYS,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Lagos,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Lahore,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Lanzarote,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Larnaca,0.0,0.003,-0.003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Larnaca Cyprus,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Las Vegas,0.0,0.0047,-0.0047,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Lebanon,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Leeds,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Leeds Bradford,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Lima,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Lisbon,0.0,0.0032,-0.0032,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,London,0.2121,0.1866,0.0255,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,London / Johannesburg,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,London / Seattle,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,London / Singapore,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,London City,0.0,0.0044,-0.0044,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,London City Airport,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,London Cuty,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,London Gatwick,0.0,0.0091,-0.0091,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,London Heaathrow,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,London Heathrow,0.0606,0.0635,-0.0029,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,London Heatrow,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,London LGW,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,London LHR,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,London Singapore,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,London UK (Heathrow),0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,"London,",0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,London-Heathrow,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,London-Vancouver return,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Los Angeles,0.0,0.0082,-0.0082,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Los Angesles,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Luanda,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Luxembourg,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Lyon,0.0,0.0013,-0.0013,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,MAA,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,MAD,0.0,0.0013,-0.0013,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,MAN,0.0,0.0033,-0.0033,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,MAN-LHR,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,MCI,0.0152,0.0002,0.015,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,MCO,0.0,0.0008,-0.0008,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,MEL,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,MEX,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,MIA,0.0,0.0038,-0.0038,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,MIa,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,MLA,0.0,0.0009,-0.0009,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,MLE,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,MRS,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,MRU,0.0,0.0008,-0.0008,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,MUC,0.0,0.0009,-0.0009,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,MXP,0.0,0.0009,-0.0009,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Madeira,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Madrid,0.0152,0.0063,0.0089,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Mahe,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Mahon,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Malaga,0.0,0.0043,-0.0043,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Maldives,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Male,0.0,0.0008,-0.0008,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Malta,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Manchester,0.0,0.0049,-0.0049,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,"Manchester, UK",0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Manila,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Marrakech,0.0,0.0013,-0.0013,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Marrakesh,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Marseille,0.0,0.0013,-0.0013,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Mauritius,0.0,0.0022,-0.0022,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Melbourne,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Mexico,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Mexico City,0.0,0.0016,-0.0016,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Miami,0.0,0.006,-0.006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Miami / Madrid,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Milan,0.0152,0.0025,0.0126,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Milan Malpensa,0.0,0.0008,-0.0008,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Montpelier,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Montreal,0.0,0.0014,-0.0014,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,MontrÃ©al,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Moscow,0.0,0.0014,-0.0014,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Moscow Domodedovo,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Mumbai,0.0303,0.0032,0.0272,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Munich,0.0152,0.0025,0.0126,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Murcia,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Muscat,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Mykonos,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,NAP,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,NAS,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,NBO,0.0,0.0011,-0.0011,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,NCE,0.0,0.0008,-0.0008,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,NCL,0.0,0.0009,-0.0009,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Nairobi,0.0,0.0016,-0.0016,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Naples,0.0,0.0008,-0.0008,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Nashville,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Nassau,0.0,0.0009,-0.0009,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,New Delhi,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,New Orleans,0.0,0.0008,-0.0008,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,New York,0.0,0.0068,-0.0068,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,New York JFK,0.0,0.0041,-0.0041,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Newark,0.0,0.0016,-0.0016,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Newcastle,0.0,0.0022,-0.0022,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Nice,0.0,0.0025,-0.0025,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,OPO,0.0,0.0008,-0.0008,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,ORD,0.0152,0.0016,0.0136,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,ORD-LHR,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,ORY,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,OSL,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,OTP,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,OUL,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Oakland,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Olbia,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Orlando,0.0,0.0036,-0.0036,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Orlando MCO,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,"Orlando, Florida",0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Oslo,0.0,0.0008,-0.0008,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Ottawa,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,PEK,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,PER,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,PFO,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,PHL,0.0,0.0024,-0.0024,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,PHX,0.0,0.0008,-0.0008,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,PMI,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,PRG,0.0,0.0011,-0.0011,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,PSA,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,PUJ,0.0,0.0008,-0.0008,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,PVG,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Palma,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Palma de Mallorca,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Paphos,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Paris,0.0,0.0041,-0.0041,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Paris CDG,0.0,0.0008,-0.0008,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Paris Orly,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Philadelphia,0.0,0.0019,-0.0019,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Phoenix,0.0,0.0027,-0.0027,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Pisa,0.0,0.0027,-0.0027,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Pisa London Heathrow,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Port of Spain,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Portland,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Porto,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Prague,0.0,0.0024,-0.0024,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Preveza,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Punta Cana,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,RAK,0.0,0.0008,-0.0008,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,RTM,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,RUH,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Reykjavik,0.0,0.0008,-0.0008,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Rhodes,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Rio De Janeiro,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Rio de Janeiro,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Rio de Janiero,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Riyadh,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Rome,0.0303,0.0054,0.0249,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Rome FCO,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Rome Fiumicino,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Rotterdam,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,SAN,0.0,0.0009,-0.0009,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,SEA,0.0,0.0014,-0.0014,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,SEL,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,SFO,0.0,0.0036,-0.0036,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,SFO/PHX,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,SIN,0.0,0.005,-0.005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,SJC,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,SJO,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,SNN,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,SOF,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,SSH,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,STR,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,SVO,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,SVQ,0.0,0.0008,-0.0008,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,SXF,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,SYD,0.0,0.0022,-0.0022,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,SZG,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Saint Lucia,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Salzburg,0.0,0.0008,-0.0008,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,San Diego,0.0152,0.0014,0.0137,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,San Fran,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,San Francisco,0.0,0.0046,-0.0046,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,San Fransisco,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,San Jose,0.0,0.0013,-0.0013,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,San Jose Costa Rica,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,"San Jose, CA",0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,San francisco,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Santiago,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Santiago de Chile,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Santorini,0.0,0.0014,-0.0014,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Sao Paulo,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Seattle,0.0152,0.0035,0.0117,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Seattle Tacoma,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Seoul,0.0,0.0011,-0.0011,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Seoul Incheon,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Seville,0.0,0.0009,-0.0009,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Seychelles,0.0152,0.0005,0.0147,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Shanghai,0.0,0.0011,-0.0011,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Shannon,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Singapire,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Singapore,0.0152,0.0095,0.0057,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Singapore / London,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Sofia,0.0,0.002,-0.002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,St Kitts,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,St Lucia,0.0,0.0017,-0.0017,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,St Petersburg,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,St Petersburgh,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,St. Lucia,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Stavanger,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Stockholm,0.0,0.0019,-0.0019,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Stockholm Arlanda,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Stuttgart,0.0,0.0008,-0.0008,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Sweden,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Sydney,0.0152,0.0049,0.0103,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,SÃ£o Paulo,0.0152,0.0003,0.0148,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,TAV,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,TLV,0.0,0.0008,-0.0008,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,TPA,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,TRN,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,TXL,0.0,0.0014,-0.0014,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Tallinn,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Tampa,0.0152,0.0025,0.0126,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Tampa International,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Tehran,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Tel Aviv,0.0,0.0019,-0.0019,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Tenerife,0.0,0.0013,-0.0013,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Tenerife South,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Tenerife south,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Thessaloniki,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Thira,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Tirana,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Tirana London,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Tirana Rinas,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Tobago,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Tokyo,0.0,0.0019,-0.0019,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Tokyo Haneda,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Tokyo Narita,0.0,0.0011,-0.0011,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Toronto,0.0,0.0052,-0.0052,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Toronto / London,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Toulouse,0.0,0.0011,-0.0011,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Turin,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Turkey,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,UVF,0.0,0.0013,-0.0013,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,VCE,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,VIE,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,VIE return,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,VLC,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Valencia,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Vancouver,0.0,0.0072,-0.0072,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Vancouver Canada,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Venice,0.0152,0.0028,0.0123,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Venice Marco Polo,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Verona,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Victoria Falls,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Vienna,0.0,0.0027,-0.0027,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,WAW,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Warsaw,0.0,0.0016,-0.0016,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Washington,0.0,0.0036,-0.0036,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Washington DC,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Washington Dulles,0.0,0.0005,-0.0005,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,YUL,0.0,0.0009,-0.0009,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,YVR,0.0,0.0022,-0.0022,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,YVR-LIS,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,YYC,0.0,0.0009,-0.0009,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,YYZ,0.0,0.0028,-0.0028,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,ZRH,0.0,0.002,-0.002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Zagreb,0.0,0.0006,-0.0006,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Zakinthos,0.0,0.0003,-0.0003,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Zurich,0.0,0.0024,-0.0024,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,ZÃ¼rich,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,alicante,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,doha,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,iAH,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,lgw,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,london,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,londonDoha,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,san Francisco,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,handicap,rest,cities_split,Ä°stanbul,0.0,0.0002,-0.0002,4.603,0.2762,6.6681,0.6012
+category_vs_rest,pet,rest,cities_split,London,0.0,0.1866,-0.1866,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,LHR,0.0,0.1103,-0.1103,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,London Heathrow,0.0,0.0635,-0.0635,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Gatwick,0.0,0.0306,-0.0306,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Heathrow,0.0,0.0219,-0.0219,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,LGW,0.0,0.0184,-0.0184,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Singapore,0.0,0.0095,-0.0095,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,London Gatwick,0.0,0.0091,-0.0091,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Johannesburg,0.0,0.0088,-0.0088,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Cape Town,0.0,0.0088,-0.0088,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Los Angeles,0.0,0.0082,-0.0082,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Vancouver,0.0,0.0072,-0.0072,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,New York,0.0,0.0068,-0.0068,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Madrid,0.0,0.0063,-0.0063,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Dublin,0.0,0.006,-0.006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Chicago,0.0,0.006,-0.006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Miami,0.0,0.006,-0.006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Dubai,0.0,0.0058,-0.0058,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,JFK,0.0,0.0058,-0.0058,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Edinburgh,0.0,0.0057,-0.0057,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Amsterdam,0.0,0.0055,-0.0055,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Rome,0.0,0.0054,-0.0054,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Glasgow,0.0,0.0054,-0.0054,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Hong Kong,0.0,0.0052,-0.0052,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,BKK,0.0,0.0052,-0.0052,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Toronto,0.0,0.0052,-0.0052,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,SIN,0.0,0.005,-0.005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Bangkok,0.0,0.0049,-0.0049,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Manchester,0.0,0.0049,-0.0049,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Sydney,0.0,0.0049,-0.0049,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Las Vegas,0.0,0.0047,-0.0047,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Boston,0.0,0.0047,-0.0047,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Athens,0.0,0.0046,-0.0046,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,San Francisco,0.0,0.0046,-0.0046,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Istanbul,0.0,0.0046,-0.0046,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,London City,0.0,0.0044,-0.0044,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Malaga,0.0,0.0043,-0.0043,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Belfast,0.0,0.0043,-0.0043,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Paris,0.0,0.0041,-0.0041,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,New York JFK,0.0,0.0041,-0.0041,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Barcelona,0.0,0.0039,-0.0039,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,AMS,0.0,0.0039,-0.0039,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,MIA,0.0,0.0038,-0.0038,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,JNB,0.0,0.0038,-0.0038,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Berlin,0.0,0.0038,-0.0038,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,SFO,0.0,0.0036,-0.0036,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Washington,0.0,0.0036,-0.0036,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Orlando,0.0,0.0036,-0.0036,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Seattle,0.0,0.0035,-0.0035,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Geneva,0.0,0.0035,-0.0035,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,MAN,0.0,0.0033,-0.0033,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Frankfurt,0.0,0.0033,-0.0033,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,EDI,0.0,0.0032,-0.0032,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,HKG,0.0,0.0032,-0.0032,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Mumbai,0.0,0.0032,-0.0032,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Lisbon,0.0,0.0032,-0.0032,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Brussels,0.0,0.0032,-0.0032,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Larnaca,0.0,0.003,-0.003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,LCY,0.0,0.003,-0.003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,YYZ,0.0,0.0028,-0.0028,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Venice,0.0,0.0028,-0.0028,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,DXB,0.0,0.0028,-0.0028,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Vienna,0.0,0.0027,-0.0027,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,LAX,0.0,0.0027,-0.0027,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Copenhagen,0.0,0.0027,-0.0027,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Pisa,0.0,0.0027,-0.0027,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,LAS,0.0,0.0027,-0.0027,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,GLA,0.0,0.0027,-0.0027,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Phoenix,0.0,0.0027,-0.0027,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,ATH,0.0,0.0027,-0.0027,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Kuala Lumpur,0.0,0.0027,-0.0027,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,CPT,0.0,0.0027,-0.0027,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Cairo,0.0,0.0025,-0.0025,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Nice,0.0,0.0025,-0.0025,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Milan,0.0,0.0025,-0.0025,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Tampa,0.0,0.0025,-0.0025,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Munich,0.0,0.0025,-0.0025,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,KUL,0.0,0.0024,-0.0024,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Barbados,0.0,0.0024,-0.0024,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Zurich,0.0,0.0024,-0.0024,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,PHL,0.0,0.0024,-0.0024,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Prague,0.0,0.0024,-0.0024,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,YVR,0.0,0.0022,-0.0022,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Newcastle,0.0,0.0022,-0.0022,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,SYD,0.0,0.0022,-0.0022,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,IAD,0.0,0.0022,-0.0022,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Mauritius,0.0,0.0022,-0.0022,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,ZRH,0.0,0.002,-0.002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Budapest,0.0,0.002,-0.002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Sofia,0.0,0.002,-0.002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,GVA,0.0,0.002,-0.002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Aberdeen,0.0,0.002,-0.002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Tel Aviv,0.0,0.0019,-0.0019,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Dallas,0.0,0.0019,-0.0019,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Stockholm,0.0,0.0019,-0.0019,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Bucharest,0.0,0.0019,-0.0019,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Tokyo,0.0,0.0019,-0.0019,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Faro,0.0,0.0019,-0.0019,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,DUB,0.0,0.0019,-0.0019,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,BOS,0.0,0.0019,-0.0019,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Delhi,0.0,0.0019,-0.0019,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Philadelphia,0.0,0.0019,-0.0019,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,CDG,0.0,0.0019,-0.0019,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,BCN,0.0,0.0019,-0.0019,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Denver,0.0,0.0019,-0.0019,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Cancun,0.0,0.0017,-0.0017,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Hamburg,0.0,0.0017,-0.0017,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,St Lucia,0.0,0.0017,-0.0017,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,FCO,0.0,0.0017,-0.0017,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Abu Dhabi,0.0,0.0016,-0.0016,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Doha,0.0,0.0016,-0.0016,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Keflavik,0.0,0.0016,-0.0016,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Bologna,0.0,0.0016,-0.0016,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Austin,0.0,0.0016,-0.0016,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Warsaw,0.0,0.0016,-0.0016,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Newark,0.0,0.0016,-0.0016,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Funchal,0.0,0.0016,-0.0016,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Bangalore,0.0,0.0016,-0.0016,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Mexico City,0.0,0.0016,-0.0016,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Nairobi,0.0,0.0016,-0.0016,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,ORD,0.0,0.0016,-0.0016,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Antigua,0.0,0.0016,-0.0016,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Calgary,0.0,0.0014,-0.0014,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,San Diego,0.0,0.0014,-0.0014,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Accra,0.0,0.0014,-0.0014,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Bridgetown,0.0,0.0014,-0.0014,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Moscow,0.0,0.0014,-0.0014,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Montreal,0.0,0.0014,-0.0014,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,SEA,0.0,0.0014,-0.0014,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Buenos Aires,0.0,0.0014,-0.0014,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,LIS,0.0,0.0014,-0.0014,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,TXL,0.0,0.0014,-0.0014,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Santorini,0.0,0.0014,-0.0014,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Gibraltar,0.0,0.0014,-0.0014,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Tenerife,0.0,0.0013,-0.0013,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,IST,0.0,0.0013,-0.0013,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Dubrovnik,0.0,0.0013,-0.0013,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Lyon,0.0,0.0013,-0.0013,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Durban,0.0,0.0013,-0.0013,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,UVF,0.0,0.0013,-0.0013,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,San Jose,0.0,0.0013,-0.0013,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,GIG,0.0,0.0013,-0.0013,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Atlanta,0.0,0.0013,-0.0013,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Marrakech,0.0,0.0013,-0.0013,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Marseille,0.0,0.0013,-0.0013,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,BGI,0.0,0.0013,-0.0013,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,MAD,0.0,0.0013,-0.0013,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Houston,0.0,0.0011,-0.0011,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Hyderabad,0.0,0.0011,-0.0011,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Tokyo Narita,0.0,0.0011,-0.0011,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Seoul,0.0,0.0011,-0.0011,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,ATL,0.0,0.0011,-0.0011,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,LCA,0.0,0.0011,-0.0011,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,NBO,0.0,0.0011,-0.0011,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Dusseldorf,0.0,0.0011,-0.0011,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Jersey,0.0,0.0011,-0.0011,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Shanghai,0.0,0.0011,-0.0011,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,CPH,0.0,0.0011,-0.0011,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,PRG,0.0,0.0011,-0.0011,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Chennai,0.0,0.0011,-0.0011,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Amman,0.0,0.0011,-0.0011,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Toulouse,0.0,0.0011,-0.0011,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,YYC,0.0,0.0009,-0.0009,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,BOM,0.0,0.0009,-0.0009,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,GRU,0.0,0.0009,-0.0009,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,NCL,0.0,0.0009,-0.0009,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,MUC,0.0,0.0009,-0.0009,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,BUD,0.0,0.0009,-0.0009,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,SAN,0.0,0.0009,-0.0009,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Seville,0.0,0.0009,-0.0009,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Bari,0.0,0.0009,-0.0009,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Baltimore,0.0,0.0009,-0.0009,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Beijing,0.0,0.0009,-0.0009,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Gothenburg,0.0,0.0009,-0.0009,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,MXP,0.0,0.0009,-0.0009,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,MLA,0.0,0.0009,-0.0009,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Alicante,0.0,0.0009,-0.0009,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Nassau,0.0,0.0009,-0.0009,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,YUL,0.0,0.0009,-0.0009,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,DFW,0.0,0.0009,-0.0009,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,PUJ,0.0,0.0008,-0.0008,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,AGP,0.0,0.0008,-0.0008,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,OPO,0.0,0.0008,-0.0008,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,RAK,0.0,0.0008,-0.0008,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,TLV,0.0,0.0008,-0.0008,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,DEN,0.0,0.0008,-0.0008,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,ARN,0.0,0.0008,-0.0008,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Oslo,0.0,0.0008,-0.0008,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Milan Malpensa,0.0,0.0008,-0.0008,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Male,0.0,0.0008,-0.0008,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,SVQ,0.0,0.0008,-0.0008,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Naples,0.0,0.0008,-0.0008,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,MCO,0.0,0.0008,-0.0008,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,MRU,0.0,0.0008,-0.0008,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,New Orleans,0.0,0.0008,-0.0008,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Reykjavik,0.0,0.0008,-0.0008,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,PHX,0.0,0.0008,-0.0008,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,NCE,0.0,0.0008,-0.0008,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Paris CDG,0.0,0.0008,-0.0008,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Salzburg,0.0,0.0008,-0.0008,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Stuttgart,0.0,0.0008,-0.0008,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Bordeaux,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,SSH,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Jeddah,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,BRU,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,DUS,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,OTP,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,NAP,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Inverness,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,AUH,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,BAH,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,DBV,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Berlin Tegel,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,DOH,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,WAW,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,PEK,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,CUN,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Porto,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Santiago,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,DÃ¼sseldorf,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Punta Cana,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,HEL,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,TPA,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Sao Paulo,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,IAH,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,PVG,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Malta,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Kalamata,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Tirana,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Tokyo Haneda,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Lima,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Valencia,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Zagreb,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,FRA,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Basel,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,DEL,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Ibiza,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,BWI,0.0,0.0006,-0.0006,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Washington Dulles,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,EWR,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Seychelles,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,BSL,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,LIM,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Bahrain,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,PSA,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,LBA,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Chicago O'Hare,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,SOF,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Riyadh,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Paphos,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,BHD,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Kuwait,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Dalaman,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Leeds Bradford,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Rome Fiumicino,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Florence,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Rio de Janeiro,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,VIE,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,ACC,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Corfu,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Mykonos,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Catania,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,OSL,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,KBP,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Portland,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,AUS,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Kingston,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Hannover,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Fort Lauderdale,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,DME,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,SVO,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Leeds,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,HND,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Bengaluru,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Grenada,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Bermuda,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Rotterdam,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,NAS,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,MEX,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Paris Orly,0.0,0.0005,-0.0005,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,MRS,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Algiers,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,BLR,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,JED,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Antalya,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Kiev,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,St Kitts,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,IBZ,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Muscat,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Tehran,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Santiago de Chile,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,MAA,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Turin,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,KWI,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Cagliari,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,KRK,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,KGS,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,St Petersburgh,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,San Jose Costa Rica,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,IOM,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,London-Heathrow,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Rio De Janeiro,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Billund,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Nashville,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Heraklion,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Brindisi,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Rhodes,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,ALC,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,ICN,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Helsinki,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,ANU,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Belfast City,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Genoa,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Luxembourg,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Athens Greece,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Bilbao,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Zakinthos,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Bergen,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Krakow,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Grand Cayman,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Oakland,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Seoul Incheon,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Islamabad,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Madeira,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Palma,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,EZE,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Verona,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Mexico,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Abuja,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,GOT,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Tenerife South,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Innsbruck,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,SÃ£o Paulo,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Marrakesh,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Edmonton,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Washington DC,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,LHR-BOM,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Preveza,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Luanda,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,FNC,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,GIB,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,RUH,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,VCE,0.0,0.0003,-0.0003,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,OUL,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,LHR - EDI,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,TRN,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,SEL,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,RTM,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,JTR,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,LYS,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Rome FCO,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Granada,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,SNN,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,alicante,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,lgw,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Singapire,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Tampa International,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,VIE return,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Istambul,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Entebbe,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,MAN-LHR,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,San Fran,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Lebanon,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Anchorage,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,BOM-LHR,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Chicago / London,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Columbus,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Ahmedabad,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Ottawa,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Moscow Domodedovo,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Tirana London,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Tenerife south,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Cayman Islands,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,London / Seattle,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,SFO/PHX,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,New Delhi,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,ORY,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Stavanger,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,London LGW,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Stockholm Arlanda,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,ZÃ¼rich,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,london,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,"Billund, Denmark",0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Dallas Ft Worth,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Thessaloniki,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Manila,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,LED,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,London Heaathrow,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Detroit,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,MontrÃ©al,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Lanzarote,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,IKA,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,AMM,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,FUE,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,London UK (Heathrow),0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Amman Jordan,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,San francisco,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Thira,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Dallas Fort-Worth,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,san Francisco,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Toronto / London,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,"Manchester, UK",0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Bergerac,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,London / Johannesburg,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Tallinn,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Bristol,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Biarritz,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,"Abuja, Nigeria",0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,KrakÃ³w,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,St. Lucia,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Port of Spain,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Heathrow/Gatwick,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Victoria Falls,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Saint Lucia,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,"San Jose, CA",0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Tobago,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Rio de Janiero,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Duesseldorf,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Bombay,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Edimbourgh,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Delhi Airport,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,CTU,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,BFS,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,London Singapore,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Arlanda Stockholm,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Casablanca,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Lagos,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Mahon,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,London Cuty,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Edinburgh-Florence,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Murcia,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Tirana Rinas,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Seattle Tacoma,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Montpelier,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Ä°stanbul,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,"London,",0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Sweden,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Bodrum,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Singapore / London,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,"Accra, Ghana",0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,"Orlando, Florida",0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,London / Singapore,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Melbourne,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Miami / Madrid,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Lahore,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Maldives,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,St Petersburg,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,San Fransisco,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Cologne,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Larnaca Cyprus,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Auckland,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Johannesburg / Heathrow,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,CNX,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,VLC,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,CLT,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,DUR,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,LAD & ABV,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,London City Airport,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,PER,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,BIO,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,SJC,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,MEL,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,SJO,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,BGO,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,PMI,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,BRI,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Olbia,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Johannesburg OR Tambo,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Venice Marco Polo,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Pisa London Heathrow,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Palma de Mallorca,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Mahe,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Abuja Nigeria,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Kefalonia,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Cephalonia,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Kos,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Los Angesles,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,TAV,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Shannon,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Orlando MCO,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,London LHR,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,CAI,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Vancouver Canada,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,FLR,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,BAH / LHR,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,SXF,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,ABV,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,"BOS, SEA",0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,CTA,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,BDA,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,INV,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,STR,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,PFO,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,FAO,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,MCI,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,EBB,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,ABZ,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,londonDoha,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,doha,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,LHR-ORD,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,London-Vancouver return,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,FRA-LHR,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,GLA-LHR,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,LHR-GLA,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,ORD-LHR,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,LHR-DEN,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Turkey,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,LUX,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,LGW / LHR,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Kuala lumpur,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,London Heatrow,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Fuereventura,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Haneda,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,JFK (New York City),0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Heathrow (London),0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,Chengdu,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,BNE,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,YVR-LIS,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,iAH,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,SZG,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,MLE,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,pet,rest,cities_split,MIa,0.0,0.0002,-0.0002,1.4963,0.27,4.891,0.5558
+category_vs_rest,child,rest,cities_split,ABV,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,ABZ,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,ACC,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,AGP,0.0,0.0008,-0.0008,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,ALC,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,AMM,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,AMS,0.012,0.0039,0.0081,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,ANU,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,ARN,0.0,0.0008,-0.0008,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,ATH,0.0,0.0027,-0.0027,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,ATL,0.0,0.0011,-0.0011,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,AUH,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,AUS,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Aberdeen,0.0,0.002,-0.002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Abu Dhabi,0.0,0.0016,-0.0016,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Abuja,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Abuja Nigeria,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,"Abuja, Nigeria",0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Accra,0.0,0.0014,-0.0014,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,"Accra, Ghana",0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Ahmedabad,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Algiers,0.012,0.0003,0.0117,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Alicante,0.012,0.0009,0.0111,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Amman,0.0,0.0011,-0.0011,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Amman Jordan,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Amsterdam,0.0,0.0055,-0.0055,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Anchorage,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Antalya,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Antigua,0.0,0.0016,-0.0016,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Arlanda Stockholm,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Athens,0.0,0.0046,-0.0046,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Athens Greece,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Atlanta,0.0,0.0013,-0.0013,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Auckland,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Austin,0.0,0.0016,-0.0016,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,BAH,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,BAH / LHR,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,BCN,0.012,0.0019,0.0102,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,BDA,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,BFS,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,BGI,0.0,0.0013,-0.0013,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,BGO,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,BHD,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,BIO,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,BKK,0.0,0.0052,-0.0052,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,BLR,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,BNE,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,BOM,0.0,0.0009,-0.0009,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,BOM-LHR,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,BOS,0.0,0.0019,-0.0019,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,"BOS, SEA",0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,BRI,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,BRU,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,BSL,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,BUD,0.0,0.0009,-0.0009,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,BWI,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Bahrain,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Baltimore,0.0,0.0009,-0.0009,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Bangalore,0.0,0.0016,-0.0016,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Bangkok,0.0,0.0049,-0.0049,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Barbados,0.0,0.0024,-0.0024,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Barcelona,0.0,0.0039,-0.0039,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Bari,0.0,0.0009,-0.0009,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Basel,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Beijing,0.0,0.0009,-0.0009,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Belfast,0.0,0.0043,-0.0043,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Belfast City,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Bengaluru,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Bergen,0.012,0.0003,0.0117,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Bergerac,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Berlin,0.0,0.0038,-0.0038,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Berlin Tegel,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Bermuda,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Biarritz,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Bilbao,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Billund,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,"Billund, Denmark",0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Bodrum,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Bologna,0.0,0.0016,-0.0016,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Bombay,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Bordeaux,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Boston,0.012,0.0047,0.0073,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Bridgetown,0.0,0.0014,-0.0014,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Brindisi,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Bristol,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Brussels,0.0,0.0032,-0.0032,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Bucharest,0.0,0.0019,-0.0019,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Budapest,0.012,0.002,0.01,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Buenos Aires,0.0,0.0014,-0.0014,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,CAI,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,CDG,0.0,0.0019,-0.0019,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,CLT,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,CNX,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,CPH,0.0,0.0011,-0.0011,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,CPT,0.0,0.0027,-0.0027,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,CTA,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,CTU,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,CUN,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Cagliari,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Cairo,0.012,0.0025,0.0095,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Calgary,0.0,0.0014,-0.0014,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Cancun,0.0,0.0017,-0.0017,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Cape Town,0.0361,0.0088,0.0273,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Casablanca,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Catania,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Cayman Islands,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Cephalonia,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Chengdu,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Chennai,0.012,0.0011,0.0109,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Chicago,0.0,0.006,-0.006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Chicago / London,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Chicago O'Hare,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Cologne,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Columbus,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Copenhagen,0.0,0.0027,-0.0027,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Corfu,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,DBV,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,DEL,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,DEN,0.0,0.0008,-0.0008,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,DFW,0.0,0.0009,-0.0009,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,DME,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,DOH,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,DUB,0.0,0.0019,-0.0019,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,DUR,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,DUS,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,DXB,0.0,0.0028,-0.0028,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Dalaman,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Dallas,0.0,0.0019,-0.0019,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Dallas Fort-Worth,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Dallas Ft Worth,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Delhi,0.012,0.0019,0.0102,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Delhi Airport,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Denver,0.0,0.0019,-0.0019,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Detroit,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Doha,0.0,0.0016,-0.0016,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Dubai,0.012,0.0058,0.0062,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Dublin,0.0,0.006,-0.006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Dubrovnik,0.0,0.0013,-0.0013,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Duesseldorf,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Durban,0.0,0.0013,-0.0013,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Dusseldorf,0.0,0.0011,-0.0011,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,DÃ¼sseldorf,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,EBB,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,EDI,0.0,0.0032,-0.0032,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,EWR,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,EZE,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Edimbourgh,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Edinburgh,0.0,0.0057,-0.0057,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Edinburgh-Florence,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Edmonton,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Entebbe,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,FAO,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,FCO,0.0,0.0017,-0.0017,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,FLR,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,FNC,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,FRA,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,FRA-LHR,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,FUE,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Faro,0.0,0.0019,-0.0019,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Florence,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Fort Lauderdale,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Frankfurt,0.0,0.0033,-0.0033,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Fuereventura,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Funchal,0.0,0.0016,-0.0016,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,GIB,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,GIG,0.0,0.0013,-0.0013,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,GLA,0.0,0.0027,-0.0027,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,GLA-LHR,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,GOT,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,GRU,0.0,0.0009,-0.0009,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,GVA,0.0,0.002,-0.002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Gatwick,0.0602,0.0306,0.0297,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Geneva,0.0,0.0035,-0.0035,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Genoa,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Gibraltar,0.012,0.0014,0.0106,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Glasgow,0.0,0.0054,-0.0054,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Gothenburg,0.0,0.0009,-0.0009,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Granada,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Grand Cayman,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Grenada,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,HEL,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,HKG,0.012,0.0032,0.0089,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,HND,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Hamburg,0.0,0.0017,-0.0017,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Haneda,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Hannover,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Heathrow,0.0,0.0219,-0.0219,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Heathrow (London),0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Heathrow/Gatwick,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Helsinki,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Heraklion,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Hong Kong,0.0,0.0052,-0.0052,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Houston,0.0,0.0011,-0.0011,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Hyderabad,0.0,0.0011,-0.0011,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,IAD,0.0,0.0022,-0.0022,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,IAH,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,IBZ,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,ICN,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,IKA,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,INV,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,IOM,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,IST,0.0,0.0013,-0.0013,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Ibiza,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Innsbruck,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Inverness,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Islamabad,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Istambul,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Istanbul,0.0,0.0046,-0.0046,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,JED,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,JFK,0.0,0.0058,-0.0058,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,JFK (New York City),0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,JNB,0.0,0.0038,-0.0038,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,JTR,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Jeddah,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Jersey,0.0,0.0011,-0.0011,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Johannesburg,0.0,0.0088,-0.0088,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Johannesburg / Heathrow,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Johannesburg OR Tambo,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,KBP,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,KGS,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,KRK,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,KUL,0.0,0.0024,-0.0024,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,KWI,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Kalamata,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Kefalonia,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Keflavik,0.0,0.0016,-0.0016,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Kiev,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Kingston,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Kos,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Krakow,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,KrakÃ³w,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Kuala Lumpur,0.0,0.0027,-0.0027,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Kuala lumpur,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Kuwait,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,LAD & ABV,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,LAS,0.0,0.0027,-0.0027,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,LAX,0.0,0.0027,-0.0027,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,LBA,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,LCA,0.0,0.0011,-0.0011,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,LCY,0.0,0.003,-0.003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,LED,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,LGW,0.012,0.0184,-0.0064,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,LGW / LHR,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,LHR,0.0843,0.1103,-0.0259,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,LHR - EDI,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,LHR-BOM,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,LHR-DEN,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,LHR-GLA,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,LHR-ORD,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,LIM,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,LIS,0.0,0.0014,-0.0014,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,LUX,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,LYS,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Lagos,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Lahore,0.012,0.0002,0.0119,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Lanzarote,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Larnaca,0.0,0.003,-0.003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Larnaca Cyprus,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Las Vegas,0.0,0.0047,-0.0047,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Lebanon,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Leeds,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Leeds Bradford,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Lima,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Lisbon,0.0,0.0032,-0.0032,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,London,0.1566,0.1866,-0.03,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,London / Johannesburg,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,London / Seattle,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,London / Singapore,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,London City,0.0,0.0044,-0.0044,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,London City Airport,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,London Cuty,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,London Gatwick,0.012,0.0091,0.0029,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,London Heaathrow,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,London Heathrow,0.1205,0.0635,0.057,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,London Heatrow,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,London LGW,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,London LHR,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,London Singapore,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,London UK (Heathrow),0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,"London,",0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,London-Heathrow,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,London-Vancouver return,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Los Angeles,0.0,0.0082,-0.0082,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Los Angesles,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Luanda,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Luxembourg,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Lyon,0.0,0.0013,-0.0013,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,MAA,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,MAD,0.0,0.0013,-0.0013,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,MAN,0.0,0.0033,-0.0033,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,MAN-LHR,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,MCI,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,MCO,0.012,0.0008,0.0113,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,MEL,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,MEX,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,MIA,0.0241,0.0038,0.0203,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,MIa,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,MLA,0.0,0.0009,-0.0009,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,MLE,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,MRS,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,MRU,0.0,0.0008,-0.0008,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,MUC,0.0,0.0009,-0.0009,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,MXP,0.0,0.0009,-0.0009,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Madeira,0.012,0.0003,0.0117,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Madrid,0.0,0.0063,-0.0063,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Mahe,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Mahon,0.012,0.0002,0.0119,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Malaga,0.0,0.0043,-0.0043,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Maldives,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Male,0.0,0.0008,-0.0008,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Malta,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Manchester,0.0,0.0049,-0.0049,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,"Manchester, UK",0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Manila,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Marrakech,0.0,0.0013,-0.0013,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Marrakesh,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Marseille,0.0,0.0013,-0.0013,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Mauritius,0.0,0.0022,-0.0022,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Melbourne,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Mexico,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Mexico City,0.0,0.0016,-0.0016,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Miami,0.012,0.006,0.0061,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Miami / Madrid,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Milan,0.0,0.0025,-0.0025,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Milan Malpensa,0.0,0.0008,-0.0008,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Montpelier,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Montreal,0.0,0.0014,-0.0014,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,MontrÃ©al,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Moscow,0.012,0.0014,0.0106,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Moscow Domodedovo,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Mumbai,0.0,0.0032,-0.0032,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Munich,0.0,0.0025,-0.0025,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Murcia,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Muscat,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Mykonos,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,NAP,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,NAS,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,NBO,0.0,0.0011,-0.0011,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,NCE,0.0,0.0008,-0.0008,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,NCL,0.0,0.0009,-0.0009,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Nairobi,0.0,0.0016,-0.0016,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Naples,0.0,0.0008,-0.0008,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Nashville,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Nassau,0.0,0.0009,-0.0009,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,New Delhi,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,New Orleans,0.0,0.0008,-0.0008,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,New York,0.012,0.0068,0.0053,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,New York JFK,0.012,0.0041,0.008,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Newark,0.0,0.0016,-0.0016,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Newcastle,0.0,0.0022,-0.0022,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Nice,0.012,0.0025,0.0095,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,OPO,0.0,0.0008,-0.0008,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,ORD,0.012,0.0016,0.0105,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,ORD-LHR,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,ORY,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,OSL,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,OTP,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,OUL,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Oakland,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Olbia,0.012,0.0002,0.0119,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Orlando,0.0241,0.0036,0.0205,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Orlando MCO,0.012,0.0002,0.0119,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,"Orlando, Florida",0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Oslo,0.0,0.0008,-0.0008,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Ottawa,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,PEK,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,PER,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,PFO,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,PHL,0.012,0.0024,0.0097,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,PHX,0.0,0.0008,-0.0008,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,PMI,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,PRG,0.012,0.0011,0.0109,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,PSA,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,PUJ,0.0,0.0008,-0.0008,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,PVG,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Palma,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Palma de Mallorca,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Paphos,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Paris,0.0,0.0041,-0.0041,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Paris CDG,0.0,0.0008,-0.0008,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Paris Orly,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Philadelphia,0.0,0.0019,-0.0019,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Phoenix,0.0,0.0027,-0.0027,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Pisa,0.012,0.0027,0.0094,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Pisa London Heathrow,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Port of Spain,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Portland,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Porto,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Prague,0.0,0.0024,-0.0024,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Preveza,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Punta Cana,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,RAK,0.0,0.0008,-0.0008,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,RTM,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,RUH,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Reykjavik,0.0,0.0008,-0.0008,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Rhodes,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Rio De Janeiro,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Rio de Janeiro,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Rio de Janiero,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Riyadh,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Rome,0.0,0.0054,-0.0054,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Rome FCO,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Rome Fiumicino,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Rotterdam,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,SAN,0.0,0.0009,-0.0009,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,SEA,0.0,0.0014,-0.0014,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,SEL,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,SFO,0.0,0.0036,-0.0036,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,SFO/PHX,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,SIN,0.0241,0.005,0.0191,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,SJC,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,SJO,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,SNN,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,SOF,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,SSH,0.012,0.0006,0.0114,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,STR,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,SVO,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,SVQ,0.0,0.0008,-0.0008,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,SXF,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,SYD,0.012,0.0022,0.0098,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,SZG,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Saint Lucia,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Salzburg,0.0,0.0008,-0.0008,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,San Diego,0.0,0.0014,-0.0014,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,San Fran,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,San Francisco,0.0,0.0046,-0.0046,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,San Fransisco,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,San Jose,0.0,0.0013,-0.0013,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,San Jose Costa Rica,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,"San Jose, CA",0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,San francisco,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Santiago,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Santiago de Chile,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Santorini,0.0,0.0014,-0.0014,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Sao Paulo,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Seattle,0.0,0.0035,-0.0035,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Seattle Tacoma,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Seoul,0.0,0.0011,-0.0011,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Seoul Incheon,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Seville,0.0,0.0009,-0.0009,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Seychelles,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Shanghai,0.0,0.0011,-0.0011,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Shannon,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Singapire,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Singapore,0.0241,0.0095,0.0146,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Singapore / London,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Sofia,0.0,0.002,-0.002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,St Kitts,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,St Lucia,0.0,0.0017,-0.0017,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,St Petersburg,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,St Petersburgh,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,St. Lucia,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Stavanger,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Stockholm,0.0,0.0019,-0.0019,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Stockholm Arlanda,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Stuttgart,0.0,0.0008,-0.0008,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Sweden,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Sydney,0.012,0.0049,0.0072,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,SÃ£o Paulo,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,TAV,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,TLV,0.0,0.0008,-0.0008,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,TPA,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,TRN,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,TXL,0.0,0.0014,-0.0014,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Tallinn,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Tampa,0.0,0.0025,-0.0025,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Tampa International,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Tehran,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Tel Aviv,0.0,0.0019,-0.0019,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Tenerife,0.0,0.0013,-0.0013,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Tenerife South,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Tenerife south,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Thessaloniki,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Thira,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Tirana,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Tirana London,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Tirana Rinas,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Tobago,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Tokyo,0.0,0.0019,-0.0019,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Tokyo Haneda,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Tokyo Narita,0.0,0.0011,-0.0011,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Toronto,0.012,0.0052,0.0069,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Toronto / London,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Toulouse,0.0,0.0011,-0.0011,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Turin,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Turkey,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,UVF,0.0,0.0013,-0.0013,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,VCE,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,VIE,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,VIE return,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,VLC,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Valencia,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Vancouver,0.0,0.0072,-0.0072,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Vancouver Canada,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Venice,0.012,0.0028,0.0092,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Venice Marco Polo,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Verona,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Victoria Falls,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Vienna,0.0,0.0027,-0.0027,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,WAW,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Warsaw,0.012,0.0016,0.0105,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Washington,0.0,0.0036,-0.0036,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Washington DC,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Washington Dulles,0.0,0.0005,-0.0005,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,YUL,0.0,0.0009,-0.0009,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,YVR,0.012,0.0022,0.0098,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,YVR-LIS,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,YYC,0.0,0.0009,-0.0009,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,YYZ,0.0,0.0028,-0.0028,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,ZRH,0.0,0.002,-0.002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Zagreb,0.0,0.0006,-0.0006,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Zakinthos,0.0,0.0003,-0.0003,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Zurich,0.0,0.0024,-0.0024,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,ZÃ¼rich,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,alicante,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,doha,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,iAH,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,lgw,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,london,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,londonDoha,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,san Francisco,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_rest,child,rest,cities_split,Ä°stanbul,0.0,0.0002,-0.0002,4.4731,0.2649,7.411,0.5893
+category_vs_category,handicap,pet,cities_split,London,0.2121,0.0,0.2121,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,LHR,0.0909,0.0,0.0909,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,London Heathrow,0.0606,0.0,0.0606,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,Gatwick,0.0455,0.0,0.0455,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,Rome,0.0303,0.0,0.0303,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,Chicago,0.0303,0.0,0.0303,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,Barcelona,0.0303,0.0,0.0303,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,Denver,0.0303,0.0,0.0303,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,Mumbai,0.0303,0.0,0.0303,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,Frankfurt,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,SÃ£o Paulo,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,Milan,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,Munich,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,Madrid,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,Chennai,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,Seattle,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,Calgary,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,DÃ¼sseldorf,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,Seychelles,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,Tampa,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,Brussels,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,Venice,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,Boston,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,Alicante,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,San Diego,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,IST,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,BUD,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,AGP,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,LGW,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,MCI,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,ORD,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,ATH,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,GLA,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,CDG,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,GIG,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,Heathrow,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,Sydney,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,pet,cities_split,Singapore,0.0152,0.0,0.0152,0.3442,0.0778,1.6694,0.2856
+category_vs_category,handicap,child,cities_split,AGP,0.0152,0.0,0.0152,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,AMS,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,ATH,0.0152,0.0,0.0152,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Algiers,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Alicante,0.0152,0.012,0.0031,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,BCN,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,BUD,0.0152,0.0,0.0152,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Barcelona,0.0303,0.0,0.0303,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Bergen,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Boston,0.0152,0.012,0.0031,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Brussels,0.0152,0.0,0.0152,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Budapest,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,CDG,0.0152,0.0,0.0152,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Cairo,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Calgary,0.0152,0.0,0.0152,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Cape Town,0.0,0.0361,-0.0361,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Chennai,0.0152,0.012,0.0031,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Chicago,0.0303,0.0,0.0303,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Delhi,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Denver,0.0303,0.0,0.0303,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Dubai,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,DÃ¼sseldorf,0.0152,0.0,0.0152,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Frankfurt,0.0152,0.0,0.0152,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,GIG,0.0152,0.0,0.0152,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,GLA,0.0152,0.0,0.0152,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Gatwick,0.0455,0.0602,-0.0148,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Gibraltar,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,HKG,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Heathrow,0.0152,0.0,0.0152,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,IST,0.0152,0.0,0.0152,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,LGW,0.0152,0.012,0.0031,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,LHR,0.0909,0.0843,0.0066,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Lahore,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,London,0.2121,0.1566,0.0555,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,London Gatwick,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,London Heathrow,0.0606,0.1205,-0.0599,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,MCI,0.0152,0.0,0.0152,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,MCO,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,MIA,0.0,0.0241,-0.0241,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Madeira,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Madrid,0.0152,0.0,0.0152,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Mahon,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Miami,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Milan,0.0152,0.0,0.0152,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Moscow,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Mumbai,0.0303,0.0,0.0303,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Munich,0.0152,0.0,0.0152,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,New York,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,New York JFK,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Nice,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,ORD,0.0152,0.012,0.0031,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Olbia,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Orlando,0.0,0.0241,-0.0241,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Orlando MCO,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,PHL,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,PRG,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Pisa,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Rome,0.0303,0.0,0.0303,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,SIN,0.0,0.0241,-0.0241,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,SSH,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,SYD,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,San Diego,0.0152,0.0,0.0152,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Seattle,0.0152,0.0,0.0152,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Seychelles,0.0152,0.0,0.0152,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Singapore,0.0152,0.0241,-0.0089,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Sydney,0.0152,0.012,0.0031,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,SÃ£o Paulo,0.0152,0.0,0.0152,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Tampa,0.0152,0.0,0.0152,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Toronto,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Venice,0.0152,0.012,0.0031,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,Warsaw,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,handicap,child,cities_split,YVR,0.0,0.012,-0.012,8.9285,0.3345,47061524.3583,0.6918
+category_vs_category,pet,child,cities_split,London,0.0,0.1566,-0.1566,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,London Heathrow,0.0,0.1205,-0.1205,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,LHR,0.0,0.0843,-0.0843,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,Gatwick,0.0,0.0602,-0.0602,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,Cape Town,0.0,0.0361,-0.0361,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,Orlando,0.0,0.0241,-0.0241,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,Singapore,0.0,0.0241,-0.0241,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,SIN,0.0,0.0241,-0.0241,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,MIA,0.0,0.0241,-0.0241,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,Warsaw,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,Cairo,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,Algiers,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,Boston,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,Venice,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,Gibraltar,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,Olbia,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,Chennai,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,Delhi,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,Lahore,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,Moscow,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,Budapest,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,Mahon,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,Madeira,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,Dubai,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,New York JFK,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,New York,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,Bergen,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,Alicante,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,SYD,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,Sydney,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,Nice,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,HKG,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,PRG,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,PHL,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,ORD,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,AMS,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,YVR,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,BCN,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,MCO,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,SSH,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,LGW,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,Miami,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,Toronto,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,Pisa,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,London Gatwick,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051
+category_vs_category,pet,child,cities_split,Orlando MCO,0.0,0.012,-0.012,0.3897,0.0893,0.5632,0.3051

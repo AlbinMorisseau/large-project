@@ -1,0 +1,13 @@
+comparison_type,category,category2,feature,feature_value,proportion_cat1,proportion_cat2,difference,kl_divergence,js_divergence,chi_square_distance,hellinger_distance
+category_vs_rest,handicap,rest,trip_type,Leisure trip,0.8406,0.8344,0.0062,0.0001,0.0,0.0003,0.006
+category_vs_rest,handicap,rest,trip_type,Business trip,0.1594,0.1656,-0.0062,0.0001,0.0,0.0003,0.006
+category_vs_rest,pet,rest,trip_type,Leisure trip,0.8644,0.8344,0.03,0.0035,0.0009,0.0065,0.0297
+category_vs_rest,pet,rest,trip_type,Business trip,0.1356,0.1656,-0.03,0.0035,0.0009,0.0065,0.0297
+category_vs_rest,child,rest,trip_type,Leisure trip,0.9653,0.8344,0.131,0.1119,0.0257,0.1241,0.1636
+category_vs_rest,child,rest,trip_type,Business trip,0.0347,0.1656,-0.131,0.1119,0.0257,0.1241,0.1636
+category_vs_category,handicap,pet,trip_type,Leisure trip,0.8406,0.8644,-0.0238,0.0023,0.0006,0.0048,0.0238
+category_vs_category,handicap,pet,trip_type,Business trip,0.1594,0.1356,0.0238,0.0023,0.0006,0.0048,0.0238
+category_vs_category,handicap,child,trip_type,Leisure trip,0.8406,0.9653,-0.1247,0.1038,0.0239,0.4648,0.1576
+category_vs_category,handicap,child,trip_type,Business trip,0.1594,0.0347,0.1247,0.1038,0.0239,0.4648,0.1576
+category_vs_category,pet,child,trip_type,Leisure trip,0.8644,0.9653,-0.1009,0.0744,0.0174,0.3042,0.134
+category_vs_category,pet,child,trip_type,Business trip,0.1356,0.0347,0.1009,0.0744,0.0174,0.3042,0.134

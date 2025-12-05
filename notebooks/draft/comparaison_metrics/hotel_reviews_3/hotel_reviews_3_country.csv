@@ -1,0 +1,7 @@
+comparison_type,category,category2,feature,feature_value,proportion_cat1,proportion_cat2,difference,kl_divergence,js_divergence,chi_square_distance,hellinger_distance
+category_vs_rest,handicap,rest,country,US,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+category_vs_rest,pet,rest,country,US,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+category_vs_rest,child,rest,country,US,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+category_vs_category,handicap,pet,country,US,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+category_vs_category,handicap,child,country,US,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+category_vs_category,pet,child,country,US,1.0,1.0,0.0,0.0,0.0,0.0,0.0

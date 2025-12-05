@@ -1,0 +1,689 @@
+comparison_type,category,category2,feature,feature_value,proportion_cat1,proportion_cat2,difference,kl_divergence,js_divergence,chi_square_distance,hellinger_distance
+category_vs_rest,child,rest,country,Albania,0.0022,0.0036,-0.0014,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Algeria,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Andorra,0.0,0.0003,-0.0003,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Angola,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Antigua and Barbuda,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Argentina,0.0,0.0011,-0.0011,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Armenia,0.0,0.0007,-0.0007,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Aruba,0.0,0.0002,-0.0002,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Australia,0.0124,0.0575,-0.0451,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Austria,0.0011,0.0084,-0.0073,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Azerbaijan,0.0,0.0005,-0.0005,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Bahamas,0.0,0.0001,-0.0001,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Bahrain,0.0,0.0008,-0.0008,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Bangladesh,0.0,0.0001,-0.0001,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Barbados,0.0,0.0003,-0.0003,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Belgium,0.0022,0.0058,-0.0036,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Belize,0.0,0.0003,-0.0003,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Benin,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Bermuda,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Bhutan,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Bolivia,0.0,0.0005,-0.0005,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,"Bonaire, Saint Eustatius and Saba",0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Bosnia and Herzegovina,0.0011,0.0012,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Botswana,0.0,0.0001,-0.0001,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Brazil,0.0,0.0012,-0.0012,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Brunei Darussalam,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Bulgaria,0.0011,0.003,-0.0019,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Burundi,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Cambodia,0.0,0.0024,-0.0024,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Canada,0.0045,0.0171,-0.0126,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Cape Verde,0.0,0.0001,-0.0001,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Cayman Islands,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Chile,0.0,0.0012,-0.0012,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,China,0.0,0.001,-0.001,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Colombia,0.0,0.0024,-0.0024,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Cook Islands,0.0011,0.0002,0.0009,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Costa Rica,0.0034,0.0033,0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Cote d'Ivoire,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Croatia,0.0,0.008,-0.008,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Curaçao,0.0,0.0001,-0.0001,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Cyprus,0.0,0.0031,-0.0031,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Czech Republic,0.0034,0.0058,-0.0024,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Denmark,0.0,0.0028,-0.0028,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Djibouti,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Dominica,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Dominican Republic,0.0,0.0005,-0.0005,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Ecuador,0.0,0.0008,-0.0008,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Egypt,0.0,0.006,-0.006,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,El Salvador,0.0,0.0002,-0.0002,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Estonia,0.0,0.0018,-0.0018,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Ethiopia,0.0,0.0001,-0.0001,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Faroe Islands,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Fiji,0.0,0.0007,-0.0007,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Finland,0.0011,0.0018,-0.0007,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,France,0.0079,0.0288,-0.021,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,French Polynesia,0.0,0.0002,-0.0002,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Gambia,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Georgia,0.0011,0.0027,-0.0016,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Germany,0.0011,0.0208,-0.0197,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Ghana,0.0,0.0001,-0.0001,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Gibraltar,0.0,0.0001,-0.0001,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Greece,0.0045,0.0258,-0.0213,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Greenland,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Grenada,0.0011,0.0001,0.001,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Guadeloupe,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Guam,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Guatemala,0.0,0.0006,-0.0006,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Haiti,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Honduras,0.0,0.0001,-0.0001,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Hong Kong,0.0011,0.0015,-0.0004,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Hungary,0.0011,0.0043,-0.0031,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Iceland,0.0,0.0051,-0.0051,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,India,0.0079,0.013,-0.0051,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Indonesia,0.0056,0.0167,-0.011,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Iraq,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Ireland,0.0011,0.0145,-0.0134,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Isle of Man,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Israel,0.0,0.002,-0.002,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Italy,0.009,0.06,-0.051,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Jamaica,0.0,0.0004,-0.0004,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Japan,0.0079,0.0233,-0.0154,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Jordan,0.0,0.0029,-0.0029,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Kazakhstan,0.0,0.0002,-0.0002,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Kenya,0.0,0.0008,-0.0008,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,"Korea, South",0.0,0.0038,-0.0038,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Kosovo,0.0,0.0002,-0.0002,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Kuwait,0.0011,0.0002,0.0009,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Kyrgyzstan,0.0,0.0003,-0.0003,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Laos,0.0,0.001,-0.001,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Latvia,0.0,0.0011,-0.0011,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Lebanon,0.0,0.0003,-0.0003,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Liechtenstein,0.0,0.0001,-0.0001,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Lithuania,0.0,0.0012,-0.0012,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Luxembourg,0.0,0.0006,-0.0006,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Macau,0.0,0.0002,-0.0002,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Macedonia,0.0,0.0009,-0.0009,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Madagascar,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Malawi,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Malaysia,0.0067,0.0151,-0.0084,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Maldives,0.0011,0.0006,0.0005,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Malta,0.0,0.002,-0.002,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Mauritius,0.0,0.0004,-0.0004,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Mexico,0.0022,0.006,-0.0037,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Moldova,0.0,0.0001,-0.0001,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Monaco,0.0,0.0001,-0.0001,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Mongolia,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Montenegro,0.0,0.0019,-0.0019,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Morocco,0.0056,0.0065,-0.0008,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Mozambique,0.0,0.0001,-0.0001,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Myanmar,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Namibia,0.0,0.0004,-0.0004,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Nepal,0.0,0.0008,-0.0008,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Netherlands,0.0034,0.0086,-0.0052,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,New Caledonia,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,New Zealand,0.0067,0.0191,-0.0124,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Nicaragua,0.0011,0.0003,0.0008,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Nigeria,0.0,0.0001,-0.0001,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Norfolk Island,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Northern Cyprus,0.0,0.0003,-0.0003,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Norway,0.0,0.0032,-0.0032,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Oman,0.0,0.0012,-0.0012,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Pakistan,0.0,0.0005,-0.0005,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Palau,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Palestine,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Panama,0.0,0.0011,-0.0011,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Papua New Guinea,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Paraguay,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Peru,0.0,0.0013,-0.0013,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Philippines,0.0022,0.0064,-0.0041,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Poland,0.0034,0.0083,-0.005,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Portugal,0.0022,0.0189,-0.0166,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Puerto Rico,0.0011,0.0006,0.0005,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Qatar,0.0,0.0012,-0.0012,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Reunion,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Romania,0.0011,0.0035,-0.0024,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Rwanda,0.0,0.0001,-0.0001,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Saint Lucia,0.0,0.0001,-0.0001,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Saint Martin,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Saint Vincent and the Grenadines,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Samoa,0.0,0.0002,-0.0002,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,San Marino,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Sao Tome and Principe,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Saudi Arabia,0.0022,0.0043,-0.0021,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Senegal,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Serbia,0.0,0.0018,-0.0018,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Seychelles,0.0,0.0004,-0.0004,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Singapore,0.0011,0.0031,-0.002,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Slovakia,0.0,0.0014,-0.0014,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Slovenia,0.0011,0.0032,-0.002,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Solomon Islands,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,South Africa,0.0056,0.0139,-0.0083,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Spain,0.018,0.0419,-0.0239,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Sri Lanka,0.0,0.0051,-0.0051,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Suriname,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Swaziland,0.0,0.0001,-0.0001,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Sweden,0.0022,0.0047,-0.0025,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Switzerland,0.0011,0.0075,-0.0064,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Taiwan,0.0011,0.0029,-0.0018,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Tajikistan,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Tanzania,0.0011,0.0016,-0.0005,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Thailand,0.0067,0.0196,-0.0128,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Togo,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Tonga,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Trinidad and Tobago,0.0,0.0001,-0.0001,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Tunisia,0.0011,0.0004,0.0007,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Turkey,0.009,0.0127,-0.0037,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Turks and Caicos Islands,0.0,0.0001,-0.0001,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,US,0.7483,0.084,0.6643,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Uganda,0.0,0.0001,-0.0001,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Ukraine,0.0,0.0002,-0.0002,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,United Arab Emirates,0.0045,0.008,-0.0035,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,United Kingdom,0.036,0.1768,-0.1409,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,United States of America,0.036,0.1032,-0.0673,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Uruguay,0.0011,0.0002,0.0009,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Uzbekistan,0.0,0.0007,-0.0007,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Vanuatu,0.0,0.0001,-0.0001,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Venezuela,0.0,0.0,-0.0,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Vietnam,0.0022,0.0127,-0.0104,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,"Virgin Islands, U.S.",0.0,0.0001,-0.0001,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Zambia,0.0,0.0002,-0.0002,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,child,rest,country,Zimbabwe,0.0,0.0002,-0.0002,1.8763,0.2788,5.7969,0.5568
+category_vs_rest,pet,rest,country,Albania,0.0,0.0036,-0.0036,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Algeria,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Andorra,0.0,0.0003,-0.0003,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Angola,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Antigua and Barbuda,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Argentina,0.0,0.0011,-0.0011,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Armenia,0.0,0.0007,-0.0007,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Aruba,0.0,0.0002,-0.0002,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Australia,0.0042,0.0575,-0.0533,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Austria,0.0,0.0084,-0.0084,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Azerbaijan,0.0,0.0005,-0.0005,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Bahamas,0.0,0.0001,-0.0001,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Bahrain,0.0,0.0008,-0.0008,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Bangladesh,0.0,0.0001,-0.0001,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Barbados,0.0,0.0003,-0.0003,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Belgium,0.0011,0.0058,-0.0048,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Belize,0.0,0.0003,-0.0003,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Benin,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Bermuda,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Bhutan,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Bolivia,0.0,0.0005,-0.0005,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,"Bonaire, Saint Eustatius and Saba",0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Bosnia and Herzegovina,0.0,0.0012,-0.0012,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Botswana,0.0,0.0001,-0.0001,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Brazil,0.0,0.0012,-0.0012,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Brunei Darussalam,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Bulgaria,0.0021,0.003,-0.0009,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Burundi,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Cambodia,0.0,0.0024,-0.0024,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Canada,0.0074,0.0171,-0.0097,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Cape Verde,0.0,0.0001,-0.0001,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Cayman Islands,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Chile,0.0,0.0012,-0.0012,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,China,0.0,0.001,-0.001,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Colombia,0.0,0.0024,-0.0024,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Cook Islands,0.0,0.0002,-0.0002,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Costa Rica,0.0,0.0033,-0.0033,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Cote d'Ivoire,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Croatia,0.0,0.008,-0.008,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Curaçao,0.0,0.0001,-0.0001,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Cyprus,0.0,0.0031,-0.0031,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Czech Republic,0.0,0.0058,-0.0058,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Denmark,0.0,0.0028,-0.0028,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Djibouti,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Dominica,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Dominican Republic,0.0,0.0005,-0.0005,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Ecuador,0.0,0.0008,-0.0008,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Egypt,0.0,0.006,-0.006,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,El Salvador,0.0,0.0002,-0.0002,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Estonia,0.0,0.0018,-0.0018,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Ethiopia,0.0,0.0001,-0.0001,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Faroe Islands,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Fiji,0.0,0.0007,-0.0007,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Finland,0.0,0.0018,-0.0018,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,France,0.0032,0.0288,-0.0257,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,French Polynesia,0.0,0.0002,-0.0002,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Gambia,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Georgia,0.0,0.0027,-0.0027,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Germany,0.0053,0.0208,-0.0155,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Ghana,0.0,0.0001,-0.0001,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Gibraltar,0.0,0.0001,-0.0001,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Greece,0.0021,0.0258,-0.0237,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Greenland,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Grenada,0.0,0.0001,-0.0001,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Guadeloupe,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Guam,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Guatemala,0.0,0.0006,-0.0006,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Haiti,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Honduras,0.0,0.0001,-0.0001,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Hong Kong,0.0,0.0015,-0.0015,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Hungary,0.0,0.0043,-0.0043,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Iceland,0.0,0.0051,-0.0051,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,India,0.0011,0.013,-0.0119,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Indonesia,0.0,0.0167,-0.0167,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Iraq,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Ireland,0.0,0.0145,-0.0145,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Isle of Man,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Israel,0.0,0.002,-0.002,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Italy,0.0021,0.06,-0.0579,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Jamaica,0.0,0.0004,-0.0004,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Japan,0.0,0.0233,-0.0233,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Jordan,0.0,0.0029,-0.0029,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Kazakhstan,0.0,0.0002,-0.0002,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Kenya,0.0,0.0008,-0.0008,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,"Korea, South",0.0,0.0038,-0.0038,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Kosovo,0.0,0.0002,-0.0002,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Kuwait,0.0,0.0002,-0.0002,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Kyrgyzstan,0.0,0.0003,-0.0003,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Laos,0.0,0.001,-0.001,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Latvia,0.0,0.0011,-0.0011,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Lebanon,0.0,0.0003,-0.0003,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Liechtenstein,0.0,0.0001,-0.0001,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Lithuania,0.0,0.0012,-0.0012,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Luxembourg,0.0,0.0006,-0.0006,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Macau,0.0,0.0002,-0.0002,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Macedonia,0.0,0.0009,-0.0009,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Madagascar,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Malawi,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Malaysia,0.0,0.0151,-0.0151,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Maldives,0.0,0.0006,-0.0006,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Malta,0.0,0.002,-0.002,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Mauritius,0.0,0.0004,-0.0004,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Mexico,0.0011,0.006,-0.0049,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Moldova,0.0,0.0001,-0.0001,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Monaco,0.0,0.0001,-0.0001,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Mongolia,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Montenegro,0.0,0.0019,-0.0019,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Morocco,0.0,0.0065,-0.0065,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Mozambique,0.0,0.0001,-0.0001,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Myanmar,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Namibia,0.0,0.0004,-0.0004,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Nepal,0.0,0.0008,-0.0008,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Netherlands,0.0,0.0086,-0.0086,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,New Caledonia,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,New Zealand,0.0011,0.0191,-0.0181,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Nicaragua,0.0,0.0003,-0.0003,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Nigeria,0.0,0.0001,-0.0001,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Norfolk Island,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Northern Cyprus,0.0,0.0003,-0.0003,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Norway,0.0011,0.0032,-0.0021,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Oman,0.0,0.0012,-0.0012,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Pakistan,0.0,0.0005,-0.0005,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Palau,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Palestine,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Panama,0.0,0.0011,-0.0011,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Papua New Guinea,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Paraguay,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Peru,0.0,0.0013,-0.0013,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Philippines,0.0,0.0064,-0.0064,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Poland,0.0,0.0083,-0.0083,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Portugal,0.0,0.0189,-0.0189,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Puerto Rico,0.0,0.0006,-0.0006,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Qatar,0.0,0.0012,-0.0012,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Reunion,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Romania,0.0,0.0035,-0.0035,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Rwanda,0.0,0.0001,-0.0001,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Saint Lucia,0.0,0.0001,-0.0001,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Saint Martin,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Saint Vincent and the Grenadines,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Samoa,0.0,0.0002,-0.0002,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,San Marino,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Sao Tome and Principe,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Saudi Arabia,0.0,0.0043,-0.0043,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Senegal,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Serbia,0.0011,0.0018,-0.0007,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Seychelles,0.0,0.0004,-0.0004,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Singapore,0.0,0.0031,-0.0031,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Slovakia,0.0,0.0014,-0.0014,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Slovenia,0.0,0.0032,-0.0032,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Solomon Islands,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,South Africa,0.0,0.0139,-0.0139,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Spain,0.0074,0.0419,-0.0345,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Sri Lanka,0.0,0.0051,-0.0051,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Suriname,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Swaziland,0.0,0.0001,-0.0001,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Sweden,0.0011,0.0047,-0.0037,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Switzerland,0.0011,0.0075,-0.0065,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Taiwan,0.0,0.0029,-0.0029,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Tajikistan,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Tanzania,0.0,0.0016,-0.0016,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Thailand,0.0,0.0196,-0.0196,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Togo,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Tonga,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Trinidad and Tobago,0.0,0.0001,-0.0001,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Tunisia,0.0,0.0004,-0.0004,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Turkey,0.0,0.0127,-0.0127,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Turks and Caicos Islands,0.0,0.0001,-0.0001,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,US,0.886,0.084,0.8019,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Uganda,0.0,0.0001,-0.0001,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Ukraine,0.0,0.0002,-0.0002,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,United Arab Emirates,0.0,0.008,-0.008,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,United Kingdom,0.0422,0.1768,-0.1346,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,United States of America,0.0285,0.1032,-0.0747,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Uruguay,0.0011,0.0002,0.0008,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Uzbekistan,0.0,0.0007,-0.0007,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Vanuatu,0.0,0.0001,-0.0001,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Venezuela,0.0,0.0,-0.0,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Vietnam,0.0,0.0127,-0.0127,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,"Virgin Islands, U.S.",0.0,0.0001,-0.0001,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Zambia,0.0,0.0002,-0.0002,4.3005,0.4024,8.3727,0.692
+category_vs_rest,pet,rest,country,Zimbabwe,0.0,0.0002,-0.0002,4.3005,0.4024,8.3727,0.692
+category_vs_rest,handicap,rest,country,Albania,0.0,0.0036,-0.0036,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Algeria,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Andorra,0.0,0.0003,-0.0003,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Angola,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Antigua and Barbuda,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Argentina,0.0,0.0011,-0.0011,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Armenia,0.0,0.0007,-0.0007,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Aruba,0.0,0.0002,-0.0002,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Australia,0.0066,0.0575,-0.0508,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Austria,0.0,0.0084,-0.0084,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Azerbaijan,0.0,0.0005,-0.0005,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Bahamas,0.0,0.0001,-0.0001,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Bahrain,0.0,0.0008,-0.0008,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Bangladesh,0.0,0.0001,-0.0001,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Barbados,0.0,0.0003,-0.0003,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Belgium,0.0017,0.0058,-0.0042,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Belize,0.0,0.0003,-0.0003,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Benin,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Bermuda,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Bhutan,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Bolivia,0.0,0.0005,-0.0005,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,"Bonaire, Saint Eustatius and Saba",0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Bosnia and Herzegovina,0.0,0.0012,-0.0012,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Botswana,0.0,0.0001,-0.0001,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Brazil,0.0,0.0012,-0.0012,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Brunei Darussalam,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Bulgaria,0.0,0.003,-0.003,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Burundi,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Cambodia,0.0,0.0024,-0.0024,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Canada,0.0033,0.0171,-0.0138,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Cape Verde,0.0,0.0001,-0.0001,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Cayman Islands,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Chile,0.0017,0.0012,0.0005,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,China,0.0,0.001,-0.001,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Colombia,0.0,0.0024,-0.0024,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Cook Islands,0.0,0.0002,-0.0002,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Costa Rica,0.0,0.0033,-0.0033,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Cote d'Ivoire,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Croatia,0.0017,0.008,-0.0063,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Curaçao,0.0,0.0001,-0.0001,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Cyprus,0.0,0.0031,-0.0031,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Czech Republic,0.0,0.0058,-0.0058,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Denmark,0.0,0.0028,-0.0028,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Djibouti,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Dominica,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Dominican Republic,0.0,0.0005,-0.0005,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Ecuador,0.0,0.0008,-0.0008,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Egypt,0.0033,0.006,-0.0027,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,El Salvador,0.0,0.0002,-0.0002,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Estonia,0.0,0.0018,-0.0018,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Ethiopia,0.0,0.0001,-0.0001,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Faroe Islands,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Fiji,0.0,0.0007,-0.0007,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Finland,0.0,0.0018,-0.0018,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,France,0.0,0.0288,-0.0288,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,French Polynesia,0.0,0.0002,-0.0002,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Gambia,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Georgia,0.0,0.0027,-0.0027,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Germany,0.0017,0.0208,-0.0191,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Ghana,0.0,0.0001,-0.0001,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Gibraltar,0.0,0.0001,-0.0001,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Greece,0.0017,0.0258,-0.0242,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Greenland,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Grenada,0.0,0.0001,-0.0001,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Guadeloupe,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Guam,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Guatemala,0.0,0.0006,-0.0006,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Haiti,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Honduras,0.0,0.0001,-0.0001,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Hong Kong,0.0,0.0015,-0.0015,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Hungary,0.0,0.0043,-0.0043,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Iceland,0.0,0.0051,-0.0051,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,India,0.0,0.013,-0.013,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Indonesia,0.0,0.0167,-0.0167,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Iraq,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Ireland,0.0,0.0145,-0.0145,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Isle of Man,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Israel,0.0,0.002,-0.002,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Italy,0.0,0.06,-0.06,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Jamaica,0.0,0.0004,-0.0004,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Japan,0.0017,0.0233,-0.0216,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Jordan,0.0,0.0029,-0.0029,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Kazakhstan,0.0,0.0002,-0.0002,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Kenya,0.0,0.0008,-0.0008,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,"Korea, South",0.0,0.0038,-0.0038,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Kosovo,0.0,0.0002,-0.0002,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Kuwait,0.0,0.0002,-0.0002,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Kyrgyzstan,0.0,0.0003,-0.0003,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Laos,0.0,0.001,-0.001,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Latvia,0.0,0.0011,-0.0011,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Lebanon,0.0,0.0003,-0.0003,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Liechtenstein,0.0,0.0001,-0.0001,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Lithuania,0.0,0.0012,-0.0012,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Luxembourg,0.0,0.0006,-0.0006,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Macau,0.0,0.0002,-0.0002,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Macedonia,0.0,0.0009,-0.0009,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Madagascar,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Malawi,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Malaysia,0.0033,0.0151,-0.0118,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Maldives,0.0,0.0006,-0.0006,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Malta,0.0,0.002,-0.002,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Mauritius,0.0,0.0004,-0.0004,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Mexico,0.0,0.006,-0.006,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Moldova,0.0,0.0001,-0.0001,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Monaco,0.0,0.0001,-0.0001,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Mongolia,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Montenegro,0.0,0.0019,-0.0019,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Morocco,0.0,0.0065,-0.0065,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Mozambique,0.0,0.0001,-0.0001,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Myanmar,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Namibia,0.0,0.0004,-0.0004,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Nepal,0.0,0.0008,-0.0008,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Netherlands,0.0,0.0086,-0.0086,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,New Caledonia,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,New Zealand,0.0,0.0191,-0.0191,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Nicaragua,0.0,0.0003,-0.0003,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Nigeria,0.0,0.0001,-0.0001,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Norfolk Island,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Northern Cyprus,0.0,0.0003,-0.0003,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Norway,0.0,0.0032,-0.0032,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Oman,0.0,0.0012,-0.0012,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Pakistan,0.0,0.0005,-0.0005,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Palau,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Palestine,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Panama,0.0,0.0011,-0.0011,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Papua New Guinea,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Paraguay,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Peru,0.0,0.0013,-0.0013,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Philippines,0.0,0.0064,-0.0064,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Poland,0.0,0.0083,-0.0083,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Portugal,0.0033,0.0189,-0.0155,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Puerto Rico,0.0,0.0006,-0.0006,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Qatar,0.0,0.0012,-0.0012,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Reunion,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Romania,0.0,0.0035,-0.0035,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Rwanda,0.0,0.0001,-0.0001,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Saint Lucia,0.0,0.0001,-0.0001,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Saint Martin,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Saint Vincent and the Grenadines,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Samoa,0.0,0.0002,-0.0002,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,San Marino,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Sao Tome and Principe,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Saudi Arabia,0.0,0.0043,-0.0043,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Senegal,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Serbia,0.0,0.0018,-0.0018,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Seychelles,0.0,0.0004,-0.0004,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Singapore,0.0,0.0031,-0.0031,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Slovakia,0.0,0.0014,-0.0014,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Slovenia,0.0,0.0032,-0.0032,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Solomon Islands,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,South Africa,0.0017,0.0139,-0.0123,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Spain,0.0133,0.0419,-0.0286,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Sri Lanka,0.0017,0.0051,-0.0034,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Suriname,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Swaziland,0.0,0.0001,-0.0001,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Sweden,0.0,0.0047,-0.0047,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Switzerland,0.0017,0.0075,-0.0059,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Taiwan,0.0017,0.0029,-0.0013,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Tajikistan,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Tanzania,0.0,0.0016,-0.0016,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Thailand,0.0017,0.0196,-0.0179,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Togo,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Tonga,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Trinidad and Tobago,0.0,0.0001,-0.0001,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Tunisia,0.0,0.0004,-0.0004,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Turkey,0.0,0.0127,-0.0127,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Turks and Caicos Islands,0.0,0.0001,-0.0001,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,US,0.8688,0.084,0.7847,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Uganda,0.0,0.0001,-0.0001,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Ukraine,0.0,0.0002,-0.0002,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,United Arab Emirates,0.0,0.008,-0.008,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,United Kingdom,0.0498,0.1768,-0.127,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,United States of America,0.0266,0.1032,-0.0767,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Uruguay,0.0,0.0002,-0.0002,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Uzbekistan,0.0,0.0007,-0.0007,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Vanuatu,0.0,0.0001,-0.0001,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Venezuela,0.0,0.0,-0.0,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Vietnam,0.0033,0.0127,-0.0093,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,"Virgin Islands, U.S.",0.0,0.0001,-0.0001,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Zambia,0.0,0.0002,-0.0002,4.3444,0.3864,8.0168,0.6789
+category_vs_rest,handicap,rest,country,Zimbabwe,0.0,0.0002,-0.0002,4.3444,0.3864,8.0168,0.6789
+category_vs_category,child,pet,country,Albania,0.0022,0.0,0.0022,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Australia,0.0124,0.0042,0.0081,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Austria,0.0011,0.0,0.0011,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Belgium,0.0022,0.0011,0.0012,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Bosnia and Herzegovina,0.0011,0.0,0.0011,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Bulgaria,0.0011,0.0021,-0.001,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Canada,0.0045,0.0074,-0.0029,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Cook Islands,0.0011,0.0,0.0011,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Costa Rica,0.0034,0.0,0.0034,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Czech Republic,0.0034,0.0,0.0034,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Finland,0.0011,0.0,0.0011,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,France,0.0079,0.0032,0.0047,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Georgia,0.0011,0.0,0.0011,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Germany,0.0011,0.0053,-0.0042,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Greece,0.0045,0.0021,0.0024,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Grenada,0.0011,0.0,0.0011,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Hong Kong,0.0011,0.0,0.0011,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Hungary,0.0011,0.0,0.0011,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,India,0.0079,0.0011,0.0068,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Indonesia,0.0056,0.0,0.0056,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Ireland,0.0011,0.0,0.0011,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Italy,0.009,0.0021,0.0069,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Japan,0.0079,0.0,0.0079,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Kuwait,0.0011,0.0,0.0011,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Malaysia,0.0067,0.0,0.0067,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Maldives,0.0011,0.0,0.0011,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Mexico,0.0022,0.0011,0.0012,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Morocco,0.0056,0.0,0.0056,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Netherlands,0.0034,0.0,0.0034,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,New Zealand,0.0067,0.0011,0.0057,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Nicaragua,0.0011,0.0,0.0011,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Norway,0.0,0.0011,-0.0011,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Philippines,0.0022,0.0,0.0022,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Poland,0.0034,0.0,0.0034,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Portugal,0.0022,0.0,0.0022,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Puerto Rico,0.0011,0.0,0.0011,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Romania,0.0011,0.0,0.0011,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Saudi Arabia,0.0022,0.0,0.0022,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Serbia,0.0,0.0011,-0.0011,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Singapore,0.0011,0.0,0.0011,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Slovenia,0.0011,0.0,0.0011,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,South Africa,0.0056,0.0,0.0056,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Spain,0.018,0.0074,0.0106,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Sweden,0.0022,0.0011,0.0012,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Switzerland,0.0011,0.0011,0.0001,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Taiwan,0.0011,0.0,0.0011,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Tanzania,0.0011,0.0,0.0011,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Thailand,0.0067,0.0,0.0067,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Tunisia,0.0011,0.0,0.0011,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Turkey,0.009,0.0,0.009,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,US,0.7483,0.886,-0.1376,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,United Arab Emirates,0.0045,0.0,0.0045,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,United Kingdom,0.036,0.0422,-0.0063,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,United States of America,0.036,0.0285,0.0074,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Uruguay,0.0011,0.0011,0.0001,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,pet,country,Vietnam,0.0022,0.0,0.0022,0.9154,0.0459,2215629.4938,0.248
+category_vs_category,child,handicap,country,Albania,0.0022,0.0,0.0022,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Australia,0.0124,0.0066,0.0057,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Austria,0.0011,0.0,0.0011,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Belgium,0.0022,0.0017,0.0006,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Bosnia and Herzegovina,0.0011,0.0,0.0011,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Bulgaria,0.0011,0.0,0.0011,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Canada,0.0045,0.0033,0.0012,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Chile,0.0,0.0017,-0.0017,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Cook Islands,0.0011,0.0,0.0011,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Costa Rica,0.0034,0.0,0.0034,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Croatia,0.0,0.0017,-0.0017,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Czech Republic,0.0034,0.0,0.0034,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Egypt,0.0,0.0033,-0.0033,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Finland,0.0011,0.0,0.0011,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,France,0.0079,0.0,0.0079,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Georgia,0.0011,0.0,0.0011,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Germany,0.0011,0.0017,-0.0005,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Greece,0.0045,0.0017,0.0028,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Grenada,0.0011,0.0,0.0011,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Hong Kong,0.0011,0.0,0.0011,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Hungary,0.0011,0.0,0.0011,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,India,0.0079,0.0,0.0079,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Indonesia,0.0056,0.0,0.0056,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Ireland,0.0011,0.0,0.0011,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Italy,0.009,0.0,0.009,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Japan,0.0079,0.0017,0.0062,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Kuwait,0.0011,0.0,0.0011,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Malaysia,0.0067,0.0033,0.0034,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Maldives,0.0011,0.0,0.0011,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Mexico,0.0022,0.0,0.0022,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Morocco,0.0056,0.0,0.0056,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Netherlands,0.0034,0.0,0.0034,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,New Zealand,0.0067,0.0,0.0067,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Nicaragua,0.0011,0.0,0.0011,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Philippines,0.0022,0.0,0.0022,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Poland,0.0034,0.0,0.0034,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Portugal,0.0022,0.0033,-0.0011,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Puerto Rico,0.0011,0.0,0.0011,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Romania,0.0011,0.0,0.0011,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Saudi Arabia,0.0022,0.0,0.0022,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Singapore,0.0011,0.0,0.0011,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Slovenia,0.0011,0.0,0.0011,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,South Africa,0.0056,0.0017,0.004,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Spain,0.018,0.0133,0.0047,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Sri Lanka,0.0,0.0017,-0.0017,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Sweden,0.0022,0.0,0.0022,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Switzerland,0.0011,0.0017,-0.0005,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Taiwan,0.0011,0.0017,-0.0005,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Tanzania,0.0011,0.0,0.0011,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Thailand,0.0067,0.0017,0.0051,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Tunisia,0.0011,0.0,0.0011,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Turkey,0.009,0.0,0.009,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,US,0.7483,0.8688,-0.1205,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,United Arab Emirates,0.0045,0.0,0.0045,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,United Kingdom,0.036,0.0498,-0.0139,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,United States of America,0.036,0.0266,0.0094,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Uruguay,0.0011,0.0,0.0011,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,child,handicap,country,Vietnam,0.0022,0.0033,-0.0011,1.0023,0.0459,2550183.1326,0.2512
+category_vs_category,pet,handicap,country,Australia,0.0042,0.0066,-0.0024,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,Belgium,0.0011,0.0017,-0.0006,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,Bulgaria,0.0021,0.0,0.0021,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,Canada,0.0074,0.0033,0.0041,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,Chile,0.0,0.0017,-0.0017,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,Croatia,0.0,0.0017,-0.0017,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,Egypt,0.0,0.0033,-0.0033,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,France,0.0032,0.0,0.0032,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,Germany,0.0053,0.0017,0.0036,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,Greece,0.0021,0.0017,0.0005,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,India,0.0011,0.0,0.0011,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,Italy,0.0021,0.0,0.0021,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,Japan,0.0,0.0017,-0.0017,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,Malaysia,0.0,0.0033,-0.0033,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,Mexico,0.0011,0.0,0.0011,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,New Zealand,0.0011,0.0,0.0011,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,Norway,0.0011,0.0,0.0011,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,Portugal,0.0,0.0033,-0.0033,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,Serbia,0.0011,0.0,0.0011,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,South Africa,0.0,0.0017,-0.0017,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,Spain,0.0074,0.0133,-0.0059,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,Sri Lanka,0.0,0.0017,-0.0017,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,Sweden,0.0011,0.0,0.0011,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,Switzerland,0.0011,0.0017,-0.0006,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,Taiwan,0.0,0.0017,-0.0017,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,Thailand,0.0,0.0017,-0.0017,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,US,0.886,0.8688,0.0172,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,United Kingdom,0.0422,0.0498,-0.0076,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,United States of America,0.0285,0.0266,0.0019,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,Uruguay,0.0011,0.0,0.0011,0.3417,0.0155,133807.799,0.147
+category_vs_category,pet,handicap,country,Vietnam,0.0,0.0033,-0.0033,0.3417,0.0155,133807.799,0.147

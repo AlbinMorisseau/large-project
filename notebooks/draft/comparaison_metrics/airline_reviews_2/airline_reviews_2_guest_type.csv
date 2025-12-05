@@ -1,0 +1,25 @@
+comparison_type,category,category2,feature,feature_value,proportion_cat1,proportion_cat2,difference,kl_divergence,js_divergence,chi_square_distance,hellinger_distance
+category_vs_rest,handicap,rest,Type of Traveller,Business,0.0513,0.1744,-0.1232,0.2424,0.0583,0.5658,0.2438
+category_vs_rest,handicap,rest,Type of Traveller,Couple Leisure,0.2308,0.2344,-0.0037,0.2424,0.0583,0.5658,0.2438
+category_vs_rest,handicap,rest,Type of Traveller,Family Leisure,0.4744,0.1915,0.2829,0.2424,0.0583,0.5658,0.2438
+category_vs_rest,handicap,rest,Type of Traveller,Solo Leisure,0.2436,0.3996,-0.156,0.2424,0.0583,0.5658,0.2438
+category_vs_rest,pet,rest,Type of Traveller,Business,0.25,0.1744,0.0756,0.0566,0.014,0.1032,0.1186
+category_vs_rest,pet,rest,Type of Traveller,Couple Leisure,0.125,0.2344,-0.1094,0.0566,0.014,0.1032,0.1186
+category_vs_rest,pet,rest,Type of Traveller,Family Leisure,0.25,0.1915,0.0585,0.0566,0.014,0.1032,0.1186
+category_vs_rest,pet,rest,Type of Traveller,Solo Leisure,0.375,0.3996,-0.0246,0.0566,0.014,0.1032,0.1186
+category_vs_rest,child,rest,Type of Traveller,Business,0.0263,0.1744,-0.1481,1.379,0.2941,3.3171,0.5626
+category_vs_rest,child,rest,Type of Traveller,Couple Leisure,0.0395,0.2344,-0.195,1.379,0.2941,3.3171,0.5626
+category_vs_rest,child,rest,Type of Traveller,Family Leisure,0.9079,0.1915,0.7164,1.379,0.2941,3.3171,0.5626
+category_vs_rest,child,rest,Type of Traveller,Solo Leisure,0.0263,0.3996,-0.3733,1.379,0.2941,3.3171,0.5626
+category_vs_category,handicap,pet,Type of Traveller,Business,0.0513,0.25,-0.1987,0.29,0.0684,0.4948,0.2652
+category_vs_category,handicap,pet,Type of Traveller,Couple Leisure,0.2308,0.125,0.1058,0.29,0.0684,0.4948,0.2652
+category_vs_category,handicap,pet,Type of Traveller,Family Leisure,0.4744,0.25,0.2244,0.29,0.0684,0.4948,0.2652
+category_vs_category,handicap,pet,Type of Traveller,Solo Leisure,0.2436,0.375,-0.1314,0.29,0.0684,0.4948,0.2652
+category_vs_category,handicap,child,Type of Traveller,Business,0.0513,0.0263,0.025,0.5597,0.1245,2.9517,0.3626
+category_vs_category,handicap,child,Type of Traveller,Couple Leisure,0.2308,0.0395,0.1913,0.5597,0.1245,2.9517,0.3626
+category_vs_category,handicap,child,Type of Traveller,Family Leisure,0.4744,0.9079,-0.4335,0.5597,0.1245,2.9517,0.3626
+category_vs_category,handicap,child,Type of Traveller,Solo Leisure,0.2436,0.0263,0.2173,0.5597,0.1245,2.9517,0.3626
+category_vs_category,pet,child,Type of Traveller,Business,0.25,0.0263,0.2237,1.1885,0.2538,7.1834,0.5224
+category_vs_category,pet,child,Type of Traveller,Couple Leisure,0.125,0.0395,0.0855,1.1885,0.2538,7.1834,0.5224
+category_vs_category,pet,child,Type of Traveller,Family Leisure,0.25,0.9079,-0.6579,1.1885,0.2538,7.1834,0.5224
+category_vs_category,pet,child,Type of Traveller,Solo Leisure,0.375,0.0263,0.3487,1.1885,0.2538,7.1834,0.5224
