@@ -1,0 +1,132 @@
+comparison_type,category,category2,feature,feature_value,proportion_cat1,proportion_cat2,difference,kl_divergence,js_divergence,chi_square_distance,hellinger_distance
+category_vs_rest,handicap,rest,accommodation_type,ApartHotel,0.0506,0.0475,0.0031,0.8031,0.0408,0.3525,0.2317
+category_vs_rest,handicap,rest,accommodation_type,Apartment,0.0633,0.079,-0.0158,0.8031,0.0408,0.3525,0.2317
+category_vs_rest,handicap,rest,accommodation_type,Bed and Breakfast,0.0253,0.0551,-0.0298,0.8031,0.0408,0.3525,0.2317
+category_vs_rest,handicap,rest,accommodation_type,Boat,0.0,0.0006,-0.0006,0.8031,0.0408,0.3525,0.2317
+category_vs_rest,handicap,rest,accommodation_type,Camping,0.0,0.0023,-0.0023,0.8031,0.0408,0.3525,0.2317
+category_vs_rest,handicap,rest,accommodation_type,Capsule Hotel,0.0,0.0018,-0.0018,0.8031,0.0408,0.3525,0.2317
+category_vs_rest,handicap,rest,accommodation_type,Chalet,0.0,0.0011,-0.0011,0.8031,0.0408,0.3525,0.2317
+category_vs_rest,handicap,rest,accommodation_type,Country house,0.0,0.003,-0.003,0.8031,0.0408,0.3525,0.2317
+category_vs_rest,handicap,rest,accommodation_type,Cruise,0.0,0.0001,-0.0001,0.8031,0.0408,0.3525,0.2317
+category_vs_rest,handicap,rest,accommodation_type,Farm stay,0.0,0.0023,-0.0023,0.8031,0.0408,0.3525,0.2317
+category_vs_rest,handicap,rest,accommodation_type,Guest house,0.038,0.0721,-0.0341,0.8031,0.0408,0.3525,0.2317
+category_vs_rest,handicap,rest,accommodation_type,Holiday Park,0.0,0.0051,-0.0051,0.8031,0.0408,0.3525,0.2317
+category_vs_rest,handicap,rest,accommodation_type,Holiday home,0.0127,0.0099,0.0028,0.8031,0.0408,0.3525,0.2317
+category_vs_rest,handicap,rest,accommodation_type,Homestay,0.0,0.0098,-0.0098,0.8031,0.0408,0.3525,0.2317
+category_vs_rest,handicap,rest,accommodation_type,Hostel,0.0,0.0376,-0.0376,0.8031,0.0408,0.3525,0.2317
+category_vs_rest,handicap,rest,accommodation_type,Hotel,0.6835,0.5664,0.1172,0.8031,0.0408,0.3525,0.2317
+category_vs_rest,handicap,rest,accommodation_type,Inn,0.0253,0.0205,0.0048,0.8031,0.0408,0.3525,0.2317
+category_vs_rest,handicap,rest,accommodation_type,Japanese-style Business Hotel,0.0,0.0,-0.0,0.8031,0.0408,0.3525,0.2317
+category_vs_rest,handicap,rest,accommodation_type,Lodge,0.0,0.0069,-0.0069,0.8031,0.0408,0.3525,0.2317
+category_vs_rest,handicap,rest,accommodation_type,Love Hotel,0.0,0.0,-0.0,0.8031,0.0408,0.3525,0.2317
+category_vs_rest,handicap,rest,accommodation_type,Motel,0.038,0.0335,0.0044,0.8031,0.0408,0.3525,0.2317
+category_vs_rest,handicap,rest,accommodation_type,Resort,0.0506,0.0349,0.0158,0.8031,0.0408,0.3525,0.2317
+category_vs_rest,handicap,rest,accommodation_type,Riad,0.0,0.0023,-0.0023,0.8031,0.0408,0.3525,0.2317
+category_vs_rest,handicap,rest,accommodation_type,Ryokan,0.0,0.0025,-0.0025,0.8031,0.0408,0.3525,0.2317
+category_vs_rest,handicap,rest,accommodation_type,Student accommodation,0.0127,0.0007,0.012,0.8031,0.0408,0.3525,0.2317
+category_vs_rest,handicap,rest,accommodation_type,Tented camp,0.0,0.0011,-0.0011,0.8031,0.0408,0.3525,0.2317
+category_vs_rest,handicap,rest,accommodation_type,Villa,0.0,0.0038,-0.0038,0.8031,0.0408,0.3525,0.2317
+category_vs_rest,pet,rest,accommodation_type,ApartHotel,0.0185,0.0475,-0.029,0.3608,0.0368,0.3092,0.2047
+category_vs_rest,pet,rest,accommodation_type,Apartment,0.0556,0.079,-0.0235,0.3608,0.0368,0.3092,0.2047
+category_vs_rest,pet,rest,accommodation_type,Bed and Breakfast,0.0556,0.0551,0.0004,0.3608,0.0368,0.3092,0.2047
+category_vs_rest,pet,rest,accommodation_type,Boat,0.0,0.0006,-0.0006,0.3608,0.0368,0.3092,0.2047
+category_vs_rest,pet,rest,accommodation_type,Camping,0.0,0.0023,-0.0023,0.3608,0.0368,0.3092,0.2047
+category_vs_rest,pet,rest,accommodation_type,Capsule Hotel,0.0,0.0018,-0.0018,0.3608,0.0368,0.3092,0.2047
+category_vs_rest,pet,rest,accommodation_type,Chalet,0.0,0.0011,-0.0011,0.3608,0.0368,0.3092,0.2047
+category_vs_rest,pet,rest,accommodation_type,Country house,0.0093,0.003,0.0063,0.3608,0.0368,0.3092,0.2047
+category_vs_rest,pet,rest,accommodation_type,Cruise,0.0,0.0001,-0.0001,0.3608,0.0368,0.3092,0.2047
+category_vs_rest,pet,rest,accommodation_type,Farm stay,0.0,0.0023,-0.0023,0.3608,0.0368,0.3092,0.2047
+category_vs_rest,pet,rest,accommodation_type,Guest house,0.0648,0.0721,-0.0073,0.3608,0.0368,0.3092,0.2047
+category_vs_rest,pet,rest,accommodation_type,Holiday Park,0.0093,0.0051,0.0042,0.3608,0.0368,0.3092,0.2047
+category_vs_rest,pet,rest,accommodation_type,Holiday home,0.0185,0.0099,0.0086,0.3608,0.0368,0.3092,0.2047
+category_vs_rest,pet,rest,accommodation_type,Homestay,0.0,0.0098,-0.0098,0.3608,0.0368,0.3092,0.2047
+category_vs_rest,pet,rest,accommodation_type,Hostel,0.0093,0.0376,-0.0284,0.3608,0.0368,0.3092,0.2047
+category_vs_rest,pet,rest,accommodation_type,Hotel,0.5926,0.5664,0.0262,0.3608,0.0368,0.3092,0.2047
+category_vs_rest,pet,rest,accommodation_type,Inn,0.0741,0.0205,0.0536,0.3608,0.0368,0.3092,0.2047
+category_vs_rest,pet,rest,accommodation_type,Japanese-style Business Hotel,0.0,0.0,-0.0,0.3608,0.0368,0.3092,0.2047
+category_vs_rest,pet,rest,accommodation_type,Lodge,0.0093,0.0069,0.0023,0.3608,0.0368,0.3092,0.2047
+category_vs_rest,pet,rest,accommodation_type,Love Hotel,0.0,0.0,-0.0,0.3608,0.0368,0.3092,0.2047
+category_vs_rest,pet,rest,accommodation_type,Motel,0.0741,0.0335,0.0405,0.3608,0.0368,0.3092,0.2047
+category_vs_rest,pet,rest,accommodation_type,Resort,0.0093,0.0349,-0.0256,0.3608,0.0368,0.3092,0.2047
+category_vs_rest,pet,rest,accommodation_type,Riad,0.0,0.0023,-0.0023,0.3608,0.0368,0.3092,0.2047
+category_vs_rest,pet,rest,accommodation_type,Ryokan,0.0,0.0025,-0.0025,0.3608,0.0368,0.3092,0.2047
+category_vs_rest,pet,rest,accommodation_type,Student accommodation,0.0,0.0007,-0.0007,0.3608,0.0368,0.3092,0.2047
+category_vs_rest,pet,rest,accommodation_type,Tented camp,0.0,0.0011,-0.0011,0.3608,0.0368,0.3092,0.2047
+category_vs_rest,pet,rest,accommodation_type,Villa,0.0,0.0038,-0.0038,0.3608,0.0368,0.3092,0.2047
+category_vs_rest,child,rest,accommodation_type,ApartHotel,0.058,0.0475,0.0105,0.2588,0.0404,0.3819,0.2088
+category_vs_rest,child,rest,accommodation_type,Apartment,0.1071,0.079,0.0281,0.2588,0.0404,0.3819,0.2088
+category_vs_rest,child,rest,accommodation_type,Bed and Breakfast,0.0312,0.0551,-0.0239,0.2588,0.0404,0.3819,0.2088
+category_vs_rest,child,rest,accommodation_type,Boat,0.0,0.0006,-0.0006,0.2588,0.0404,0.3819,0.2088
+category_vs_rest,child,rest,accommodation_type,Camping,0.0045,0.0023,0.0022,0.2588,0.0404,0.3819,0.2088
+category_vs_rest,child,rest,accommodation_type,Capsule Hotel,0.0,0.0018,-0.0018,0.2588,0.0404,0.3819,0.2088
+category_vs_rest,child,rest,accommodation_type,Chalet,0.0,0.0011,-0.0011,0.2588,0.0404,0.3819,0.2088
+category_vs_rest,child,rest,accommodation_type,Country house,0.0,0.003,-0.003,0.2588,0.0404,0.3819,0.2088
+category_vs_rest,child,rest,accommodation_type,Cruise,0.0,0.0001,-0.0001,0.2588,0.0404,0.3819,0.2088
+category_vs_rest,child,rest,accommodation_type,Farm stay,0.0089,0.0023,0.0066,0.2588,0.0404,0.3819,0.2088
+category_vs_rest,child,rest,accommodation_type,Guest house,0.0223,0.0721,-0.0498,0.2588,0.0404,0.3819,0.2088
+category_vs_rest,child,rest,accommodation_type,Holiday Park,0.0089,0.0051,0.0038,0.2588,0.0404,0.3819,0.2088
+category_vs_rest,child,rest,accommodation_type,Holiday home,0.0089,0.0099,-0.001,0.2588,0.0404,0.3819,0.2088
+category_vs_rest,child,rest,accommodation_type,Homestay,0.0045,0.0098,-0.0053,0.2588,0.0404,0.3819,0.2088
+category_vs_rest,child,rest,accommodation_type,Hostel,0.0045,0.0376,-0.0332,0.2588,0.0404,0.3819,0.2088
+category_vs_rest,child,rest,accommodation_type,Hotel,0.5357,0.5664,-0.0307,0.2588,0.0404,0.3819,0.2088
+category_vs_rest,child,rest,accommodation_type,Inn,0.0089,0.0205,-0.0116,0.2588,0.0404,0.3819,0.2088
+category_vs_rest,child,rest,accommodation_type,Japanese-style Business Hotel,0.0,0.0,-0.0,0.2588,0.0404,0.3819,0.2088
+category_vs_rest,child,rest,accommodation_type,Lodge,0.0045,0.0069,-0.0025,0.2588,0.0404,0.3819,0.2088
+category_vs_rest,child,rest,accommodation_type,Love Hotel,0.0,0.0,-0.0,0.2588,0.0404,0.3819,0.2088
+category_vs_rest,child,rest,accommodation_type,Motel,0.058,0.0335,0.0245,0.2588,0.0404,0.3819,0.2088
+category_vs_rest,child,rest,accommodation_type,Resort,0.1205,0.0349,0.0857,0.2588,0.0404,0.3819,0.2088
+category_vs_rest,child,rest,accommodation_type,Riad,0.0045,0.0023,0.0022,0.2588,0.0404,0.3819,0.2088
+category_vs_rest,child,rest,accommodation_type,Ryokan,0.0089,0.0025,0.0064,0.2588,0.0404,0.3819,0.2088
+category_vs_rest,child,rest,accommodation_type,Student accommodation,0.0,0.0007,-0.0007,0.2588,0.0404,0.3819,0.2088
+category_vs_rest,child,rest,accommodation_type,Tented camp,0.0,0.0011,-0.0011,0.2588,0.0404,0.3819,0.2088
+category_vs_rest,child,rest,accommodation_type,Villa,0.0,0.0038,-0.0038,0.2588,0.0404,0.3819,0.2088
+category_vs_category,handicap,pet,accommodation_type,ApartHotel,0.0506,0.0185,0.0321,0.5745,0.0449,801154.0313,0.2307
+category_vs_category,handicap,pet,accommodation_type,Apartment,0.0633,0.0556,0.0077,0.5745,0.0449,801154.0313,0.2307
+category_vs_category,handicap,pet,accommodation_type,Bed and Breakfast,0.0253,0.0556,-0.0302,0.5745,0.0449,801154.0313,0.2307
+category_vs_category,handicap,pet,accommodation_type,Country house,0.0,0.0093,-0.0093,0.5745,0.0449,801154.0313,0.2307
+category_vs_category,handicap,pet,accommodation_type,Guest house,0.038,0.0648,-0.0268,0.5745,0.0449,801154.0313,0.2307
+category_vs_category,handicap,pet,accommodation_type,Holiday Park,0.0,0.0093,-0.0093,0.5745,0.0449,801154.0313,0.2307
+category_vs_category,handicap,pet,accommodation_type,Holiday home,0.0127,0.0185,-0.0059,0.5745,0.0449,801154.0313,0.2307
+category_vs_category,handicap,pet,accommodation_type,Hostel,0.0,0.0093,-0.0093,0.5745,0.0449,801154.0313,0.2307
+category_vs_category,handicap,pet,accommodation_type,Hotel,0.6835,0.5926,0.091,0.5745,0.0449,801154.0313,0.2307
+category_vs_category,handicap,pet,accommodation_type,Inn,0.0253,0.0741,-0.0488,0.5745,0.0449,801154.0313,0.2307
+category_vs_category,handicap,pet,accommodation_type,Lodge,0.0,0.0093,-0.0093,0.5745,0.0449,801154.0313,0.2307
+category_vs_category,handicap,pet,accommodation_type,Motel,0.038,0.0741,-0.0361,0.5745,0.0449,801154.0313,0.2307
+category_vs_category,handicap,pet,accommodation_type,Resort,0.0506,0.0093,0.0414,0.5745,0.0449,801154.0313,0.2307
+category_vs_category,handicap,pet,accommodation_type,Student accommodation,0.0127,0.0,0.0127,0.5745,0.0449,801154.0313,0.2307
+category_vs_category,handicap,child,accommodation_type,ApartHotel,0.0506,0.058,-0.0074,0.6385,0.0407,801153.8591,0.2243
+category_vs_category,handicap,child,accommodation_type,Apartment,0.0633,0.1071,-0.0439,0.6385,0.0407,801153.8591,0.2243
+category_vs_category,handicap,child,accommodation_type,Bed and Breakfast,0.0253,0.0312,-0.0059,0.6385,0.0407,801153.8591,0.2243
+category_vs_category,handicap,child,accommodation_type,Camping,0.0,0.0045,-0.0045,0.6385,0.0407,801153.8591,0.2243
+category_vs_category,handicap,child,accommodation_type,Farm stay,0.0,0.0089,-0.0089,0.6385,0.0407,801153.8591,0.2243
+category_vs_category,handicap,child,accommodation_type,Guest house,0.038,0.0223,0.0157,0.6385,0.0407,801153.8591,0.2243
+category_vs_category,handicap,child,accommodation_type,Holiday Park,0.0,0.0089,-0.0089,0.6385,0.0407,801153.8591,0.2243
+category_vs_category,handicap,child,accommodation_type,Holiday home,0.0127,0.0089,0.0037,0.6385,0.0407,801153.8591,0.2243
+category_vs_category,handicap,child,accommodation_type,Homestay,0.0,0.0045,-0.0045,0.6385,0.0407,801153.8591,0.2243
+category_vs_category,handicap,child,accommodation_type,Hostel,0.0,0.0045,-0.0045,0.6385,0.0407,801153.8591,0.2243
+category_vs_category,handicap,child,accommodation_type,Hotel,0.6835,0.5357,0.1478,0.6385,0.0407,801153.8591,0.2243
+category_vs_category,handicap,child,accommodation_type,Inn,0.0253,0.0089,0.0164,0.6385,0.0407,801153.8591,0.2243
+category_vs_category,handicap,child,accommodation_type,Lodge,0.0,0.0045,-0.0045,0.6385,0.0407,801153.8591,0.2243
+category_vs_category,handicap,child,accommodation_type,Motel,0.038,0.058,-0.0201,0.6385,0.0407,801153.8591,0.2243
+category_vs_category,handicap,child,accommodation_type,Resort,0.0506,0.1205,-0.0699,0.6385,0.0407,801153.8591,0.2243
+category_vs_category,handicap,child,accommodation_type,Riad,0.0,0.0045,-0.0045,0.6385,0.0407,801153.8591,0.2243
+category_vs_category,handicap,child,accommodation_type,Ryokan,0.0,0.0089,-0.0089,0.6385,0.0407,801153.8591,0.2243
+category_vs_category,handicap,child,accommodation_type,Student accommodation,0.0127,0.0,0.0127,0.6385,0.0407,801153.8591,0.2243
+category_vs_category,pet,child,accommodation_type,ApartHotel,0.0185,0.058,-0.0395,0.659,0.0765,428670.2009,0.2957
+category_vs_category,pet,child,accommodation_type,Apartment,0.0556,0.1071,-0.0516,0.659,0.0765,428670.2009,0.2957
+category_vs_category,pet,child,accommodation_type,Bed and Breakfast,0.0556,0.0312,0.0243,0.659,0.0765,428670.2009,0.2957
+category_vs_category,pet,child,accommodation_type,Camping,0.0,0.0045,-0.0045,0.659,0.0765,428670.2009,0.2957
+category_vs_category,pet,child,accommodation_type,Country house,0.0093,0.0,0.0093,0.659,0.0765,428670.2009,0.2957
+category_vs_category,pet,child,accommodation_type,Farm stay,0.0,0.0089,-0.0089,0.659,0.0765,428670.2009,0.2957
+category_vs_category,pet,child,accommodation_type,Guest house,0.0648,0.0223,0.0425,0.659,0.0765,428670.2009,0.2957
+category_vs_category,pet,child,accommodation_type,Holiday Park,0.0093,0.0089,0.0003,0.659,0.0765,428670.2009,0.2957
+category_vs_category,pet,child,accommodation_type,Holiday home,0.0185,0.0089,0.0096,0.659,0.0765,428670.2009,0.2957
+category_vs_category,pet,child,accommodation_type,Homestay,0.0,0.0045,-0.0045,0.659,0.0765,428670.2009,0.2957
+category_vs_category,pet,child,accommodation_type,Hostel,0.0093,0.0045,0.0048,0.659,0.0765,428670.2009,0.2957
+category_vs_category,pet,child,accommodation_type,Hotel,0.5926,0.5357,0.0569,0.659,0.0765,428670.2009,0.2957
+category_vs_category,pet,child,accommodation_type,Inn,0.0741,0.0089,0.0651,0.659,0.0765,428670.2009,0.2957
+category_vs_category,pet,child,accommodation_type,Lodge,0.0093,0.0045,0.0048,0.659,0.0765,428670.2009,0.2957
+category_vs_category,pet,child,accommodation_type,Motel,0.0741,0.058,0.016,0.659,0.0765,428670.2009,0.2957
+category_vs_category,pet,child,accommodation_type,Resort,0.0093,0.1205,-0.1113,0.659,0.0765,428670.2009,0.2957
+category_vs_category,pet,child,accommodation_type,Riad,0.0,0.0045,-0.0045,0.659,0.0765,428670.2009,0.2957
+category_vs_category,pet,child,accommodation_type,Ryokan,0.0,0.0089,-0.0089,0.659,0.0765,428670.2009,0.2957

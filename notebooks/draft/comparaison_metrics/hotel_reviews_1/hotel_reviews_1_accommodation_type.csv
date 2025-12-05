@@ -1,0 +1,976 @@
+comparison_type,category,category2,feature,feature_value,proportion_cat1,proportion_cat2,difference,kl_divergence,js_divergence,chi_square_distance,hellinger_distance
+category_vs_rest,handicap,rest,categories_clean,,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Accommodation Reservations,0.0,0.0029,-0.0029,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Accommodations & Lodging,0.0,0.0061,-0.0061,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Air Sightseeing Tours,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,American Restaurant,0.0,0.0006,-0.0006,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,American Restaurants,0.0,0.0004,-0.0004,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Amusement Places & Arcades,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Apartment Finder & Rental Service,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Apartment Hotels,0.0383,0.0028,0.0355,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Apartment Operators,0.0,0.0003,-0.0003,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Apartments,0.0,0.0003,-0.0003,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Arcade,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Assisted Living & Elder Care Services,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Assisted Living Facilities,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Attorneys,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Attractions,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,B&bs / Inns,0.0,0.0015,-0.0015,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Banquet Facilities,0.0104,0.0052,0.0052,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Banquet Halls & Reception Facilities,0.0,0.0031,-0.0031,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Banquet Rooms,0.0104,0.0061,0.0044,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Bar,0.0,0.0026,-0.0026,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Bar & Grills,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Bars,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Bars & Clubs,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Bars & Pubs,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Beach Hotels,0.0574,0.006,0.0514,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Bed & Breakfast,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Bed & Breakfast & Inns,0.0,0.0057,-0.0057,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Bed & Breakfast Reservations,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Bed & Breakfasts,0.0,0.007,-0.007,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Bed & Breakfasts (b&b),0.0,0.0003,-0.0003,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Bed Breakfast Near North Valley,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Bed and Breakfast,0.0,0.0017,-0.0017,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Bernau Hotels,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Bicycle Tours,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Boutique Hotels,0.0,0.0028,-0.0028,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Bowling Alleys,0.0,0.0022,-0.0022,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Breakfast Spot,0.0,0.0006,-0.0006,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Brew Pubs,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Budget Hotels,0.0765,0.0178,0.0587,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Burwell,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Burwell Hotels and Motels,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Business Hotels,0.0696,0.0149,0.0547,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Cabin Cottage & Chalet Rental,0.0,0.0023,-0.0023,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Cabins,0.0,0.0024,-0.0024,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Cabins & Chalets,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Cabins Cottages & Chalet Rental,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,California (ca),0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Campgrounds,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Campgrounds & Recreational Vehicle Parks,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Camps-Recreational,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Casinos,0.007,0.0058,0.0011,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Caterers,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Catering,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Clare,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Cocktail Lounges,0.0,0.0003,-0.0003,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Coffeehouses,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Colorado (co),0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Community Organizations,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Condominium & Townhouse Rental & Leasing,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Condominium Management,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Condominium Operators,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Condominiums,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Condominiums and Townhouses,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Conference & Convention Centers,0.0,0.0008,-0.0008,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Conference Centers,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Conference Room,0.0,0.0048,-0.0048,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Convention & Meeting Facilities & Services,0.0,0.0088,-0.0088,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Convention Center,0.0,0.0006,-0.0006,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Convention Services & Facilities,0.0,0.0003,-0.0003,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Convention Visitors & Information Centers,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Convention and Meeting Facilities and Services,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Conventions,0.0,0.0008,-0.0008,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Conventions Conferences & Trade Shows,0.0,0.0066,-0.0066,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Corporate Housing,0.0,0.0003,-0.0003,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Corporate Lodging,0.0,0.0065,-0.0065,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Cottages,0.0,0.0008,-0.0008,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Cottages & Cabins,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Cruise Lines & Agents,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Disabled & Elderly Home Health Care,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Dixfield,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Driving Ranges,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,E-Commerce,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Educational Services,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Eufaula,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Eufaula Hotels and Motels,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Executive Suites,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Extended Stay,0.0383,0.006,0.0323,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Extended Stay Hotels,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Family Style Restaurants,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Family-Friendly Hotels,0.0696,0.0163,0.0532,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Family-friendly Hotels,0.0,0.0008,-0.0008,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Flooring Materials & Supplies,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Food & Entertainment,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Foods,0.0,0.0007,-0.0007,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Gastronomic specialties,0.0,0.0007,-0.0007,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,General Contractors,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Geriatric Care Nursing Homes,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Gift Shops,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Golf Courses,0.0,0.0003,-0.0003,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Golf Courses - Private,0.0,0.0022,-0.0022,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Government Contractors,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Grill Restaurants,0.0,0.0009,-0.0009,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Guide Service,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Halls & Auditoriums,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Halls Auditoriums & Ballrooms,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Hanukkah Events,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Health Spas,0.0,0.0007,-0.0007,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Historical Sites,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Home Builders,0.0,0.0022,-0.0022,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Homes & Residential Real Estate,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Homes-Institutional & Aged,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Honeymoon Resorts,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Hostel,0.0,0.0021,-0.0021,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Hotel,0.0243,0.0991,-0.0747,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Hotel & Motel Consultants,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Hotel & Motel Management,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Hotel & Motel Reservations,0.0,0.0023,-0.0023,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Hotel Colorado Springs Airport,0.0,0.0003,-0.0003,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Hotel Downtown St. Cloud,0.0,0.0016,-0.0016,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Hotel Pool,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Hotel and Bed Breakfast Prudential - St. Botolph,0.0,0.0003,-0.0003,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Hotel and Brewery,0.0,0.0003,-0.0003,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Hotel and Meeting Room,0.0,0.0008,-0.0008,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Hotel and Motel,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Hotel and Resort,0.0,0.0007,-0.0007,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Hotels,0.1304,0.4394,-0.309,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Hotels & Motels,0.1078,0.0657,0.0421,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Hotels And Motels,0.0,0.0006,-0.0006,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Hotels Motels,0.0104,0.0054,0.005,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Hotels and Lodging,0.0,0.0018,-0.0018,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Hotels and Motels,0.0,0.0006,-0.0006,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Hotels-Apartment,0.0,0.0005,-0.0005,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Inns,0.0,0.0014,-0.0014,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Intermediate Care Nursing Homes,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Ironwood,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Italian Restaurants,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Lodges,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Lodges In,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Lodging,0.0939,0.0426,0.0513,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Luxury Hotels,0.0,0.0015,-0.0015,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,ME,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,MI,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,MT,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Marinas,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Marketing Consultants,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Meat,0.0,0.0013,-0.0013,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Mediation Services,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Mediterranean Restaurants,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Meeting & Event Planning Services,0.0,0.0012,-0.0012,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Meeting Facilities,0.0191,0.0051,0.014,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Meeting Room,0.0,0.0025,-0.0025,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Mexican,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Motel,0.0,0.0003,-0.0003,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Motel and Hotel,0.0,0.0005,-0.0005,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Motels,0.0174,0.0287,-0.0113,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Nature Centers,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Night Clubs,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Nursing & Convalescent Homes,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Nursing & Personal Care Facilities,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Nursing Homes,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,O'fallon Hotels,0.0,0.0006,-0.0006,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Party & Event Planners,0.0,0.0022,-0.0022,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Party Planning Service,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Picnic Grounds,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Pizza Place,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Places Of Interest,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Private Golf Courses,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Public Golf Courses,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Pubs,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,RV Parks,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Rail Tours,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Railroads,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Raton,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Raton Hotels and Motels,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Real Estate Agents,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Real Estate Buyer Brokers,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Real Estate Developers,0.0,0.0022,-0.0022,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Real Estate Management,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Real Estate Rental Service,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Real Estate Rentals,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Reception Centers,0.0,0.0016,-0.0016,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Rental Services,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Resort,0.0,0.0013,-0.0013,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Resortresort_hotel,0.0,0.0022,-0.0022,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Resorts,0.0191,0.0149,0.0042,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Resorts & Vacation Cottages,0.0,0.0049,-0.0049,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Resorts Reservations,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Rest Homes,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Restaurant,0.0,0.0007,-0.0007,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Restaurants,0.0,0.0044,-0.0044,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Retirement Apartments & Hotels,0.0017,0.0001,0.0016,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Retirement Communities,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Retirement Homes,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Retreat Houses,0.0,0.0003,-0.0003,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Sioux City,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Ski Apparel,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Ski Resorts,0.0,0.0003,-0.0003,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Spa,0.0,0.0007,-0.0007,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Spa Resorts,0.0,0.0003,-0.0003,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Spas,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Student Housing & Services,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Swimming Pools,0.0,0.0009,-0.0009,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Taverns,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Tourist Homes,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Tourist Hotels,0.0696,0.0145,0.0551,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Tourist Information & Attractions,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Tours,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Tours & Charters,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Trade Shows Expositions & Fairs,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Travel,0.0383,0.0045,0.0337,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Travel & Leisure,0.0,0.0009,-0.0009,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Travel & Lodging,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Travel & Transport,0.0104,0.0062,0.0043,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Travel Agencies,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Travel Agency,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Travel Agents,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Travel Tours & Guide Services,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Travel and Tourism,0.0,0.0045,-0.0045,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Truck Stops & Plazas,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Uncategorized,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Vacation Home Rental,0.0,0.0025,-0.0025,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Vacation Homes Rentals & Sales,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Vacation Packages,0.0,0.0012,-0.0012,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Vacation Rentals,0.0,0.0004,-0.0004,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Villas,0.0,0.0008,-0.0008,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Water Parks & Slides,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Watsonville,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Watsonville Hotels,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Wedding Chapels,0.0,0.0022,-0.0022,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Wedding Chapels & Ceremonies,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Wedding Guest Accommodations,0.0,0.0003,-0.0003,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Wedding Guests,0.0,0.0003,-0.0003,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Wedding Planners,0.0,0.0002,-0.0002,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Wedding Reception Locations,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Wedding Reception Locations & Services,0.0,0.001,-0.001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Wedding Receptions & Parties,0.0,0.0077,-0.0077,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Wedding Sites,0.0191,0.0058,0.0133,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Wedding Workouts,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Weekend Getaway Hotels,0.0574,0.0084,0.049,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Whiskey Bars,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Wholesale Copiers,0.0,0.0006,-0.0006,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Willows,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Willows Hotels,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Wine Bar,0.0,0.0006,-0.0006,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Wine Bars,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,Wine Country Hotels,0.0,0.0011,-0.0011,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,and Hotel Bar,0.0,0.0026,-0.0026,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,and Meeting Room,0.0,0.0011,-0.0011,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,and Meeting Room Downtown Houston,0.0,0.0005,-0.0005,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,and Meeting Room Park 100,0.0,0.0003,-0.0003,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,and Meeting Room South Eugene,0.0,0.0011,-0.0011,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,bar drinks,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,cakes desserts,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,dallas,0.0,0.0003,-0.0003,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,dallas hotels,0.0,0.0003,-0.0003,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,food catering,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,fun hotels in seattle,0.0,0.0031,-0.0031,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,hotel,0.0035,0.0039,-0.0004,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,hotels,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,hotels & motels,0.0,0.0003,-0.0003,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,lodging house,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,operation,0.0,0.0003,-0.0003,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,precooked and gourmet,0.0,0.0007,-0.0007,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,preserved,0.0,0.0007,-0.0007,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,professional,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,resort,0.0,0.0001,-0.0001,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,restaurants,0.0,0.0007,-0.0007,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,ski & snowboard areas,0.0,0.0003,-0.0003,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,solrjson:\\Ennis,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,solrjson:\\Illinois,0.0,0.0,-0.0,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,texas (tx),0.0,0.0003,-0.0003,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,travel,0.0,0.0007,-0.0007,2.157,0.215,3.0312,0.4994
+category_vs_rest,handicap,rest,categories_clean,united states,0.0,0.0003,-0.0003,2.157,0.215,3.0312,0.4994
+category_vs_rest,pet,rest,categories_clean,,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Accommodation Reservations,0.0,0.0029,-0.0029,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Accommodations & Lodging,0.0036,0.0061,-0.0025,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Air Sightseeing Tours,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,American Restaurant,0.0,0.0006,-0.0006,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,American Restaurants,0.0,0.0004,-0.0004,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Amusement Places & Arcades,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Apartment Finder & Rental Service,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Apartment Hotels,0.0538,0.0028,0.0511,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Apartment Operators,0.0,0.0003,-0.0003,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Apartments,0.0,0.0003,-0.0003,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Arcade,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Assisted Living & Elder Care Services,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Assisted Living Facilities,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Attorneys,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Attractions,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,B&bs / Inns,0.0,0.0015,-0.0015,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Banquet Facilities,0.0,0.0052,-0.0052,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Banquet Halls & Reception Facilities,0.0,0.0031,-0.0031,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Banquet Rooms,0.0,0.0061,-0.0061,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Bar,0.0,0.0026,-0.0026,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Bar & Grills,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Bars,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Bars & Clubs,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Bars & Pubs,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Beach Hotels,0.0538,0.006,0.0478,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Bed & Breakfast,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Bed & Breakfast & Inns,0.0085,0.0057,0.0028,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Bed & Breakfast Reservations,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Bed & Breakfasts,0.0272,0.007,0.0203,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Bed & Breakfasts (b&b),0.0,0.0003,-0.0003,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Bed Breakfast Near North Valley,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Bed and Breakfast,0.0,0.0017,-0.0017,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Bernau Hotels,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Bicycle Tours,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Boutique Hotels,0.0272,0.0028,0.0244,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Bowling Alleys,0.0,0.0022,-0.0022,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Breakfast Spot,0.0,0.0006,-0.0006,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Brew Pubs,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Budget Hotels,0.058,0.0178,0.0402,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Burwell,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Burwell Hotels and Motels,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Business Hotels,0.058,0.0149,0.0432,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Cabin Cottage & Chalet Rental,0.0,0.0023,-0.0023,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Cabins,0.0,0.0024,-0.0024,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Cabins & Chalets,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Cabins Cottages & Chalet Rental,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,California (ca),0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Campgrounds,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Campgrounds & Recreational Vehicle Parks,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Camps-Recreational,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Casinos,0.0,0.0058,-0.0058,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Caterers,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Catering,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Clare,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Cocktail Lounges,0.0,0.0003,-0.0003,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Coffeehouses,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Colorado (co),0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Community Organizations,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Condominium & Townhouse Rental & Leasing,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Condominium Management,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Condominium Operators,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Condominiums,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Condominiums and Townhouses,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Conference & Convention Centers,0.0,0.0008,-0.0008,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Conference Centers,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Conference Room,0.0,0.0048,-0.0048,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Convention & Meeting Facilities & Services,0.0018,0.0088,-0.007,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Convention Center,0.0,0.0006,-0.0006,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Convention Services & Facilities,0.0,0.0003,-0.0003,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Convention Visitors & Information Centers,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Convention and Meeting Facilities and Services,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Conventions,0.0,0.0008,-0.0008,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Conventions Conferences & Trade Shows,0.0,0.0066,-0.0066,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Corporate Housing,0.0,0.0003,-0.0003,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Corporate Lodging,0.0,0.0065,-0.0065,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Cottages,0.0,0.0008,-0.0008,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Cottages & Cabins,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Cruise Lines & Agents,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Disabled & Elderly Home Health Care,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Dixfield,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Driving Ranges,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,E-Commerce,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Educational Services,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Eufaula,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Eufaula Hotels and Motels,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Executive Suites,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Extended Stay,0.0538,0.006,0.0478,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Extended Stay Hotels,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Family Style Restaurants,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Family-Friendly Hotels,0.058,0.0163,0.0417,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Family-friendly Hotels,0.0,0.0008,-0.0008,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Flooring Materials & Supplies,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Food & Entertainment,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Foods,0.0,0.0007,-0.0007,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Gastronomic specialties,0.0,0.0007,-0.0007,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,General Contractors,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Geriatric Care Nursing Homes,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Gift Shops,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Golf Courses,0.0,0.0003,-0.0003,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Golf Courses - Private,0.0,0.0022,-0.0022,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Government Contractors,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Grill Restaurants,0.0,0.0009,-0.0009,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Guide Service,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Halls & Auditoriums,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Halls Auditoriums & Ballrooms,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Hanukkah Events,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Health Spas,0.0,0.0007,-0.0007,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Historical Sites,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Home Builders,0.0,0.0022,-0.0022,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Homes & Residential Real Estate,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Homes-Institutional & Aged,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Honeymoon Resorts,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Hostel,0.0,0.0021,-0.0021,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Hotel,0.0405,0.0991,-0.0586,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Hotel & Motel Consultants,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Hotel & Motel Management,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Hotel & Motel Reservations,0.0,0.0023,-0.0023,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Hotel Colorado Springs Airport,0.0,0.0003,-0.0003,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Hotel Downtown St. Cloud,0.0,0.0016,-0.0016,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Hotel Pool,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Hotel and Bed Breakfast Prudential - St. Botolph,0.0,0.0003,-0.0003,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Hotel and Brewery,0.0,0.0003,-0.0003,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Hotel and Meeting Room,0.0,0.0008,-0.0008,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Hotel and Motel,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Hotel and Resort,0.0,0.0007,-0.0007,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Hotels,0.0979,0.4394,-0.3415,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Hotels & Motels,0.0822,0.0657,0.0165,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Hotels And Motels,0.0018,0.0006,0.0012,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Hotels Motels,0.0,0.0054,-0.0054,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Hotels and Lodging,0.0,0.0018,-0.0018,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Hotels and Motels,0.0,0.0006,-0.0006,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Hotels-Apartment,0.0,0.0005,-0.0005,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Inns,0.0036,0.0014,0.0022,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Intermediate Care Nursing Homes,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Ironwood,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Italian Restaurants,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Lodges,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Lodges In,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Lodging,0.0919,0.0426,0.0493,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Luxury Hotels,0.0,0.0015,-0.0015,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,ME,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,MI,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,MT,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Marinas,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Marketing Consultants,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Meat,0.0,0.0013,-0.0013,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Mediation Services,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Mediterranean Restaurants,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Meeting & Event Planning Services,0.0,0.0012,-0.0012,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Meeting Facilities,0.0,0.0051,-0.0051,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Meeting Room,0.0,0.0025,-0.0025,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Mexican,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Motel,0.0,0.0003,-0.0003,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Motel and Hotel,0.0,0.0005,-0.0005,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Motels,0.032,0.0287,0.0033,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Nature Centers,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Night Clubs,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Nursing & Convalescent Homes,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Nursing & Personal Care Facilities,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Nursing Homes,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,O'fallon Hotels,0.0,0.0006,-0.0006,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Party & Event Planners,0.0,0.0022,-0.0022,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Party Planning Service,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Picnic Grounds,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Pizza Place,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Places Of Interest,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Private Golf Courses,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Public Golf Courses,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Pubs,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,RV Parks,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Rail Tours,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Railroads,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Raton,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Raton Hotels and Motels,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Real Estate Agents,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Real Estate Buyer Brokers,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Real Estate Developers,0.0,0.0022,-0.0022,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Real Estate Management,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Real Estate Rental Service,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Real Estate Rentals,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Reception Centers,0.0,0.0016,-0.0016,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Rental Services,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Resort,0.0,0.0013,-0.0013,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Resortresort_hotel,0.0,0.0022,-0.0022,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Resorts,0.0,0.0149,-0.0149,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Resorts & Vacation Cottages,0.0036,0.0049,-0.0012,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Resorts Reservations,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Rest Homes,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Restaurant,0.0,0.0007,-0.0007,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Restaurants,0.0,0.0044,-0.0044,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Retirement Apartments & Hotels,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Retirement Communities,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Retirement Homes,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Retreat Houses,0.0,0.0003,-0.0003,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Sioux City,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Ski Apparel,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Ski Resorts,0.0,0.0003,-0.0003,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Spa,0.0,0.0007,-0.0007,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Spa Resorts,0.0,0.0003,-0.0003,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Spas,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Student Housing & Services,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Swimming Pools,0.0127,0.0009,0.0118,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Taverns,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Tourist Homes,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Tourist Hotels,0.058,0.0145,0.0436,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Tourist Information & Attractions,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Tours,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Tours & Charters,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Trade Shows Expositions & Fairs,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Travel,0.0538,0.0045,0.0493,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Travel & Leisure,0.0,0.0009,-0.0009,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Travel & Lodging,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Travel & Transport,0.0,0.0062,-0.0062,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Travel Agencies,0.0042,0.0001,0.0041,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Travel Agency,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Travel Agents,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Travel Tours & Guide Services,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Travel and Tourism,0.0127,0.0045,0.0082,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Truck Stops & Plazas,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Uncategorized,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Vacation Home Rental,0.0,0.0025,-0.0025,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Vacation Homes Rentals & Sales,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Vacation Packages,0.0036,0.0012,0.0025,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Vacation Rentals,0.0,0.0004,-0.0004,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Villas,0.0,0.0008,-0.0008,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Water Parks & Slides,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Watsonville,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Watsonville Hotels,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Wedding Chapels,0.0,0.0022,-0.0022,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Wedding Chapels & Ceremonies,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Wedding Guest Accommodations,0.0,0.0003,-0.0003,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Wedding Guests,0.0,0.0003,-0.0003,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Wedding Planners,0.0,0.0002,-0.0002,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Wedding Reception Locations,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Wedding Reception Locations & Services,0.0,0.001,-0.001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Wedding Receptions & Parties,0.0018,0.0077,-0.0059,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Wedding Sites,0.0,0.0058,-0.0058,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Wedding Workouts,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Weekend Getaway Hotels,0.0538,0.0084,0.0454,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Whiskey Bars,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Wholesale Copiers,0.0,0.0006,-0.0006,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Willows,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Willows Hotels,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Wine Bar,0.0,0.0006,-0.0006,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Wine Bars,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,Wine Country Hotels,0.0272,0.0011,0.0261,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,and Hotel Bar,0.0,0.0026,-0.0026,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,and Meeting Room,0.0,0.0011,-0.0011,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,and Meeting Room Downtown Houston,0.0,0.0005,-0.0005,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,and Meeting Room Park 100,0.0,0.0003,-0.0003,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,and Meeting Room South Eugene,0.0,0.0011,-0.0011,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,bar drinks,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,cakes desserts,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,dallas,0.0036,0.0003,0.0034,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,dallas hotels,0.0036,0.0003,0.0034,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,food catering,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,fun hotels in seattle,0.0,0.0031,-0.0031,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,hotel,0.0,0.0039,-0.0039,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,hotels,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,hotels & motels,0.0,0.0003,-0.0003,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,lodging house,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,operation,0.0,0.0003,-0.0003,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,precooked and gourmet,0.0,0.0007,-0.0007,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,preserved,0.0,0.0007,-0.0007,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,professional,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,resort,0.0,0.0001,-0.0001,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,restaurants,0.0,0.0007,-0.0007,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,ski & snowboard areas,0.0,0.0003,-0.0003,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,solrjson:\\Ennis,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,solrjson:\\Illinois,0.0,0.0,-0.0,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,texas (tx),0.0036,0.0003,0.0034,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,travel,0.0,0.0007,-0.0007,2.3637,0.244,4.8363,0.5327
+category_vs_rest,pet,rest,categories_clean,united states,0.0036,0.0003,0.0034,2.3637,0.244,4.8363,0.5327
+category_vs_rest,child,rest,categories_clean,,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Accommodation Reservations,0.0034,0.0029,0.0005,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Accommodations & Lodging,0.0034,0.0061,-0.0027,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Air Sightseeing Tours,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,American Restaurant,0.0,0.0006,-0.0006,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,American Restaurants,0.0,0.0004,-0.0004,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Amusement Places & Arcades,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Apartment Finder & Rental Service,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Apartment Hotels,0.0176,0.0028,0.0148,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Apartment Operators,0.0,0.0003,-0.0003,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Apartments,0.0,0.0003,-0.0003,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Arcade,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Assisted Living & Elder Care Services,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Assisted Living Facilities,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Attorneys,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Attractions,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,B&bs / Inns,0.0,0.0015,-0.0015,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Banquet Facilities,0.0034,0.0052,-0.0018,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Banquet Halls & Reception Facilities,0.0189,0.0031,0.0158,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Banquet Rooms,0.0,0.0061,-0.0061,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Bar,0.0,0.0026,-0.0026,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Bar & Grills,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Bars,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Bars & Clubs,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Bars & Pubs,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Beach Hotels,0.0344,0.006,0.0284,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Bed & Breakfast,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Bed & Breakfast & Inns,0.0027,0.0057,-0.003,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Bed & Breakfast Reservations,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Bed & Breakfasts,0.0115,0.007,0.0045,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Bed & Breakfasts (b&b),0.0,0.0003,-0.0003,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Bed Breakfast Near North Valley,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Bed and Breakfast,0.0,0.0017,-0.0017,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Bernau Hotels,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Bicycle Tours,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Boutique Hotels,0.0101,0.0028,0.0073,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Bowling Alleys,0.0176,0.0022,0.0154,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Breakfast Spot,0.0,0.0006,-0.0006,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Brew Pubs,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Budget Hotels,0.0405,0.0178,0.0227,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Burwell,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Burwell Hotels and Motels,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Business Hotels,0.0419,0.0149,0.027,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Cabin Cottage & Chalet Rental,0.0176,0.0023,0.0152,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Cabins,0.0176,0.0024,0.0152,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Cabins & Chalets,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Cabins Cottages & Chalet Rental,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,California (ca),0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Campgrounds,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Campgrounds & Recreational Vehicle Parks,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Camps-Recreational,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Casinos,0.0,0.0058,-0.0058,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Caterers,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Catering,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Clare,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Cocktail Lounges,0.0,0.0003,-0.0003,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Coffeehouses,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Colorado (co),0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Community Organizations,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Condominium & Townhouse Rental & Leasing,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Condominium Management,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Condominium Operators,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Condominiums,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Condominiums and Townhouses,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Conference & Convention Centers,0.0,0.0008,-0.0008,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Conference Centers,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Conference Room,0.0,0.0048,-0.0048,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Convention & Meeting Facilities & Services,0.0061,0.0088,-0.0027,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Convention Center,0.0,0.0006,-0.0006,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Convention Services & Facilities,0.0,0.0003,-0.0003,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Convention Visitors & Information Centers,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Convention and Meeting Facilities and Services,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Conventions,0.0,0.0008,-0.0008,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Conventions Conferences & Trade Shows,0.0027,0.0066,-0.0039,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Corporate Housing,0.0,0.0003,-0.0003,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Corporate Lodging,0.0142,0.0065,0.0077,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Cottages,0.0108,0.0008,0.01,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Cottages & Cabins,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Cruise Lines & Agents,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Disabled & Elderly Home Health Care,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Dixfield,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Driving Ranges,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,E-Commerce,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Educational Services,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Eufaula,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Eufaula Hotels and Motels,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Executive Suites,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Extended Stay,0.0236,0.006,0.0177,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Extended Stay Hotels,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Family Style Restaurants,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Family-Friendly Hotels,0.0419,0.0163,0.0255,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Family-friendly Hotels,0.0,0.0008,-0.0008,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Flooring Materials & Supplies,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Food & Entertainment,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Foods,0.0,0.0007,-0.0007,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Gastronomic specialties,0.0,0.0007,-0.0007,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,General Contractors,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Geriatric Care Nursing Homes,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Gift Shops,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Golf Courses,0.0,0.0003,-0.0003,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Golf Courses - Private,0.0,0.0022,-0.0022,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Government Contractors,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Grill Restaurants,0.0,0.0009,-0.0009,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Guide Service,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Halls & Auditoriums,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Halls Auditoriums & Ballrooms,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Hanukkah Events,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Health Spas,0.0,0.0007,-0.0007,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Historical Sites,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Home Builders,0.0176,0.0022,0.0154,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Homes & Residential Real Estate,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Homes-Institutional & Aged,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Honeymoon Resorts,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Hostel,0.0,0.0021,-0.0021,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Hotel,0.0473,0.0991,-0.0518,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Hotel & Motel Consultants,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Hotel & Motel Management,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Hotel & Motel Reservations,0.0,0.0023,-0.0023,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Hotel Colorado Springs Airport,0.0,0.0003,-0.0003,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Hotel Downtown St. Cloud,0.0014,0.0016,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Hotel Pool,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Hotel and Bed Breakfast Prudential - St. Botolph,0.0,0.0003,-0.0003,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Hotel and Brewery,0.0,0.0003,-0.0003,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Hotel and Meeting Room,0.0034,0.0008,0.0026,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Hotel and Motel,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Hotel and Resort,0.0,0.0007,-0.0007,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Hotels,0.1337,0.4394,-0.3057,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Hotels & Motels,0.0783,0.0657,0.0126,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Hotels And Motels,0.0027,0.0006,0.0021,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Hotels Motels,0.0,0.0054,-0.0054,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Hotels and Lodging,0.0,0.0018,-0.0018,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Hotels and Motels,0.0,0.0006,-0.0006,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Hotels-Apartment,0.0,0.0005,-0.0005,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Inns,0.0,0.0014,-0.0014,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Intermediate Care Nursing Homes,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Ironwood,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Italian Restaurants,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Lodges,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Lodges In,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Lodging,0.0587,0.0426,0.0161,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Luxury Hotels,0.0108,0.0015,0.0093,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,ME,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,MI,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,MT,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Marinas,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Marketing Consultants,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Meat,0.0,0.0013,-0.0013,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Mediation Services,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Mediterranean Restaurants,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Meeting & Event Planning Services,0.0,0.0012,-0.0012,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Meeting Facilities,0.0027,0.0051,-0.0024,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Meeting Room,0.0,0.0025,-0.0025,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Mexican,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Motel,0.0,0.0003,-0.0003,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Motel and Hotel,0.0,0.0005,-0.0005,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Motels,0.0209,0.0287,-0.0078,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Nature Centers,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Night Clubs,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Nursing & Convalescent Homes,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Nursing & Personal Care Facilities,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Nursing Homes,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,O'fallon Hotels,0.0,0.0006,-0.0006,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Party & Event Planners,0.0081,0.0022,0.0059,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Party Planning Service,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Picnic Grounds,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Pizza Place,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Places Of Interest,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Private Golf Courses,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Public Golf Courses,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Pubs,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,RV Parks,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Rail Tours,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Railroads,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Raton,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Raton Hotels and Motels,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Real Estate Agents,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Real Estate Buyer Brokers,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Real Estate Developers,0.0176,0.0022,0.0154,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Real Estate Management,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Real Estate Rental Service,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Real Estate Rentals,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Reception Centers,0.0,0.0016,-0.0016,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Rental Services,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Resort,0.0,0.0013,-0.0013,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Resortresort_hotel,0.0176,0.0022,0.0154,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Resorts,0.0412,0.0149,0.0263,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Resorts & Vacation Cottages,0.0176,0.0049,0.0127,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Resorts Reservations,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Rest Homes,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Restaurant,0.0,0.0007,-0.0007,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Restaurants,0.0,0.0044,-0.0044,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Retirement Apartments & Hotels,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Retirement Communities,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Retirement Homes,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Retreat Houses,0.0,0.0003,-0.0003,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Sioux City,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Ski Apparel,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Ski Resorts,0.0,0.0003,-0.0003,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Spa,0.0,0.0007,-0.0007,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Spa Resorts,0.0,0.0003,-0.0003,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Spas,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Student Housing & Services,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Swimming Pools,0.0,0.0009,-0.0009,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Taverns,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Tourist Homes,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Tourist Hotels,0.0385,0.0145,0.024,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Tourist Information & Attractions,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Tours,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Tours & Charters,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Trade Shows Expositions & Fairs,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Travel,0.0176,0.0045,0.013,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Travel & Leisure,0.0,0.0009,-0.0009,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Travel & Lodging,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Travel & Transport,0.0081,0.0062,0.0019,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Travel Agencies,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Travel Agency,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Travel Agents,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Travel Tours & Guide Services,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Travel and Tourism,0.0014,0.0045,-0.0031,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Truck Stops & Plazas,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Uncategorized,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Vacation Home Rental,0.0176,0.0025,0.015,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Vacation Homes Rentals & Sales,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Vacation Packages,0.0,0.0012,-0.0012,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Vacation Rentals,0.0,0.0004,-0.0004,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Villas,0.0,0.0008,-0.0008,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Water Parks & Slides,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Watsonville,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Watsonville Hotels,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Wedding Chapels,0.0176,0.0022,0.0154,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Wedding Chapels & Ceremonies,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Wedding Guest Accommodations,0.0,0.0003,-0.0003,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Wedding Guests,0.0,0.0003,-0.0003,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Wedding Planners,0.0,0.0002,-0.0002,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Wedding Reception Locations,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Wedding Reception Locations & Services,0.0108,0.001,0.0098,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Wedding Receptions & Parties,0.0027,0.0077,-0.005,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Wedding Sites,0.0027,0.0058,-0.0031,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Wedding Workouts,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Weekend Getaway Hotels,0.0378,0.0084,0.0294,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Whiskey Bars,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Wholesale Copiers,0.0,0.0006,-0.0006,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Willows,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Willows Hotels,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Wine Bar,0.0,0.0006,-0.0006,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Wine Bars,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,Wine Country Hotels,0.0101,0.0011,0.009,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,and Hotel Bar,0.0,0.0026,-0.0026,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,and Meeting Room,0.0,0.0011,-0.0011,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,and Meeting Room Downtown Houston,0.0,0.0005,-0.0005,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,and Meeting Room Park 100,0.0,0.0003,-0.0003,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,and Meeting Room South Eugene,0.0,0.0011,-0.0011,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,bar drinks,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,cakes desserts,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,dallas,0.0041,0.0003,0.0038,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,dallas hotels,0.0041,0.0003,0.0038,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,food catering,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,fun hotels in seattle,0.0,0.0031,-0.0031,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,hotel,0.0,0.0039,-0.0039,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,hotels,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,hotels & motels,0.0,0.0003,-0.0003,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,lodging house,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,operation,0.0,0.0003,-0.0003,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,precooked and gourmet,0.0,0.0007,-0.0007,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,preserved,0.0,0.0007,-0.0007,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,professional,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,resort,0.0,0.0001,-0.0001,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,restaurants,0.0,0.0007,-0.0007,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,ski & snowboard areas,0.0,0.0003,-0.0003,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,solrjson:\\Ennis,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,solrjson:\\Illinois,0.0,0.0,-0.0,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,texas (tx),0.0041,0.0003,0.0038,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,travel,0.0,0.0007,-0.0007,1.4153,0.1682,2.5496,0.4358
+category_vs_rest,child,rest,categories_clean,united states,0.0041,0.0003,0.0038,1.4153,0.1682,2.5496,0.4358
+category_vs_category,handicap,pet,categories_clean,Accommodations & Lodging,0.0,0.0036,-0.0036,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Apartment Hotels,0.0383,0.0538,-0.0155,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Banquet Facilities,0.0104,0.0,0.0104,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Banquet Rooms,0.0104,0.0,0.0104,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Beach Hotels,0.0574,0.0538,0.0036,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Bed & Breakfast & Inns,0.0,0.0085,-0.0085,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Bed & Breakfasts,0.0,0.0272,-0.0272,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Boutique Hotels,0.0,0.0272,-0.0272,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Budget Hotels,0.0765,0.058,0.0185,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Business Hotels,0.0696,0.058,0.0115,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Casinos,0.007,0.0,0.007,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Convention & Meeting Facilities & Services,0.0,0.0018,-0.0018,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Extended Stay,0.0383,0.0538,-0.0155,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Family-Friendly Hotels,0.0696,0.058,0.0115,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Hotel,0.0243,0.0405,-0.0162,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Hotels,0.1304,0.0979,0.0325,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Hotels & Motels,0.1078,0.0822,0.0256,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Hotels And Motels,0.0,0.0018,-0.0018,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Hotels Motels,0.0104,0.0,0.0104,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Inns,0.0,0.0036,-0.0036,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Lodging,0.0939,0.0919,0.002,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Meeting Facilities,0.0191,0.0,0.0191,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Motels,0.0174,0.032,-0.0147,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Resorts,0.0191,0.0,0.0191,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Resorts & Vacation Cottages,0.0,0.0036,-0.0036,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Retirement Apartments & Hotels,0.0017,0.0,0.0017,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Swimming Pools,0.0,0.0127,-0.0127,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Tourist Hotels,0.0696,0.058,0.0115,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Travel,0.0383,0.0538,-0.0155,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Travel & Transport,0.0104,0.0,0.0104,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Travel Agencies,0.0,0.0042,-0.0042,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Travel and Tourism,0.0,0.0127,-0.0127,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Vacation Packages,0.0,0.0036,-0.0036,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Wedding Receptions & Parties,0.0,0.0018,-0.0018,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Wedding Sites,0.0191,0.0,0.0191,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Weekend Getaway Hotels,0.0574,0.0538,0.0036,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,Wine Country Hotels,0.0,0.0272,-0.0272,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,dallas,0.0,0.0036,-0.0036,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,dallas hotels,0.0,0.0036,-0.0036,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,hotel,0.0035,0.0,0.0035,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,texas (tx),0.0,0.0036,-0.0036,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,pet,categories_clean,united states,0.0,0.0036,-0.0036,2.5126,0.0996,7984877.2892,0.3746
+category_vs_category,handicap,child,categories_clean,Accommodation Reservations,0.0,0.0034,-0.0034,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Accommodations & Lodging,0.0,0.0034,-0.0034,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Apartment Hotels,0.0383,0.0176,0.0207,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Banquet Facilities,0.0104,0.0034,0.0071,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Banquet Halls & Reception Facilities,0.0,0.0189,-0.0189,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Banquet Rooms,0.0104,0.0,0.0104,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Beach Hotels,0.0574,0.0344,0.023,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Bed & Breakfast & Inns,0.0,0.0027,-0.0027,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Bed & Breakfasts,0.0,0.0115,-0.0115,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Boutique Hotels,0.0,0.0101,-0.0101,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Bowling Alleys,0.0,0.0176,-0.0176,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Budget Hotels,0.0765,0.0405,0.036,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Business Hotels,0.0696,0.0419,0.0277,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Cabin Cottage & Chalet Rental,0.0,0.0176,-0.0176,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Cabins,0.0,0.0176,-0.0176,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Casinos,0.007,0.0,0.007,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Convention & Meeting Facilities & Services,0.0,0.0061,-0.0061,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Conventions Conferences & Trade Shows,0.0,0.0027,-0.0027,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Corporate Lodging,0.0,0.0142,-0.0142,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Cottages,0.0,0.0108,-0.0108,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Extended Stay,0.0383,0.0236,0.0146,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Family-Friendly Hotels,0.0696,0.0419,0.0277,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Home Builders,0.0,0.0176,-0.0176,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Hotel,0.0243,0.0473,-0.0229,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Hotel Downtown St. Cloud,0.0,0.0014,-0.0014,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Hotel and Meeting Room,0.0,0.0034,-0.0034,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Hotels,0.1304,0.1337,-0.0033,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Hotels & Motels,0.1078,0.0783,0.0295,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Hotels And Motels,0.0,0.0027,-0.0027,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Hotels Motels,0.0104,0.0,0.0104,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Lodging,0.0939,0.0587,0.0352,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Luxury Hotels,0.0,0.0108,-0.0108,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Meeting Facilities,0.0191,0.0027,0.0164,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Motels,0.0174,0.0209,-0.0035,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Party & Event Planners,0.0,0.0081,-0.0081,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Real Estate Developers,0.0,0.0176,-0.0176,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Resortresort_hotel,0.0,0.0176,-0.0176,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Resorts,0.0191,0.0412,-0.0221,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Resorts & Vacation Cottages,0.0,0.0176,-0.0176,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Retirement Apartments & Hotels,0.0017,0.0,0.0017,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Tourist Hotels,0.0696,0.0385,0.0311,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Travel,0.0383,0.0176,0.0207,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Travel & Transport,0.0104,0.0081,0.0023,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Travel and Tourism,0.0,0.0014,-0.0014,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Vacation Home Rental,0.0,0.0176,-0.0176,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Wedding Chapels,0.0,0.0176,-0.0176,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Wedding Reception Locations & Services,0.0,0.0108,-0.0108,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Wedding Receptions & Parties,0.0,0.0027,-0.0027,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Wedding Sites,0.0191,0.0027,0.0164,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Weekend Getaway Hotels,0.0574,0.0378,0.0196,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,Wine Country Hotels,0.0,0.0101,-0.0101,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,dallas,0.0,0.0041,-0.0041,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,dallas hotels,0.0,0.0041,-0.0041,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,hotel,0.0035,0.0,0.0035,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,texas (tx),0.0,0.0041,-0.0041,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,handicap,child,categories_clean,united states,0.0,0.0041,-0.0041,3.3088,0.1497,1406427.9668,0.4504
+category_vs_category,pet,child,categories_clean,Accommodation Reservations,0.0,0.0034,-0.0034,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Accommodations & Lodging,0.0036,0.0034,0.0003,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Apartment Hotels,0.0538,0.0176,0.0363,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Banquet Facilities,0.0,0.0034,-0.0034,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Banquet Halls & Reception Facilities,0.0,0.0189,-0.0189,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Beach Hotels,0.0538,0.0344,0.0194,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Bed & Breakfast & Inns,0.0085,0.0027,0.0058,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Bed & Breakfasts,0.0272,0.0115,0.0157,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Boutique Hotels,0.0272,0.0101,0.0171,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Bowling Alleys,0.0,0.0176,-0.0176,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Budget Hotels,0.058,0.0405,0.0175,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Business Hotels,0.058,0.0419,0.0162,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Cabin Cottage & Chalet Rental,0.0,0.0176,-0.0176,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Cabins,0.0,0.0176,-0.0176,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Convention & Meeting Facilities & Services,0.0018,0.0061,-0.0043,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Conventions Conferences & Trade Shows,0.0,0.0027,-0.0027,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Corporate Lodging,0.0,0.0142,-0.0142,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Cottages,0.0,0.0108,-0.0108,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Extended Stay,0.0538,0.0236,0.0302,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Family-Friendly Hotels,0.058,0.0419,0.0162,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Home Builders,0.0,0.0176,-0.0176,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Hotel,0.0405,0.0473,-0.0068,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Hotel Downtown St. Cloud,0.0,0.0014,-0.0014,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Hotel and Meeting Room,0.0,0.0034,-0.0034,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Hotels,0.0979,0.1337,-0.0357,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Hotels & Motels,0.0822,0.0783,0.0039,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Hotels And Motels,0.0018,0.0027,-0.0009,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Inns,0.0036,0.0,0.0036,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Lodging,0.0919,0.0587,0.0332,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Luxury Hotels,0.0,0.0108,-0.0108,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Meeting Facilities,0.0,0.0027,-0.0027,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Motels,0.032,0.0209,0.0111,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Party & Event Planners,0.0,0.0081,-0.0081,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Real Estate Developers,0.0,0.0176,-0.0176,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Resortresort_hotel,0.0,0.0176,-0.0176,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Resorts,0.0,0.0412,-0.0412,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Resorts & Vacation Cottages,0.0036,0.0176,-0.0139,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Swimming Pools,0.0127,0.0,0.0127,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Tourist Hotels,0.058,0.0385,0.0196,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Travel,0.0538,0.0176,0.0363,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Travel & Transport,0.0,0.0081,-0.0081,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Travel Agencies,0.0042,0.0,0.0042,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Travel and Tourism,0.0127,0.0014,0.0113,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Vacation Home Rental,0.0,0.0176,-0.0176,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Vacation Packages,0.0036,0.0,0.0036,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Wedding Chapels,0.0,0.0176,-0.0176,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Wedding Reception Locations & Services,0.0,0.0108,-0.0108,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Wedding Receptions & Parties,0.0018,0.0027,-0.0009,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Wedding Sites,0.0,0.0027,-0.0027,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Weekend Getaway Hotels,0.0538,0.0378,0.016,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,Wine Country Hotels,0.0272,0.0101,0.0171,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,dallas,0.0036,0.0041,-0.0004,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,dallas hotels,0.0036,0.0041,-0.0004,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,texas (tx),0.0036,0.0041,-0.0004,3.0313,0.1403,1027154.1507,0.4338
+category_vs_category,pet,child,categories_clean,united states,0.0036,0.0041,-0.0004,3.0313,0.1403,1027154.1507,0.4338

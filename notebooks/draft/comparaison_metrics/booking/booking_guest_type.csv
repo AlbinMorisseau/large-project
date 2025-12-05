@@ -1,0 +1,25 @@
+comparison_type,category,category2,feature,feature_value,proportion_cat1,proportion_cat2,difference,kl_divergence,js_divergence,chi_square_distance,hellinger_distance
+category_vs_rest,handicap,rest,guest_type,Couple,0.4557,0.4298,0.0259,0.041,0.0102,0.0751,0.1011
+category_vs_rest,handicap,rest,guest_type,Family with children,0.3544,0.2652,0.0893,0.041,0.0102,0.0751,0.1011
+category_vs_rest,handicap,rest,guest_type,Solo traveller,0.1139,0.1822,-0.0683,0.041,0.0102,0.0751,0.1011
+category_vs_rest,handicap,rest,guest_type,Group,0.0759,0.1229,-0.0469,0.041,0.0102,0.0751,0.1011
+category_vs_rest,pet,rest,guest_type,Couple,0.5833,0.4298,0.1536,0.1282,0.0308,0.1859,0.1773
+category_vs_rest,pet,rest,guest_type,Family with children,0.3056,0.2652,0.0404,0.1282,0.0308,0.1859,0.1773
+category_vs_rest,pet,rest,guest_type,Solo traveller,0.0556,0.1822,-0.1266,0.1282,0.0308,0.1859,0.1773
+category_vs_rest,pet,rest,guest_type,Group,0.0556,0.1229,-0.0673,0.1282,0.0308,0.1859,0.1773
+category_vs_rest,child,rest,guest_type,Couple,0.0536,0.4298,-0.3762,1.0542,0.2264,1.9771,0.4926
+category_vs_rest,child,rest,guest_type,Family with children,0.8839,0.2652,0.6188,1.0542,0.2264,1.9771,0.4926
+category_vs_rest,child,rest,guest_type,Group,0.0536,0.1229,-0.0693,1.0542,0.2264,1.9771,0.4926
+category_vs_rest,child,rest,guest_type,Solo traveller,0.0089,0.1822,-0.1733,1.0542,0.2264,1.9771,0.4926
+category_vs_category,handicap,pet,guest_type,Couple,0.4557,0.5833,-0.1276,0.0435,0.0108,0.1046,0.104
+category_vs_category,handicap,pet,guest_type,Family with children,0.3544,0.3056,0.0489,0.0435,0.0108,0.1046,0.104
+category_vs_category,handicap,pet,guest_type,Solo traveller,0.1139,0.0556,0.0584,0.0435,0.0108,0.1046,0.104
+category_vs_category,handicap,pet,guest_type,Group,0.0759,0.0556,0.0204,0.0435,0.0108,0.1046,0.104
+category_vs_category,handicap,child,guest_type,Couple,0.4557,0.0536,0.4021,0.81,0.1769,4.5797,0.434
+category_vs_category,handicap,child,guest_type,Family with children,0.3544,0.8839,-0.5295,0.81,0.1769,4.5797,0.434
+category_vs_category,handicap,child,guest_type,Group,0.0759,0.0536,0.0224,0.81,0.1769,4.5797,0.434
+category_vs_category,handicap,child,guest_type,Solo traveller,0.1139,0.0089,0.105,0.81,0.1769,4.5797,0.434
+category_vs_category,pet,child,guest_type,Couple,0.5833,0.0536,0.5298,0.9823,0.2116,5.8608,0.4761
+category_vs_category,pet,child,guest_type,Family with children,0.3056,0.8839,-0.5784,0.9823,0.2116,5.8608,0.4761
+category_vs_category,pet,child,guest_type,Group,0.0556,0.0536,0.002,0.9823,0.2116,5.8608,0.4761
+category_vs_category,pet,child,guest_type,Solo traveller,0.0556,0.0089,0.0466,0.9823,0.2116,5.8608,0.4761
